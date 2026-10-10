@@ -29,5 +29,8 @@
   "clipboard_copy": "pass",
   "prompt_panel": "pass",
   "observed_failed_image_loads": [],
-  "public_deployment_validation": "pending"
+  "public_deployment_validation": "pass",
+  "public_url": "https://glohub-bk.github.io/itbaeng9-office-drama/",
+  "public_http_status": 200,
+  "public_mobile_horizontal_overflow": 0
 }

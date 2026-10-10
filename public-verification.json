@@ -1,0 +1,15 @@
+{
+  "selected_and_identity_image_urls": 93,
+  "all_image_urls_http_status": 200,
+  "failed": [],
+  "site_url": "https://glohub-bk.github.io/itbaeng9-office-drama/",
+  "site_http_status": 200,
+  "release_download_http_status": 200,
+  "mobile_viewport": [
+    390,
+    844
+  ],
+  "mobile_horizontal_overflow": 0,
+  "rendered_shots": 30,
+  "video_generated": 0
+}
