@@ -1,0 +1,20 @@
+{
+  "revision": "04",
+  "static_checks": "pass",
+  "selected_png_images_verified": 90,
+  "legacy_identity_images_verified": 3,
+  "broken_links": [],
+  "duplicate_ids": [],
+  "shot_count": 30,
+  "scene_count": 12,
+  "planned_seconds": 300,
+  "dialogue_timing": "within each planned ten-second shot; actual speech untested",
+  "js_syntax": "pass",
+  "zip_crc": "pass",
+  "zip_png_count": 93,
+  "video_generated": 0,
+  "new_image_resolution_counts": {
+    "941x1672": 38
+  },
+  "browser": "see browser-verification.json when present"
+}

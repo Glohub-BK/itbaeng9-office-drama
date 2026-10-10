@@ -1,0 +1,9 @@
+{
+  "repository": "Glohub-BK/itbaeng9-office-drama",
+  "site_url": "https://glohub-bk.github.io/itbaeng9-office-drama/",
+  "release_tag": "v0.4.0",
+  "release_download": "https://github.com/Glohub-BK/itbaeng9-office-drama/releases/download/v0.4.0/episode-01-seoyun-kit.zip",
+  "source_revision": "04",
+  "publish_source": "main branch root",
+  "auto_updates": "GitHub Pages republishes main branch commits"
+}

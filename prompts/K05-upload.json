@@ -1,0 +1,43 @@
+{
+  "shot": "K05",
+  "duration_seconds": 10,
+  "aspect_ratio": "9:16",
+  "visible_cast": [
+    "S"
+  ],
+  "offscreen_cast": [],
+  "references": [
+    {
+      "path": "assets/identity/sujeong-master.png",
+      "role": "authoritative facial identity: Sujeong",
+      "role_ko": "수정이 얼굴 원본"
+    },
+    {
+      "path": "assets/wardrobe/W01.png",
+      "role": "clothing and hair only: Sujeong",
+      "role_ko": "수정이 복장·헤어 W01"
+    },
+    {
+      "path": "assets/backgrounds/B04.png",
+      "role": "room topology and lighting",
+      "role_ko": "배경·공간·조명"
+    },
+    {
+      "path": "assets/keyframes/K05-start-gaze.png",
+      "role": "exact initial composition",
+      "role_ko": "같은 쇼트 시작 구도"
+    },
+    {
+      "path": "assets/keyframes/K05-end.png",
+      "role": "target final composition",
+      "role_ko": "같은 쇼트 끝 구도"
+    }
+  ],
+  "reference_count": 5,
+  "voice_refs": [],
+  "submitted": false,
+  "provider_mode": "planned start/end image-conditioned video; current input limits must be verified",
+  "requires_current_cost_check": true,
+  "gaze_target_ko": "의자·키보드·모니터",
+  "priority_if_provider_limits_references": "Start/end frames first; use additional identity/wardrobe references only when supported. Do not imply that all listed images can be uploaded to every provider."
+}

@@ -1,0 +1,1538 @@
+[
+  {
+    "id": "W01",
+    "group": "wardrobe",
+    "title": "수정이 · 첫날 H라인",
+    "mode": "identity-preserve",
+    "references": [
+      "assets/identity/sujeong-master.png"
+    ],
+    "output": "assets/wardrobe/W01.png",
+    "prompt": "Use case: identity-preserve. A single photorealistic full-length summer wardrobe reference for a Korean office drama. Input image 1 is the exact facial identity and body-proportions reference ONLY, not the desired old clothing. Preserve the exact adult person, face, dark hair, age, skin, and original naturally curvy body proportions; do not flatten the bust, slim the body, or redesign her face. Head to soles entirely visible in a relaxed standing pose, front three-quarter view, plain warm-gray studio backdrop, soft natural light. A believable polished career professional in humid Korean summer. Breathable opaque fabrics fitted to the existing body with natural bust and waist contours, tasteful attractive feminine styling and confident gentle expression. No oversized or baggy silhouette. No heavy layering, cardigan, turtleneck, coat, trousers for Sujeong, exposed lingerie, sheer fabric, gaping buttons, or exaggerated anatomical alteration. No text, watermark, collage, or extra people. Portrait 9:16, request 1152x2048. Ivory fitted short-sleeve fine-knit top with a modest square neckline, naturally following her full bust and defined waist without artificial enlargement, high-waisted light taupe H-line pencil skirt ending a few centimeters above the knees with a small back walking slit, ivory flat ballet shoes with maximum 1cm sole, simple black leather shoulder tote on her right shoulder, small plain neutral work ID card on a thin lanyard with no readable text. No necklace, earrings, jacket or cardigan. Outfit is opaque, comfortable and office appropriate.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "W02",
+    "group": "wardrobe",
+    "title": "수정이 · 다음 날 A라인",
+    "mode": "identity-preserve",
+    "references": [
+      "assets/identity/sujeong-master.png"
+    ],
+    "output": "assets/wardrobe/W02.png",
+    "prompt": "Use case: identity-preserve. A single photorealistic full-length summer wardrobe reference for a Korean office drama. Input image 1 is the exact facial identity and body-proportions reference ONLY, not the desired old clothing. Preserve the exact adult person, face, dark hair, age, skin, and original naturally curvy body proportions; do not flatten the bust, slim the body, or redesign her face. Head to soles entirely visible in a relaxed standing pose, front three-quarter view, plain warm-gray studio backdrop, soft natural light. A believable polished career professional in humid Korean summer. Breathable opaque fabrics fitted to the existing body with natural bust and waist contours, tasteful attractive feminine styling and confident gentle expression. No oversized or baggy silhouette. No heavy layering, cardigan, turtleneck, coat, trousers for Sujeong, exposed lingerie, sheer fabric, gaping buttons, or exaggerated anatomical alteration. No text, watermark, collage, or extra people. Portrait 9:16, request 1152x2048. Pale powder-blue fitted sleeveless blouse with a modest open collar and stable closed front, naturally shaped over her full bust without compression, high-waisted navy softly flared A-line skirt ending just above knees, ivory flat ballet shoes, the same style of black shoulder tote and thin plain work ID lanyard. No layering, trousers, jewelry or extra accessories. Opaque breathable summer professional fabrics.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "W03",
+    "group": "wardrobe",
+    "title": "수정이 · 여름 비교 코디",
+    "mode": "identity-preserve",
+    "references": [
+      "assets/identity/sujeong-master.png"
+    ],
+    "output": "assets/wardrobe/W03.png",
+    "prompt": "Use case: identity-preserve. A single photorealistic full-length summer wardrobe reference for a Korean office drama. Input image 1 is the exact facial identity and body-proportions reference ONLY, not the desired old clothing. Preserve the exact adult person, face, dark hair, age, skin, and original naturally curvy body proportions; do not flatten the bust, slim the body, or redesign her face. Head to soles entirely visible in a relaxed standing pose, front three-quarter view, plain warm-gray studio backdrop, soft natural light. A believable polished career professional in humid Korean summer. Breathable opaque fabrics fitted to the existing body with natural bust and waist contours, tasteful attractive feminine styling and confident gentle expression. No oversized or baggy silhouette. No heavy layering, cardigan, turtleneck, coat, trousers for Sujeong, exposed lingerie, sheer fabric, gaping buttons, or exaggerated anatomical alteration. No text, watermark, collage, or extra people. Portrait 9:16, request 1152x2048. Soft sage fitted cap-sleeve summer top with a modest softly curved neckline and shaped waist, gently following the original full bust, high-waisted ivory A-line skirt ending just above the knee, slim understated belt, ivory flat ballet shoes, no tote or lanyard for this standalone wardrobe comparison. Opaque fabric, no cardigan or outerwear. This is a comparison look, not another outfit change within the same day.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "W04",
+    "group": "wardrobe",
+    "title": "윤준서 · 여름 선배룩",
+    "mode": "identity-preserve",
+    "references": [
+      "assets/identity/junseo-master.png"
+    ],
+    "output": "assets/wardrobe/W04.png",
+    "prompt": "Use case: identity-preserve. A single photorealistic full-length summer wardrobe reference for a Korean office drama. Input image 1 is the exact facial identity and body-proportions reference ONLY, not the desired old clothing. Preserve the exact adult person, face, dark hair, age, skin, and original naturally curvy body proportions; do not flatten the bust, slim the body, or redesign her face. Head to soles entirely visible in a relaxed standing pose, front three-quarter view, plain warm-gray studio backdrop, soft natural light. A believable polished career professional in humid Korean summer. Breathable opaque fabrics fitted to the existing body with natural bust and waist contours, tasteful attractive feminine styling and confident gentle expression. No oversized or baggy silhouette. No heavy layering, cardigan, turtleneck, coat, trousers for Sujeong, exposed lingerie, sheer fabric, gaping buttons, or exaggerated anatomical alteration. No text, watermark, collage, or extra people. Portrait 9:16, request 1152x2048. Adult Korean man age 29. Preserve exact male face, hairstyle and original male body from the reference; the feminine-shape directions do not apply to him. Light blue neatly fitted short-sleeve cotton collared shirt tucked into lightweight charcoal straight trousers, dark brown slim leather belt, black flat office loafers, small plain work ID clipped at the shirt pocket. No tie, jacket, long sleeves, coat or sneakers. Friendly calm dependable senior colleague.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "W05",
+    "group": "wardrobe",
+    "title": "한진우 · 여름 기획실장",
+    "mode": "identity-preserve",
+    "references": [
+      "assets/identity/han-master.png"
+    ],
+    "output": "assets/wardrobe/W05.png",
+    "prompt": "Use case: identity-preserve. A single photorealistic full-length summer wardrobe reference for a Korean office drama. Input image 1 is the exact facial identity and body-proportions reference ONLY, not the desired old clothing. Preserve the exact adult person, face, dark hair, age, skin, and original naturally curvy body proportions; do not flatten the bust, slim the body, or redesign her face. Head to soles entirely visible in a relaxed standing pose, front three-quarter view, plain warm-gray studio backdrop, soft natural light. A believable polished career professional in humid Korean summer. Breathable opaque fabrics fitted to the existing body with natural bust and waist contours, tasteful attractive feminine styling and confident gentle expression. No oversized or baggy silhouette. No heavy layering, cardigan, turtleneck, coat, trousers for Sujeong, exposed lingerie, sheer fabric, gaping buttons, or exaggerated anatomical alteration. No text, watermark, collage, or extra people. Portrait 9:16, request 1152x2048. Adult Korean man age 44. Preserve exact male face, age, hair and male body from the reference; the feminine-shape directions do not apply to him. Lightweight unlined navy summer suit jacket and matching trousers, breathable white collared shirt with one top button open, no tie, plain black office shoes. Keep him professional and calm, not a theatrical villain. No long coat, turtleneck or bulky fabric.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "B01",
+    "group": "background",
+    "title": "회사 앞 · 여름 아침",
+    "mode": "photorealistic-natural",
+    "references": [],
+    "output": "assets/backgrounds/B01.png",
+    "prompt": "Photorealistic empty location master for a contemporary Korean summer office drama. Portrait 9:16, request 1152x2048, wide establishing composition even within portrait, natural human eye-level lens around 28mm, realistic functional architecture. No people, no logos, no readable text, no watermark. A modest modern Seoul office building in a commercial street, warm light-gray stone exterior, a glass entrance on the right third, a small unbranded takeout coffee window on the left near the sidewalk, simple street trees, bright hot summer morning at 08:35. Camera at human eye height facing the entry diagonally. Clear walking path from left foreground toward entrance right. No pedestrians or vehicles foreground.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "B02",
+    "group": "background",
+    "title": "회사 앞 · 여름 밤",
+    "mode": "lighting-weather",
+    "references": [
+      "assets/backgrounds/B01.png"
+    ],
+    "output": "assets/backgrounds/B02.png",
+    "prompt": "Photorealistic empty location master for a contemporary Korean summer office drama. Portrait 9:16, request 1152x2048, wide establishing composition even within portrait, natural human eye-level lens around 28mm, realistic functional architecture. No people, no logos, no readable text, no watermark. The EXACT same building, coffee window, entrance, pavement and street-tree geography as image 1. Change only the lighting to summer night 21:35, glass entrance lights warm, coffee window closed, neutral city ambient light. Keep the same camera and architecture. No people.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "B03",
+    "group": "background",
+    "title": "회사 로비",
+    "mode": "photorealistic-natural",
+    "references": [],
+    "output": "assets/backgrounds/B03.png",
+    "prompt": "Photorealistic empty location master for a contemporary Korean summer office drama. Portrait 9:16, request 1152x2048, wide establishing composition even within portrait, natural human eye-level lens around 28mm, realistic functional architecture. No people, no logos, no readable text, no watermark. A modest contemporary Korean office lobby, pale stone floor, glass exterior entrance behind and slightly right, one compact reception counter on the left, elevator bank deeper center, soft morning daylight. Functional offices, not luxury hotel. Wide perspective with room for two coworkers meeting, simple horizontal architectural lines.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "B04",
+    "group": "background",
+    "title": "공용 사무실 · 낮",
+    "mode": "photorealistic-natural",
+    "references": [],
+    "output": "assets/backgrounds/B04.png",
+    "prompt": "Photorealistic empty location master for a contemporary Korean summer office drama. Portrait 9:16, request 1152x2048, wide establishing composition even within portrait, natural human eye-level lens around 28mm, realistic functional architecture. No people, no logos, no readable text, no watermark. A compact modern Korean shared office, six desks arranged in two rows, windows across the rear wall, warm beige carpet, light-gray walls. Sujeong desk is the nearest left workstation: light oak desktop, one black monitor, small desk lamp, gray ergonomic chair, space for black tote below left edge. Junseo desk is second row right with dark chair. Rear-right door opens to corridor, a wall clock above that door. Neutral summer morning daylight. No people, no readable paperwork.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "B05",
+    "group": "background",
+    "title": "공용 사무실 · 야근",
+    "mode": "lighting-weather",
+    "references": [
+      "assets/backgrounds/B04.png"
+    ],
+    "output": "assets/backgrounds/B05.png",
+    "prompt": "Photorealistic empty location master for a contemporary Korean summer office drama. Portrait 9:16, request 1152x2048, wide establishing composition even within portrait, natural human eye-level lens around 28mm, realistic functional architecture. No people, no logos, no readable text, no watermark. The exact SAME office layout, Sujeong desk nearest left, Junseo desk second row right, windows back, rear-right corridor door and clock as image 1. Change ONLY light to 21:10 summer night, dark blue windows, most overhead lights off, Sujeong desk lamp on and dim ceiling light along rear exit path. No people. Preserve all desks, chair positions and monitor count.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "B06-r1",
+    "group": "background-correction",
+    "title": "기획실 앞 복도 · 밤",
+    "mode": "lighting-weather correction",
+    "references": [
+      "assets/backgrounds/B06.png"
+    ],
+    "output": "assets/backgrounds/B06-r1.png",
+    "prompt": "Use case: lighting-weather. Edit image 1 ONLY to set this corridor to 21:12 SUMMER NIGHT. Preserve exact camera, beige floor, left dark wood planning-room door and its 15cm warm gap, blank signs, glass office partitions on right, and far restroom-direction door. Through the glass office on RIGHT, outside window and skyline must become DARK NIGHT, no daylight or bright sky. Turn off most office ceiling lights beyond glass, leaving only one dim desk light; corridor ceiling lights remain realistic and gently warm. Do not change architecture, door positions or furniture. No people, text or logos. Portrait 9:16, request 1152x2048.",
+    "retry": 0,
+    "origin_revision": "03"
+  },
+  {
+    "id": "B07-r1",
+    "group": "background-correction",
+    "title": "기획실 내부 · 밤",
+    "mode": "lighting-weather correction",
+    "references": [
+      "assets/backgrounds/B07.png"
+    ],
+    "output": "assets/backgrounds/B07-r1.png",
+    "prompt": "Use case: lighting-weather. Edit image 1 ONLY to correct the time of day: this planning room is at 21:12 in summer night. Preserve the EXACT desk, chairs, door gap, door handle, lamp, binders, wall decoration, window and camera position. Change only the outside window view and lighting. Outside window must be DARK NIGHT with very dark blue/black sky and distant city lights, absolutely no daylight, bright sky or sunlit buildings. Interior stays softly lit by the warm desk lamp and low office ambient lights, neutral realistic skin-light potential, no people. No readable text, no watermark. Portrait 9:16, request 1152x2048.",
+    "retry": 0,
+    "origin_revision": "03"
+  },
+  {
+    "id": "B08",
+    "group": "background",
+    "title": "회사 휴게실 · 밤",
+    "mode": "photorealistic-natural",
+    "references": [],
+    "output": "assets/backgrounds/B08.png",
+    "prompt": "Photorealistic empty location master for a contemporary Korean summer office drama. Portrait 9:16, request 1152x2048, wide establishing composition even within portrait, natural human eye-level lens around 28mm, realistic functional architecture. No people, no logos, no readable text, no watermark. Compact contemporary Korean office break room at 21:17: neutral white walls, warm light overhead, dark window rear left, simple pale-wood rectangular table center, two gray chairs facing each other across the table with left seat for Sujeong and right seat for Junseo, compact pantry countertop and coffee maker rear right. Modest functional workplace, not cafe or restaurant. Wide eye-level view from the near side of the table, no people or readable text.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K01-start",
+    "group": "keyframe",
+    "title": "출근길 워킹 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W01.png",
+      "assets/backgrounds/B01.png"
+    ],
+    "output": "assets/keyframes/K01-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W01. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 출근길 워킹. Frame state: Sujeong alone approaches from left foreground on the sidewalk, bag on right shoulder, empty hands. Wide full-body view with office entrance to right. Camera path during the 10-second shot: Track laterally about 2m beside her walking path, remaining on the street-facing side. She walks naturally; no teleport, no crossing the camera axis. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K01-end-r1",
+    "group": "keyframe-correction",
+    "title": "출근길 워킹 · 끝 · 품질 보정",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K01-end.png",
+      "assets/wardrobe/W01.png"
+    ],
+    "output": "assets/keyframes/K01-end-r1.png",
+    "prompt": "Edit the provided cinematic drama image. Preserve exact identity and summer outfit. Produce one single portrait image, request 1152x2048, no collage/text/watermark. The framing MUST visibly tighten compared with image 1: end with a waist-up three-quarter portrait near the entrance, Sujeong significantly larger in frame, walking slowed to a stop. Maintain same side of street and direction of travel. Do not repeat the original full-body walking composition.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K02-start",
+    "group": "keyframe",
+    "title": "커피를 받고 입구로 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W01.png",
+      "assets/backgrounds/B01.png"
+    ],
+    "output": "assets/keyframes/K02-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W01. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 커피를 받고 입구로. Frame state: Sujeong stands beside the left takeout coffee window, right hand extended toward one plain paper cup on the service ledge; tote on right shoulder. Camera path during the 10-second shot: Move through a shallow 20-degree arc on the same street side while she takes one cup and turns. No change to her identity or outfit. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K02-end",
+    "group": "keyframe",
+    "title": "커피를 받고 입구로 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K02-start.png",
+      "assets/wardrobe/W01.png",
+      "assets/backgrounds/B01.png"
+    ],
+    "output": "assets/keyframes/K02-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 커피를 받고 입구로. Frame state: She now holds that single plain paper cup in her RIGHT hand and turns her shoulders toward the glass entrance on the right. Same feet and bag. Camera path during the 10-second shot: Move through a shallow 20-degree arc on the same street side while she takes one cup and turns. No change to her identity or outfit. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K03-start",
+    "group": "keyframe",
+    "title": "로비에서 선배 인사 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W01.png",
+      "assets/wardrobe/W04.png",
+      "assets/backgrounds/B03.png"
+    ],
+    "output": "assets/keyframes/K03-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W01, W04. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 로비에서 선배 인사. Frame state: Sujeong screen-left and Junseo screen-right in the lobby, about 2m apart, facing each other. Coffee in her right hand, tote right shoulder. Camera path during the 10-second shot: Slow 1m dolly forward as they approach and greet. Keep both faces separate, keep screen-left and screen-right consistent. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K03-end",
+    "group": "keyframe",
+    "title": "로비에서 선배 인사 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K03-start.png",
+      "assets/wardrobe/W01.png",
+      "assets/wardrobe/W04.png",
+      "assets/backgrounds/B03.png"
+    ],
+    "output": "assets/keyframes/K03-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 로비에서 선배 인사. Frame state: They have stepped nearer, exchanging a small friendly greeting, medium two-shot; Sujeong remains left and Junseo right. Camera path during the 10-second shot: Slow 1m dolly forward as they approach and greet. Keep both faces separate, keep screen-left and screen-right consistent. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K04-start",
+    "group": "keyframe",
+    "title": "다정한 선배의 응답 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W01.png",
+      "assets/wardrobe/W04.png",
+      "assets/backgrounds/B03.png"
+    ],
+    "output": "assets/keyframes/K04-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W01, W04. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 다정한 선배의 응답. Frame state: Near-side over-Sujeong-shoulder shot toward Junseo on screen-right, friendly neutral expression, same lobby. Camera path during the 10-second shot: Slide 0.5m toward Junseo without crossing the line between them. This is a separate edit shot from the previous two-shot, not a reverse-angle interpolation. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K04-end",
+    "group": "keyframe",
+    "title": "다정한 선배의 응답 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K04-start.png",
+      "assets/wardrobe/W01.png",
+      "assets/wardrobe/W04.png",
+      "assets/backgrounds/B03.png"
+    ],
+    "output": "assets/keyframes/K04-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 다정한 선배의 응답. Frame state: Junseo gives one small reassuring nod, one relaxed hand indicating the workplace direction; Sujeong left foreground shoulder remains. Camera path during the 10-second shot: Slide 0.5m toward Junseo without crossing the line between them. This is a separate edit shot from the previous two-shot, not a reverse-angle interpolation. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K05-start",
+    "group": "keyframe",
+    "title": "평범한 자리로 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W01.png",
+      "assets/backgrounds/B04.png"
+    ],
+    "output": "assets/keyframes/K05-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W01. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 평범한 자리로. Frame state: Sujeong stands beside her gray chair at the nearest left desk; her black tote is already under the desk on the left, coffee on right desktop, hands empty. Camera path during the 10-second shot: Push in 1m from a wide office establishing view to a medium desk view while she sits. Preserve desk layout and skirt coverage while seated. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K05-end",
+    "group": "keyframe",
+    "title": "평범한 자리로 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K05-start.png",
+      "assets/wardrobe/W01.png",
+      "assets/backgrounds/B04.png"
+    ],
+    "output": "assets/keyframes/K05-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 평범한 자리로. Frame state: Sujeong is seated naturally at the same desk, hands resting near the keyboard, looking at the monitor. Coffee and bag unchanged. Camera path during the 10-second shot: Push in 1m from a wide office establishing view to a medium desk view while she sits. Preserve desk layout and skirt coverage while seated. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K06-start",
+    "group": "keyframe",
+    "title": "업무 자료 전달 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W01.png",
+      "assets/wardrobe/W04.png",
+      "assets/backgrounds/B04.png"
+    ],
+    "output": "assets/keyframes/K06-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W01, W04. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 업무 자료 전달. Frame state: Sujeong seated screen-left holds one plain paper folder in her right hand, Junseo stands screen-right beside the desk ready to receive it. Camera path during the 10-second shot: A gentle 0.7m lateral slide along the near side of desk during one simple folder handoff. No readable document text, no second folder. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K06-end",
+    "group": "keyframe",
+    "title": "업무 자료 전달 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K06-start.png",
+      "assets/wardrobe/W01.png",
+      "assets/wardrobe/W04.png",
+      "assets/backgrounds/B04.png"
+    ],
+    "output": "assets/keyframes/K06-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 업무 자료 전달. Frame state: Junseo now holds that same folder in his left hand, glancing down; Sujeong right hand is empty on the desk. Camera path during the 10-second shot: A gentle 0.7m lateral slide along the near side of desk during one simple folder handoff. No readable document text, no second folder. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K07-start",
+    "group": "keyframe",
+    "title": "상사의 평범한 인사 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W01.png",
+      "assets/wardrobe/W05.png",
+      "assets/backgrounds/B04.png"
+    ],
+    "output": "assets/keyframes/K07-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W01, W05. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 상사의 평범한 인사. Frame state: Han is near the rear-right office door, walking toward Sujeong seated at her nearest-left desk. Both visible, normal daytime mood. Camera path during the 10-second shot: Small motivated pan tracking Han across the same office, no axis reversal or furniture changes. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K07-end",
+    "group": "keyframe",
+    "title": "상사의 평범한 인사 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K07-start.png",
+      "assets/wardrobe/W01.png",
+      "assets/wardrobe/W05.png",
+      "assets/backgrounds/B04.png"
+    ],
+    "output": "assets/keyframes/K07-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 상사의 평범한 인사. Frame state: Han has reached the right side beside her desk and greets calmly; Sujeong looks up. Both remain visible, no threatening expression. Camera path during the 10-second shot: Small motivated pan tracking Han across the same office, no axis reversal or furniture changes. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K08-start",
+    "group": "keyframe",
+    "title": "야근의 피로 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W01.png",
+      "assets/backgrounds/B05.png"
+    ],
+    "output": "assets/keyframes/K08-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W01. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 야근의 피로. Frame state: Sujeong seated at nearest-left desk typing, empty office visible around her. Same ivory summer top and H-line skirt, no tote worn. Black phone lies on her right desktop, tote under desk left. Camera path during the 10-second shot: Slow 1.5m dolly from establishing wide to medium, with natural desk action. Night lighting only, same summer clothes, no jacket. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K08-end",
+    "group": "keyframe",
+    "title": "야근의 피로 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K08-start.png",
+      "assets/wardrobe/W01.png",
+      "assets/backgrounds/B05.png"
+    ],
+    "output": "assets/keyframes/K08-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 야근의 피로. Frame state: Medium view of Sujeong taking her hands off keyboard, gently stretching neck, tired but not frightened; desk props unchanged. Camera path during the 10-second shot: Slow 1.5m dolly from establishing wide to medium, with natural desk action. Night lighting only, same summer clothes, no jacket. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K09-start",
+    "group": "keyframe",
+    "title": "화장실로 잠시 이동 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W01.png",
+      "assets/backgrounds/B05.png"
+    ],
+    "output": "assets/keyframes/K09-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W01. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 화장실로 잠시 이동. Frame state: Sujeong seated turning her chair, black phone already in her LEFT hand, right hand empty; black tote stays under desk. Camera path during the 10-second shot: Track gently 1m beside her as she stands and turns. No coffee in hands, no trousers, no cardigan. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K09-end",
+    "group": "keyframe",
+    "title": "화장실로 잠시 이동 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K09-start.png",
+      "assets/wardrobe/W01.png",
+      "assets/backgrounds/B05.png"
+    ],
+    "output": "assets/keyframes/K09-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 화장실로 잠시 이동. Frame state: She is standing and taking her first step toward the rear-right exit; phone remains left hand lowered, tote stays under desk. Camera path during the 10-second shot: Track gently 1m beside her as she stands and turns. No coffee in hands, no trousers, no cardigan. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K10-start",
+    "group": "keyframe",
+    "title": "화장실 방향 동선 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W01.png",
+      "assets/backgrounds/B06-r1.png"
+    ],
+    "output": "assets/keyframes/K10-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W01. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 화장실 방향 동선. Frame state: Sujeong in foreground right of corridor walking toward the distant restroom direction. Planning-room ajar door on left wall ahead; phone in left hand by thigh. Camera path during the 10-second shot: Track 2m from her rear-side on the corridor side. Establish restroom direction and planning door together, no new doors or readable signs. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K10-end",
+    "group": "keyframe",
+    "title": "화장실 방향 동선 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K10-start.png",
+      "assets/wardrobe/W01.png",
+      "assets/backgrounds/B06-r1.png"
+    ],
+    "output": "assets/keyframes/K10-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 화장실 방향 동선. Frame state: Sujeong is now beside the left planning-room door, still intending to continue forward, profile visible; all door geography unchanged. Camera path during the 10-second shot: Track 2m from her rear-side on the corridor side. Establish restroom direction and planning door together, no new doors or readable signs. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K11-start",
+    "group": "keyframe",
+    "title": "말소리에 멈추다 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W01.png",
+      "assets/backgrounds/B06-r1.png"
+    ],
+    "output": "assets/keyframes/K11-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W01. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 말소리에 멈추다. Frame state: Medium profile of Sujeong about to pass the left ajar planning door, relaxed tired face, left hand holds phone down. Camera path during the 10-second shot: A restrained 25-degree arc on corridor side as she pauses. Never place camera inside room or reverse her direction. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K11-end-r1",
+    "group": "keyframe-correction",
+    "title": "말소리에 멈추다 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K11-start.png",
+      "assets/wardrobe/W01.png"
+    ],
+    "output": "assets/keyframes/K11-end-r1.png",
+    "prompt": "Edit image 1 into the END keyframe of a continuous 10-second cinematic shot. Same Sujeong adult woman identity and fitted ivory summer top, same night corridor. End is a TIGHT chest-up close portrait, her face noticeably larger than image 1, maintaining camera side of axis. Her head now turns toward the open planning-office door on VIEWER LEFT, eyes looking into the illuminated gap, alert curious expression. She has stopped walking. Show door jamb on left. No looking toward viewer-right glass office. Exactly ONE phone remains lowered in her left hand, out of the close framing; no extra props. Smooth camera push can connect full-body start to close end, no reverse-angle. One portrait photo 1152x2048 requested, no collage/text/watermark.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K12-start",
+    "group": "keyframe",
+    "title": "균열 사진을 빼라는 말 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W05.png",
+      "assets/backgrounds/B07-r1.png"
+    ],
+    "output": "assets/keyframes/K12-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W05. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 균열 사진을 빼라는 말. Frame state: Han seated behind the planning desk, looking down at a single blank report folder. Warm lamp, ajar entrance at foreground right. Camera path during the 10-second shot: Slow 0.7m push on same side of desk, one pointing gesture, no readable paper text or villain theatrics. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K12-end",
+    "group": "keyframe",
+    "title": "균열 사진을 빼라는 말 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K12-start.png",
+      "assets/wardrobe/W05.png",
+      "assets/backgrounds/B07-r1.png"
+    ],
+    "output": "assets/keyframes/K12-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 균열 사진을 빼라는 말. Frame state: Han points to one page of the same report, speaking calmly; medium closer managerial view. No Sujeong in this inside-room shot. Camera path during the 10-second shot: Slow 0.7m push on same side of desk, one pointing gesture, no readable paper text or villain theatrics. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K13-start-r1",
+    "group": "keyframe-correction",
+    "title": "문 밖에서 듣는 수정이 · 시작 · 품질 보정",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/keyframes/K13-start.png",
+      "assets/wardrobe/W01.png"
+    ],
+    "output": "assets/keyframes/K13-start-r1.png",
+    "prompt": "Edit the provided cinematic drama image. Preserve exact identity and summer outfit. Produce one single portrait image, request 1152x2048, no collage/text/watermark. CORRECTION: remove the duplicate phone from her LEFT hand (viewer right). Keep exactly ONE phone in her RIGHT hand (viewer left), with the same facial identity, pose, clothing, doorway and lighting. Left hand empty and relaxed. No new items, no face or body redesign.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K13-end",
+    "group": "keyframe",
+    "title": "문 밖에서 듣는 수정이 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K13-start-r1.png",
+      "assets/wardrobe/W01.png",
+      "assets/backgrounds/B06-r1.png"
+    ],
+    "output": "assets/keyframes/K13-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 문 밖에서 듣는 수정이. Frame state: Closer face and shoulders, anxious alert eyes, right hand gently tense but no exaggerated fear; phone remains lowered. Camera path during the 10-second shot: Gentle 0.8m push-in while she listens with lips closed. Same door gap and camera side, no recording or phone raised. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K14-start",
+    "group": "keyframe",
+    "title": "안전점검 질문 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W05.png",
+      "assets/backgrounds/B07-r1.png"
+    ],
+    "output": "assets/keyframes/K14-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W05. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 안전점검 질문. Frame state: Han seated behind same desk, pausing to listen to an unseen staff member; closed lips, same report on desk. Camera path during the 10-second shot: A shallow 20-degree arc along the same desk side with modest tightening. The off-screen staff voice must not animate Han lips while they speak. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K14-end",
+    "group": "keyframe",
+    "title": "안전점검 질문 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K14-start.png",
+      "assets/wardrobe/W05.png",
+      "assets/backgrounds/B07-r1.png"
+    ],
+    "output": "assets/keyframes/K14-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 안전점검 질문. Frame state: Han has raised his gaze toward the unseen listener beside camera, now replying calmly. No extra visible actor. Camera path during the 10-second shot: A shallow 20-degree arc along the same desk side with modest tightening. The off-screen staff voice must not animate Han lips while they speak. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K15-start",
+    "group": "keyframe",
+    "title": "위험한 내용을 이해하다 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W01.png",
+      "assets/backgrounds/B06-r1.png"
+    ],
+    "output": "assets/keyframes/K15-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W01. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 위험한 내용을 이해하다. Frame state: Close-medium view of Sujeong by same ajar left door, looking at the gap, lips closed, phone in left hand. Camera path during the 10-second shot: Slide 0.5m to follow a single backward step. Preserve face, feet and corridor topology; no panic sprint. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K15-end",
+    "group": "keyframe",
+    "title": "위험한 내용을 이해하다 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K15-start.png",
+      "assets/wardrobe/W01.png",
+      "assets/backgrounds/B06-r1.png"
+    ],
+    "output": "assets/keyframes/K15-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 위험한 내용을 이해하다. Frame state: She has taken one quiet step backward and lowered her gaze, deeply uneasy, same background door still visible. Camera path during the 10-second shot: Slide 0.5m to follow a single backward step. Preserve face, feet and corridor topology; no panic sprint. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K16-start",
+    "group": "keyframe",
+    "title": "조용히 돌아서다 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W01.png",
+      "assets/backgrounds/B06-r1.png"
+    ],
+    "output": "assets/keyframes/K16-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W01. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 조용히 돌아서다. Frame state: Sujeong beside planning door turning shoulders away toward shared-office entrance, phone left hand down. Camera path during the 10-second shot: Backtrack 2m in front of her on corridor side, keeping planning door behind on same wall. No sudden opposite-axis jump. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K16-end",
+    "group": "keyframe",
+    "title": "조용히 돌아서다 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K16-start.png",
+      "assets/wardrobe/W01.png",
+      "assets/backgrounds/B06-r1.png"
+    ],
+    "output": "assets/keyframes/K16-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 조용히 돌아서다. Frame state: She is several steps closer to shared-office entrance, away from the planning door, anxious but controlled. Camera path during the 10-second shot: Backtrack 2m in front of her on corridor side, keeping planning door behind on same wall. No sudden opposite-axis jump. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K17-start",
+    "group": "keyframe",
+    "title": "선배에게 연락 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W01.png",
+      "assets/backgrounds/B06-r1.png"
+    ],
+    "output": "assets/keyframes/K17-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W01. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 선배에게 연락. Frame state: Sujeong stopped near office entrance, black phone in left hand at mid-chest, right index finger poised to type; blank dark screen. Camera path during the 10-second shot: Slow 0.6m push keeping face and phone together. Phone messages are post-composite, no generated letters. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K17-end",
+    "group": "keyframe",
+    "title": "선배에게 연락 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K17-start.png",
+      "assets/wardrobe/W01.png",
+      "assets/backgrounds/B06-r1.png"
+    ],
+    "output": "assets/keyframes/K17-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 선배에게 연락. Frame state: Closer upper-body view, she watches that same phone for a reply, right hand resting near it, worried eyes. Camera path during the 10-second shot: Slow 0.6m push keeping face and phone together. Phone messages are post-composite, no generated letters. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K18-start",
+    "group": "keyframe",
+    "title": "휴게실로 들어서다 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W01.png",
+      "assets/wardrobe/W04.png",
+      "assets/backgrounds/B08.png"
+    ],
+    "output": "assets/keyframes/K18-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W01, W04. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 휴게실로 들어서다. Frame state: Break-room wide two-shot, Sujeong stands beside left chair, Junseo seated at right chair. Her phone already face-down on table left near her seat. No tote worn. Camera path during the 10-second shot: 1m push from establishing view as she sits. Stay on near side of table, skirt covers seated thighs naturally. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K18-end",
+    "group": "keyframe",
+    "title": "휴게실로 들어서다 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K18-start.png",
+      "assets/wardrobe/W01.png",
+      "assets/wardrobe/W04.png",
+      "assets/backgrounds/B08.png"
+    ],
+    "output": "assets/keyframes/K18-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 휴게실로 들어서다. Frame state: Sujeong now seated on left facing Junseo right, tense but ready to speak. Same table and phone position. Camera path during the 10-second shot: 1m push from establishing view as she sits. Stay on near side of table, skirt covers seated thighs naturally. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K19-start",
+    "group": "keyframe",
+    "title": "수정이의 고백 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W01.png",
+      "assets/wardrobe/W04.png",
+      "assets/backgrounds/B08.png"
+    ],
+    "output": "assets/keyframes/K19-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W01, W04. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 수정이의 고백. Frame state: Medium two-shot on near table side, Sujeong left cautiously beginning to explain, Junseo right listening, phone face-down table left. Camera path during the 10-second shot: Slide 0.5m toward Sujeong, staying on the established near side. One speaker; no dramatic standing or hand waving. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K19-end",
+    "group": "keyframe",
+    "title": "수정이의 고백 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K19-start.png",
+      "assets/wardrobe/W01.png",
+      "assets/wardrobe/W04.png",
+      "assets/backgrounds/B08.png"
+    ],
+    "output": "assets/keyframes/K19-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 수정이의 고백. Frame state: A closer three-quarter view favoring Sujeong as she leans slightly forward and speaks earnestly; Junseo right edge still listening. Camera path during the 10-second shot: Slide 0.5m toward Sujeong, staying on the established near side. One speaker; no dramatic standing or hand waving. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K20-start",
+    "group": "keyframe",
+    "title": "선배의 확인 질문 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W01.png",
+      "assets/wardrobe/W04.png",
+      "assets/backgrounds/B08.png"
+    ],
+    "output": "assets/keyframes/K20-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W01, W04. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 선배의 확인 질문. Frame state: Medium shot favoring Junseo on screen-right at the same table, Sujeong left edge softly visible; he listens with closed lips. Camera path during the 10-second shot: Small 0.5m lateral slide toward Junseo without crossing table axis. Keep identities and left-right relation fixed. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K20-end",
+    "group": "keyframe",
+    "title": "선배의 확인 질문 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K20-start.png",
+      "assets/wardrobe/W01.png",
+      "assets/wardrobe/W04.png",
+      "assets/backgrounds/B08.png"
+    ],
+    "output": "assets/keyframes/K20-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 선배의 확인 질문. Frame state: Junseo leans forward slightly, concern replacing casual expression as he asks a short question; Sujeong listens. Camera path during the 10-second shot: Small 0.5m lateral slide toward Junseo without crossing table axis. Keep identities and left-right relation fixed. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K21-start",
+    "group": "keyframe",
+    "title": "잘못 들은 것이 아니다 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W01.png",
+      "assets/wardrobe/W04.png",
+      "assets/backgrounds/B08.png"
+    ],
+    "output": "assets/keyframes/K21-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W01, W04. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 잘못 들은 것이 아니다. Frame state: Near-side medium two-shot, Sujeong left listens, Junseo right holds concern; phone face-down on left tabletop. Camera path during the 10-second shot: Gentle 0.5m pullback to include both reactions, no reverse-angle morphing. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K21-end",
+    "group": "keyframe",
+    "title": "잘못 들은 것이 아니다 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K21-start.png",
+      "assets/wardrobe/W01.png",
+      "assets/wardrobe/W04.png",
+      "assets/backgrounds/B08.png"
+    ],
+    "output": "assets/keyframes/K21-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 잘못 들은 것이 아니다. Frame state: Sujeong gives one small certain nod while finishing her answer; Junseo expression is serious. Both faces visible. Camera path during the 10-second shot: Gentle 0.5m pullback to include both reactions, no reverse-angle morphing. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K22-start",
+    "group": "keyframe",
+    "title": "내일 보고하겠다는 약속 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W01.png",
+      "assets/wardrobe/W04.png",
+      "assets/backgrounds/B08.png"
+    ],
+    "output": "assets/keyframes/K22-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W01, W04. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 내일 보고하겠다는 약속. Frame state: Junseo screen-right medium view, calmly looking at Sujeong left foreground shoulder. Same clothes and table. Camera path during the 10-second shot: Steady 0.6m push toward Junseo on same side. Fit the Korean promise naturally into one 10-second speaking shot. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K22-end",
+    "group": "keyframe",
+    "title": "내일 보고하겠다는 약속 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K22-start.png",
+      "assets/wardrobe/W01.png",
+      "assets/wardrobe/W04.png",
+      "assets/backgrounds/B08.png"
+    ],
+    "output": "assets/keyframes/K22-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 내일 보고하겠다는 약속. Frame state: Junseo rests both hands together naturally on table and speaks reassuringly, slightly tighter view; no readable document or phone in his hands. Camera path during the 10-second shot: Steady 0.6m push toward Junseo on same side. Fit the Korean promise naturally into one 10-second speaking shot. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K23-start",
+    "group": "keyframe",
+    "title": "걱정을 안심시키다 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W01.png",
+      "assets/wardrobe/W04.png",
+      "assets/backgrounds/B08.png"
+    ],
+    "output": "assets/keyframes/K23-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W01, W04. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 걱정을 안심시키다. Frame state: Medium two-shot with Sujeong left worried and Junseo right listening, phone still face-down left tabletop. Camera path during the 10-second shot: Subtle 0.4m side slide; speakers alternate, the listener has closed lips. No extra action to obscure dialogue. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K23-end",
+    "group": "keyframe",
+    "title": "걱정을 안심시키다 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K23-start.png",
+      "assets/wardrobe/W01.png",
+      "assets/wardrobe/W04.png",
+      "assets/backgrounds/B08.png"
+    ],
+    "output": "assets/keyframes/K23-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 걱정을 안심시키다. Frame state: After reassurance, Sujeong releases a small breath and shoulders lower slightly; Junseo remains steady. Camera path during the 10-second shot: Subtle 0.4m side slide; speakers alternate, the listener has closed lips. No extra action to obscure dialogue. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K24-start",
+    "group": "keyframe",
+    "title": "가방을 챙겨 퇴근 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W01.png",
+      "assets/backgrounds/B05.png"
+    ],
+    "output": "assets/keyframes/K24-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W01. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 가방을 챙겨 퇴근. Frame state: Sujeong standing beside her office chair holding black tote strap in right hand, phone in left hand. Same summer top and H-line skirt, no cardigan. Camera path during the 10-second shot: Track 1m beside her during one bag-shouldering action. No jacket, no clothing change, same night office. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K24-end",
+    "group": "keyframe",
+    "title": "가방을 챙겨 퇴근 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K24-start.png",
+      "assets/wardrobe/W01.png",
+      "assets/backgrounds/B05.png"
+    ],
+    "output": "assets/keyframes/K24-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 가방을 챙겨 퇴근. Frame state: Tote now hangs on her right shoulder, phone remains left hand; she turns toward the rear-right exit. Camera path during the 10-second shot: Track 1m beside her during one bag-shouldering action. No jacket, no clothing change, same night office. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K25-start",
+    "group": "keyframe",
+    "title": "그 밤의 안심 문자 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W01.png",
+      "assets/backgrounds/B02.png"
+    ],
+    "output": "assets/keyframes/K25-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W01. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 그 밤의 안심 문자. Frame state: Sujeong on same office sidewalk at night, black tote right shoulder, phone left hand at waist, walking slowly. Camera path during the 10-second shot: Short side tracking followed by 0.7m push, keep head and phone together, text added in post. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K25-end",
+    "group": "keyframe",
+    "title": "그 밤의 안심 문자 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K25-start.png",
+      "assets/wardrobe/W01.png",
+      "assets/backgrounds/B02.png"
+    ],
+    "output": "assets/keyframes/K25-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 그 밤의 안심 문자. Frame state: She pauses near entrance light, raises phone slightly and reads with relieved but tired face; same bag and hands. Camera path during the 10-second shot: Short side tracking followed by 0.7m push, keep head and phone together, text added in post. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K26-start",
+    "group": "keyframe",
+    "title": "다음 날의 출근 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W02.png",
+      "assets/backgrounds/B04.png"
+    ],
+    "output": "assets/keyframes/K26-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W02. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 다음 날의 출근. Frame state: Day-two morning office, Sujeong in W02 blue sleeveless blouse and navy A-line skirt at rear-right entrance, tote right shoulder, empty hands. Camera path during the 10-second shot: Track 1.5m into room beside her, revealing the empty chair, no new character or hospital scene. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K26-end",
+    "group": "keyframe",
+    "title": "다음 날의 출근 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K26-start.png",
+      "assets/wardrobe/W02.png",
+      "assets/backgrounds/B04.png"
+    ],
+    "output": "assets/keyframes/K26-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 다음 날의 출근. Frame state: She has stepped into office and looks toward Junseo empty second-row-right chair, medium full view; same morning desks. Camera path during the 10-second shot: Track 1.5m into room beside her, revealing the empty chair, no new character or hospital scene. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K27-start",
+    "group": "keyframe",
+    "title": "사고 소식의 충격 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W02.png",
+      "assets/backgrounds/B04.png"
+    ],
+    "output": "assets/keyframes/K27-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W02. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 사고 소식의 충격. Frame state: Sujeong near her desk in W02, listening to an unseen coworker beside camera, tote still right shoulder. Camera path during the 10-second shot: Slow 0.8m push. Off-screen coworker remains unseen; no graphic accident or extra actor added. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K27-end",
+    "group": "keyframe",
+    "title": "사고 소식의 충격 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K27-start.png",
+      "assets/wardrobe/W02.png",
+      "assets/backgrounds/B04.png"
+    ],
+    "output": "assets/keyframes/K27-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 사고 소식의 충격. Frame state: Closer upper-body view, shocked worried face as she turns toward Junseo empty desk, lips part for her question. Camera path during the 10-second shot: Slow 0.8m push. Off-screen coworker remains unseen; no graphic accident or extra actor added. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K28-start",
+    "group": "keyframe",
+    "title": "전날 약속을 다시 읽다 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W02.png",
+      "assets/backgrounds/B04.png"
+    ],
+    "output": "assets/keyframes/K28-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W02. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 전날 약속을 다시 읽다. Frame state: Sujeong seated at nearest-left desk, tote now under desk left, phone in LEFT hand at chest, W02 blue blouse and A-line skirt. Camera path during the 10-second shot: 0.6m push from near side desk. Yesterday message and current clock are post-composite, blank screen. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K28-end",
+    "group": "keyframe",
+    "title": "전날 약속을 다시 읽다 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K28-start.png",
+      "assets/wardrobe/W02.png",
+      "assets/backgrounds/B04.png"
+    ],
+    "output": "assets/keyframes/K28-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 전날 약속을 다시 읽다. Frame state: Sujeong looks up from the same phone toward the empty colleague chair, tight medium face-and-phone frame, worry increasing. Camera path during the 10-second shot: 0.6m push from near side desk. Yesterday message and current clock are post-composite, blank screen. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K29-start",
+    "group": "keyframe",
+    "title": "평범한 말이 다르게 들린다 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W02.png",
+      "assets/wardrobe/W05.png",
+      "assets/backgrounds/B04.png"
+    ],
+    "output": "assets/keyframes/K29-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W02, W05. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 평범한 말이 다르게 들린다. Frame state: Han near rear-right entrance approaching Sujeong seated left at desk, W02 for her and W05 for him; her phone remains left hand. Camera path during the 10-second shot: Slide 0.7m to tighten the same two-shot, keep both identities on screen. No villain smile, no threatening gesture. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K29-end",
+    "group": "keyframe",
+    "title": "평범한 말이 다르게 들린다 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K29-start.png",
+      "assets/wardrobe/W02.png",
+      "assets/wardrobe/W05.png",
+      "assets/backgrounds/B04.png"
+    ],
+    "output": "assets/keyframes/K29-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 평범한 말이 다르게 들린다. Frame state: Han now beside right edge of her desk, speaking normally; Sujeong looks up tense, both visible. Camera path during the 10-second shot: Slide 0.7m to tighten the same two-shot, keep both identities on screen. No villain smile, no threatening gesture. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K30-start",
+    "group": "keyframe",
+    "title": "왜 하필 오늘 · 시작",
+    "mode": "photorealistic-natural with cast references",
+    "references": [
+      "assets/wardrobe/W02.png",
+      "assets/backgrounds/B04.png"
+    ],
+    "output": "assets/keyframes/K30-start.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean START keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. The first wardrobe references specify distinct actor identities and exact summer outfits, in this order: W02. The LAST image is the location-only architecture and lighting reference. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 왜 하필 오늘. Frame state: Sujeong alone seated at same desk, phone in left hand lowered, looking down, empty Junseo desk softly in background. Camera path during the 10-second shot: Slow 0.8m push combined with shallow 20-degree arc on same desk side. Natural breath and eye movement, do not end on a duplicate still or suddenly switch to door-only frame. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "K30-end",
+    "group": "keyframe",
+    "title": "왜 하필 오늘 · 끝",
+    "mode": "identity-preserve scene continuation",
+    "references": [
+      "assets/keyframes/K30-start.png",
+      "assets/wardrobe/W02.png",
+      "assets/backgrounds/B04.png"
+    ],
+    "output": "assets/keyframes/K30-end.png",
+    "prompt": "Photorealistic cinematic Korean summer office drama, portrait 9:16, request 1152x2048. A SINGLE clean END keyframe of ONE continuous 10-second shot, no montage, split screen, board, text or watermark. Image 1 is the exact START frame to continue: keep every character identity, clothing, props, spatial relations and environment; move only as described. Subsequent wardrobe images specify each distinct actor; final reference is location. Preserve the exact actors facial identity, bob/hairstyles and original body proportions; keep Sujeong original naturally full bust and fitted summer top, skirt silhouette and flat shoes. Do not replace her skirt with trousers or add coats/cardigans. Keep sensible hands and fingers, correct object counts, no readable documents, phone text or signs. Shot: 왜 하필 오늘. Frame state: Closer face view, Sujeong raises eyes toward the corridor entrance, anxious realization without certainty; same desk geometry. Camera path during the 10-second shot: Slow 0.8m push combined with shallow 20-degree arc on same desk side. Natural breath and eye movement, do not end on a duplicate still or suddenly switch to door-only frame. The camera must stay on the same side of the action axis. No sudden reverse view, impossible focal length jump, face swapping or new furniture. For night work and break-room frames with W01, the tote is NOT worn unless the frame state explicitly says so; it is kept at her office desk. Respect natural modest skirt coverage while seated. Moderate restrained acting, realistic summer material textures, natural light and skin, no hyper-stylized villain mood.",
+    "origin_revision": "03"
+  },
+  {
+    "id": "Y-master",
+    "group": "identity",
+    "title": "서윤 · 얼굴 기준",
+    "prompt": "Use case: photorealistic-natural. Asset: fictional adult female colleague facial identity master for a Korean live-action office mystery. Create ONE realistic chest-up portrait of Seoyun, age 28, Korean woman, beautiful calm oval face, clear natural skin with real texture, expressive almond eyes, natural transparent makeup without heavy blush, long dark-brown hair below shoulders with a gentle side part, distinctive from the existing short-bob heroine. White lightweight summer office blouse, neat natural neckline, delicate silver stud earrings. Plain neutral studio backdrop, soft daylight. Three-quarter head turned about 20 degrees, eyes on a fixed point OFF CAMERA to viewer left, calm attentive expression, no eye contact with lens, no glamour grin, no exaggerated body proportions. Fictional adult, no celebrity likeness. Single image portrait 9:16, request 1152x2048; no collage, lettering, watermark, or extra person.",
+    "references": [],
+    "output": "assets/identity/seoyun-master.png",
+    "mode": "photorealistic-natural",
+    "origin_revision": "04"
+  },
+  {
+    "id": "W06",
+    "group": "wardrobe",
+    "title": "서윤 · 첫날 로즈 H라인",
+    "prompt": "Use case: identity-preserve. Image 1 is Seoyun authoritative facial identity. Create ONE full-body summer office wardrobe reference photo, same adult woman, exact face and long hair and natural proportions. Outfit: dusty-rose fitted short-sleeve blouse, ivory high-waisted H-line skirt ending just above knees, nude flat loafers. Refined fitted career-woman silhouette, airy summer material, no coat/cardigan/tights/high heels, neat natural coverage. Small silver studs, thin silver watch, plain clipped employee ID, no purse in hands. Neutral light-gray studio, realistic soft light, head-to-toe including shoes, neutral weight evenly distributed, hands naturally relaxed, no crossed-leg fashion pose. Head facing three-quarter toward viewer left, eyes on a point well outside the camera, no direct lens gaze, no smile to photographer. Reference photo only, not a story keyframe. Portrait 9:16 request 1152x2048. No text, watermark, extra limbs, or collage.",
+    "references": [
+      "assets/identity/seoyun-master.png"
+    ],
+    "output": "assets/wardrobe/W06.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "W07",
+    "group": "wardrobe",
+    "title": "서윤 · 다음 날 민트 A라인",
+    "prompt": "Use case: identity-preserve. Image 1 is Seoyun authoritative facial identity. Create ONE full-body summer office wardrobe reference photo, same adult woman, exact face and long hair and natural proportions. Outfit: mint fitted cap-sleeve blouse, sand A-line skirt ending just above knees, ivory flat ballet shoes. Refined fitted career-woman silhouette, airy summer material, no coat/cardigan/tights/high heels, neat natural coverage. Small silver studs, thin silver watch, plain clipped employee ID, no purse in hands. Neutral light-gray studio, realistic soft light, head-to-toe including shoes, neutral weight evenly distributed, hands naturally relaxed, no crossed-leg fashion pose. Head facing three-quarter toward viewer left, eyes on a point well outside the camera, no direct lens gaze, no smile to photographer. Reference photo only, not a story keyframe. Portrait 9:16 request 1152x2048. No text, watermark, extra limbs, or collage.",
+    "references": [
+      "assets/identity/seoyun-master.png"
+    ],
+    "output": "assets/wardrobe/W07.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "W08",
+    "group": "wardrobe",
+    "title": "서윤 · 화이트·네이비",
+    "prompt": "Use case: identity-preserve. Image 1 is Seoyun authoritative facial identity. Create ONE full-body summer office wardrobe reference photo, same adult woman, exact face and long hair and natural proportions. Outfit: white fitted sleeveless collared blouse, navy H-line skirt just above knees, navy flat loafers. Refined fitted career-woman silhouette, airy summer material, no coat/cardigan/tights/high heels, neat natural coverage. Small silver studs, thin silver watch, plain clipped employee ID, no purse in hands. Neutral light-gray studio, realistic soft light, head-to-toe including shoes, neutral weight evenly distributed, hands naturally relaxed, no crossed-leg fashion pose. Head facing three-quarter toward viewer left, eyes on a point well outside the camera, no direct lens gaze, no smile to photographer. Reference photo only, not a story keyframe. Portrait 9:16 request 1152x2048. No text, watermark, extra limbs, or collage.",
+    "references": [
+      "assets/identity/seoyun-master.png"
+    ],
+    "output": "assets/wardrobe/W08.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "W09",
+    "group": "wardrobe",
+    "title": "서윤 · 라벤더 플레어",
+    "prompt": "Use case: identity-preserve. Image 1 is Seoyun authoritative facial identity. Create ONE full-body summer office wardrobe reference photo, same adult woman, exact face and long hair and natural proportions. Outfit: lavender fitted fine-knit short-sleeve top, pale-gray gently flared A-line skirt just above knees, gray ballet flats. Refined fitted career-woman silhouette, airy summer material, no coat/cardigan/tights/high heels, neat natural coverage. Small silver studs, thin silver watch, plain clipped employee ID, no purse in hands. Neutral light-gray studio, realistic soft light, head-to-toe including shoes, neutral weight evenly distributed, hands naturally relaxed, no crossed-leg fashion pose. Head facing three-quarter toward viewer left, eyes on a point well outside the camera, no direct lens gaze, no smile to photographer. Reference photo only, not a story keyframe. Portrait 9:16 request 1152x2048. No text, watermark, extra limbs, or collage.",
+    "references": [
+      "assets/identity/seoyun-master.png"
+    ],
+    "output": "assets/wardrobe/W09.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "W10",
+    "group": "wardrobe",
+    "title": "서윤 · 베이지 랩 스커트",
+    "prompt": "Use case: identity-preserve. Image 1 is Seoyun authoritative facial identity. Create ONE full-body summer office wardrobe reference photo, same adult woman, exact face and long hair and natural proportions. Outfit: cream fitted short-sleeve V-neck blouse with modest neckline, beige wrap-style skirt with secure overlap and no high slit, tan flats. Refined fitted career-woman silhouette, airy summer material, no coat/cardigan/tights/high heels, neat natural coverage. Small silver studs, thin silver watch, plain clipped employee ID, no purse in hands. Neutral light-gray studio, realistic soft light, head-to-toe including shoes, neutral weight evenly distributed, hands naturally relaxed, no crossed-leg fashion pose. Head facing three-quarter toward viewer left, eyes on a point well outside the camera, no direct lens gaze, no smile to photographer. Reference photo only, not a story keyframe. Portrait 9:16 request 1152x2048. No text, watermark, extra limbs, or collage.",
+    "references": [
+      "assets/identity/seoyun-master.png"
+    ],
+    "output": "assets/wardrobe/W10.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "W11",
+    "group": "wardrobe",
+    "title": "서윤 · 블루 플리츠",
+    "prompt": "Use case: identity-preserve. Image 1 is Seoyun authoritative facial identity. Create ONE full-body summer office wardrobe reference photo, same adult woman, exact face and long hair and natural proportions. Outfit: pale-blue fitted sleeveless top, white narrow-pleated skirt to the knees, white low flat loafers. Refined fitted career-woman silhouette, airy summer material, no coat/cardigan/tights/high heels, neat natural coverage. Small silver studs, thin silver watch, plain clipped employee ID, no purse in hands. Neutral light-gray studio, realistic soft light, head-to-toe including shoes, neutral weight evenly distributed, hands naturally relaxed, no crossed-leg fashion pose. Head facing three-quarter toward viewer left, eyes on a point well outside the camera, no direct lens gaze, no smile to photographer. Reference photo only, not a story keyframe. Portrait 9:16 request 1152x2048. No text, watermark, extra limbs, or collage.",
+    "references": [
+      "assets/identity/seoyun-master.png"
+    ],
+    "output": "assets/wardrobe/W11.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "W12",
+    "group": "wardrobe",
+    "title": "서윤 · 코랄 미디",
+    "prompt": "Use case: identity-preserve. Image 1 is Seoyun authoritative facial identity. Create ONE full-body summer office wardrobe reference photo, same adult woman, exact face and long hair and natural proportions. Outfit: soft-coral fitted short-sleeve blouse, charcoal H-line midi skirt with small walking slit below knees, black flats. Refined fitted career-woman silhouette, airy summer material, no coat/cardigan/tights/high heels, neat natural coverage. Small silver studs, thin silver watch, plain clipped employee ID, no purse in hands. Neutral light-gray studio, realistic soft light, head-to-toe including shoes, neutral weight evenly distributed, hands naturally relaxed, no crossed-leg fashion pose. Head facing three-quarter toward viewer left, eyes on a point well outside the camera, no direct lens gaze, no smile to photographer. Reference photo only, not a story keyframe. Portrait 9:16 request 1152x2048. No text, watermark, extra limbs, or collage.",
+    "references": [
+      "assets/identity/seoyun-master.png"
+    ],
+    "output": "assets/wardrobe/W12.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "W13",
+    "group": "wardrobe",
+    "title": "서윤 · 세이지 A라인",
+    "prompt": "Use case: identity-preserve. Image 1 is Seoyun authoritative facial identity. Create ONE full-body summer office wardrobe reference photo, same adult woman, exact face and long hair and natural proportions. Outfit: ivory fitted square-neck short-sleeve top, sage-green A-line skirt just above knees, ivory ballet flats. Refined fitted career-woman silhouette, airy summer material, no coat/cardigan/tights/high heels, neat natural coverage. Small silver studs, thin silver watch, plain clipped employee ID, no purse in hands. Neutral light-gray studio, realistic soft light, head-to-toe including shoes, neutral weight evenly distributed, hands naturally relaxed, no crossed-leg fashion pose. Head facing three-quarter toward viewer left, eyes on a point well outside the camera, no direct lens gaze, no smile to photographer. Reference photo only, not a story keyframe. Portrait 9:16 request 1152x2048. No text, watermark, extra limbs, or collage.",
+    "references": [
+      "assets/identity/seoyun-master.png"
+    ],
+    "output": "assets/wardrobe/W13.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "Y-view-000",
+    "group": "angle",
+    "title": "서윤 · 정면",
+    "prompt": "Use case: identity-preserve. Image 1 is Seoyun face identity; image 2 is exact W06 full-body wardrobe. Create ONE full-body front view of the SAME adult woman in W06 dusty-rose blouse and ivory H-line skirt, identical clothing details, plain employee ID and nude flat loafers. This is a camera-relative 000-degree turnaround reference, not a new hairstyle or outfit. Long dark-brown hair consistent. Neutral standing stance, feet stable, arms relaxed, no movement/fashion pose. Gray seamless studio, same soft light, camera at upper torso height, entire body and both shoes visible. Head aligned naturally with body, gaze along body direction and slightly to a side, no neck craning toward the lens, no lens eye contact even in front view. Rear view must remain back view, not rotate head into a portrait. Single portrait 9:16, request 1152x2048, no labels/collage/watermark/extra people.",
+    "references": [
+      "assets/identity/seoyun-master.png",
+      "assets/wardrobe/W06.png"
+    ],
+    "output": "assets/angles/Y-000.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "Y-view-045",
+    "group": "angle",
+    "title": "서윤 · 좌측 45도",
+    "prompt": "Use case: identity-preserve. Image 1 is Seoyun face identity; image 2 is exact W06 full-body wardrobe. Create ONE full-body front-left three-quarter view of the SAME adult woman in W06 dusty-rose blouse and ivory H-line skirt, identical clothing details, plain employee ID and nude flat loafers. This is a camera-relative 045-degree turnaround reference, not a new hairstyle or outfit. Long dark-brown hair consistent. Neutral standing stance, feet stable, arms relaxed, no movement/fashion pose. Gray seamless studio, same soft light, camera at upper torso height, entire body and both shoes visible. Head aligned naturally with body, gaze along body direction and slightly to a side, no neck craning toward the lens, no lens eye contact even in front view. Rear view must remain back view, not rotate head into a portrait. Single portrait 9:16, request 1152x2048, no labels/collage/watermark/extra people.",
+    "references": [
+      "assets/identity/seoyun-master.png",
+      "assets/wardrobe/W06.png"
+    ],
+    "output": "assets/angles/Y-045.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "Y-view-090",
+    "group": "angle",
+    "title": "서윤 · 좌측면",
+    "prompt": "Use case: identity-preserve. Image 1 is Seoyun face identity; image 2 is exact W06 full-body wardrobe. Create ONE full-body left profile view of the SAME adult woman in W06 dusty-rose blouse and ivory H-line skirt, identical clothing details, plain employee ID and nude flat loafers. This is a camera-relative 090-degree turnaround reference, not a new hairstyle or outfit. Long dark-brown hair consistent. Neutral standing stance, feet stable, arms relaxed, no movement/fashion pose. Gray seamless studio, same soft light, camera at upper torso height, entire body and both shoes visible. Head aligned naturally with body, gaze along body direction and slightly to a side, no neck craning toward the lens, no lens eye contact even in front view. Rear view must remain back view, not rotate head into a portrait. Single portrait 9:16, request 1152x2048, no labels/collage/watermark/extra people.",
+    "references": [
+      "assets/identity/seoyun-master.png",
+      "assets/wardrobe/W06.png"
+    ],
+    "output": "assets/angles/Y-090.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "Y-view-135",
+    "group": "angle",
+    "title": "서윤 · 좌후면 45도",
+    "prompt": "Use case: identity-preserve. Image 1 is Seoyun face identity; image 2 is exact W06 full-body wardrobe. Create ONE full-body rear-left three-quarter view of the SAME adult woman in W06 dusty-rose blouse and ivory H-line skirt, identical clothing details, plain employee ID and nude flat loafers. This is a camera-relative 135-degree turnaround reference, not a new hairstyle or outfit. Long dark-brown hair consistent. Neutral standing stance, feet stable, arms relaxed, no movement/fashion pose. Gray seamless studio, same soft light, camera at upper torso height, entire body and both shoes visible. Head aligned naturally with body, gaze along body direction and slightly to a side, no neck craning toward the lens, no lens eye contact even in front view. Rear view must remain back view, not rotate head into a portrait. Single portrait 9:16, request 1152x2048, no labels/collage/watermark/extra people.",
+    "references": [
+      "assets/identity/seoyun-master.png",
+      "assets/wardrobe/W06.png"
+    ],
+    "output": "assets/angles/Y-135.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "Y-view-180",
+    "group": "angle",
+    "title": "서윤 · 후면",
+    "prompt": "Use case: identity-preserve. Image 1 is Seoyun face identity; image 2 is exact W06 full-body wardrobe. Create ONE full-body straight rear view of the SAME adult woman in W06 dusty-rose blouse and ivory H-line skirt, identical clothing details, plain employee ID and nude flat loafers. This is a camera-relative 180-degree turnaround reference, not a new hairstyle or outfit. Long dark-brown hair consistent. Neutral standing stance, feet stable, arms relaxed, no movement/fashion pose. Gray seamless studio, same soft light, camera at upper torso height, entire body and both shoes visible. Head aligned naturally with body, gaze along body direction and slightly to a side, no neck craning toward the lens, no lens eye contact even in front view. Rear view must remain back view, not rotate head into a portrait. Single portrait 9:16, request 1152x2048, no labels/collage/watermark/extra people.",
+    "references": [
+      "assets/identity/seoyun-master.png",
+      "assets/wardrobe/W06.png"
+    ],
+    "output": "assets/angles/Y-180.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "Y-view-225",
+    "group": "angle",
+    "title": "서윤 · 우후면 45도",
+    "prompt": "Use case: identity-preserve. Image 1 is Seoyun face identity; image 2 is exact W06 full-body wardrobe. Create ONE full-body rear-right three-quarter view of the SAME adult woman in W06 dusty-rose blouse and ivory H-line skirt, identical clothing details, plain employee ID and nude flat loafers. This is a camera-relative 225-degree turnaround reference, not a new hairstyle or outfit. Long dark-brown hair consistent. Neutral standing stance, feet stable, arms relaxed, no movement/fashion pose. Gray seamless studio, same soft light, camera at upper torso height, entire body and both shoes visible. Head aligned naturally with body, gaze along body direction and slightly to a side, no neck craning toward the lens, no lens eye contact even in front view. Rear view must remain back view, not rotate head into a portrait. Single portrait 9:16, request 1152x2048, no labels/collage/watermark/extra people.",
+    "references": [
+      "assets/identity/seoyun-master.png",
+      "assets/wardrobe/W06.png"
+    ],
+    "output": "assets/angles/Y-225.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "Y-view-270",
+    "group": "angle",
+    "title": "서윤 · 우측면",
+    "prompt": "Use case: identity-preserve. Image 1 is Seoyun face identity; image 2 is exact W06 full-body wardrobe. Create ONE full-body right profile view of the SAME adult woman in W06 dusty-rose blouse and ivory H-line skirt, identical clothing details, plain employee ID and nude flat loafers. This is a camera-relative 270-degree turnaround reference, not a new hairstyle or outfit. Long dark-brown hair consistent. Neutral standing stance, feet stable, arms relaxed, no movement/fashion pose. Gray seamless studio, same soft light, camera at upper torso height, entire body and both shoes visible. Head aligned naturally with body, gaze along body direction and slightly to a side, no neck craning toward the lens, no lens eye contact even in front view. Rear view must remain back view, not rotate head into a portrait. Single portrait 9:16, request 1152x2048, no labels/collage/watermark/extra people.",
+    "references": [
+      "assets/identity/seoyun-master.png",
+      "assets/wardrobe/W06.png"
+    ],
+    "output": "assets/angles/Y-270.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "Y-view-315",
+    "group": "angle",
+    "title": "서윤 · 우측 45도",
+    "prompt": "Use case: identity-preserve. Image 1 is Seoyun face identity; image 2 is exact W06 full-body wardrobe. Create ONE full-body front-right three-quarter view of the SAME adult woman in W06 dusty-rose blouse and ivory H-line skirt, identical clothing details, plain employee ID and nude flat loafers. This is a camera-relative 315-degree turnaround reference, not a new hairstyle or outfit. Long dark-brown hair consistent. Neutral standing stance, feet stable, arms relaxed, no movement/fashion pose. Gray seamless studio, same soft light, camera at upper torso height, entire body and both shoes visible. Head aligned naturally with body, gaze along body direction and slightly to a side, no neck craning toward the lens, no lens eye contact even in front view. Rear view must remain back view, not rotate head into a portrait. Single portrait 9:16, request 1152x2048, no labels/collage/watermark/extra people.",
+    "references": [
+      "assets/identity/seoyun-master.png",
+      "assets/wardrobe/W06.png"
+    ],
+    "output": "assets/angles/Y-315.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "K01-start-gaze",
+    "group": "gaze-correction",
+    "title": "출근길 워킹 · 시작 시선 보정",
+    "prompt": "Use case: identity-preserve. Image 1 is exact edit TARGET; image 2 authoritative summer outfit and actor reference. Edit ONLY head/eye direction, facial acting and necessary natural posture as described. Preserve exact facial identity, hair, body figure, summer clothes and colors, camera composition, room architecture, lighting, number of people, hands and props. This is a candid DRAMA scene, NOT a fashion photo or portrait for photographer. Her head and eyes follow her walking path toward the glass entrance at viewer right, about 40 degrees away from the lens. Candid stride, eyes not toward photographer. Keep relaxed ordinary morning expression. No eye contact with lens, no front-facing promotional pose, no enlarged eyes or redesigned face. Single photo portrait 9:16 request 1152x2048, no collage/text/watermark.",
+    "references": [
+      "assets/keyframes/K01-start.png",
+      "assets/wardrobe/W01.png"
+    ],
+    "output": "assets/keyframes/K01-start-gaze.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "K01-end-gaze",
+    "group": "gaze-correction",
+    "title": "출근길 워킹 · 끝 시선 보정",
+    "prompt": "Use case: identity-preserve. Image 1 is exact edit TARGET; image 2 authoritative summer outfit and actor reference. Edit ONLY head/eye direction, facial acting and necessary natural posture as described. Preserve exact facial identity, hair, body figure, summer clothes and colors, camera composition, room architecture, lighting, number of people, hands and props. This is a candid DRAMA scene, NOT a fashion photo or portrait for photographer. Her face looks toward the glass doorway to viewer right, gaze clearly past the lens. Keep the closer upper-body end framing, same bag and summer clothes. No eye contact with lens, no front-facing promotional pose, no enlarged eyes or redesigned face. Single photo portrait 9:16 request 1152x2048, no collage/text/watermark.",
+    "references": [
+      "assets/keyframes/K01-end-r1.png",
+      "assets/wardrobe/W01.png"
+    ],
+    "output": "assets/keyframes/K01-end-gaze.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "K05-start-gaze",
+    "group": "gaze-correction",
+    "title": "평범한 자리로 · 시작 시선 보정",
+    "prompt": "Use case: identity-preserve. Image 1 is exact edit TARGET; image 2 authoritative summer outfit and actor reference. Edit ONLY head/eye direction, facial acting and necessary natural posture as described. Preserve exact facial identity, hair, body figure, summer clothes and colors, camera composition, room architecture, lighting, number of people, hands and props. This is a candid DRAMA scene, NOT a fashion photo or portrait for photographer. She looks DOWN and to viewer right at the visible keyboard and desk as she pulls out the chair. Her head naturally follows this task. No lens gaze, no crossed-leg model posing. No eye contact with lens, no front-facing promotional pose, no enlarged eyes or redesigned face. Single photo portrait 9:16 request 1152x2048, no collage/text/watermark.",
+    "references": [
+      "assets/keyframes/K05-start.png",
+      "assets/wardrobe/W01.png"
+    ],
+    "output": "assets/keyframes/K05-start-gaze.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "K09-start-gaze",
+    "group": "gaze-correction",
+    "title": "화장실로 잠시 이동 · 시작 시선 보정",
+    "prompt": "Use case: identity-preserve. Image 1 is exact edit TARGET; image 2 authoritative summer outfit and actor reference. Edit ONLY head/eye direction, facial acting and necessary natural posture as described. Preserve exact facial identity, hair, body figure, summer clothes and colors, camera composition, room architecture, lighting, number of people, hands and props. This is a candid DRAMA scene, NOT a fashion photo or portrait for photographer. She looks toward the open office exit at viewer right, not lens. Keep single phone in LEFT hand and right hand by chair, already standing. Natural mid-action posture. No eye contact with lens, no front-facing promotional pose, no enlarged eyes or redesigned face. Single photo portrait 9:16 request 1152x2048, no collage/text/watermark.",
+    "references": [
+      "assets/keyframes/K09-start.png",
+      "assets/wardrobe/W01.png"
+    ],
+    "output": "assets/keyframes/K09-start-gaze.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "K09-end-gaze",
+    "group": "gaze-correction",
+    "title": "화장실로 잠시 이동 · 끝 시선 보정",
+    "prompt": "Use case: identity-preserve. Image 1 is exact edit TARGET; image 2 authoritative summer outfit and actor reference. Edit ONLY head/eye direction, facial acting and necessary natural posture as described. Preserve exact facial identity, hair, body figure, summer clothes and colors, camera composition, room architecture, lighting, number of people, hands and props. This is a candid DRAMA scene, NOT a fashion photo or portrait for photographer. She looks at the open office exit at viewer right while taking the first step. Single phone in RIGHT hand, no lens gaze or photographer smile. No eye contact with lens, no front-facing promotional pose, no enlarged eyes or redesigned face. Single photo portrait 9:16 request 1152x2048, no collage/text/watermark.",
+    "references": [
+      "assets/keyframes/K09-end.png",
+      "assets/wardrobe/W01.png"
+    ],
+    "output": "assets/keyframes/K09-end-gaze.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "K10-start-gaze",
+    "group": "gaze-correction",
+    "title": "화장실 방향 동선 · 시작 시선 보정",
+    "prompt": "Use case: identity-preserve. Image 1 is exact edit TARGET; image 2 authoritative summer outfit and actor reference. Edit ONLY head/eye direction, facial acting and necessary natural posture as described. Preserve exact facial identity, hair, body figure, summer clothes and colors, camera composition, room architecture, lighting, number of people, hands and props. This is a candid DRAMA scene, NOT a fashion photo or portrait for photographer. Rear follow view: she looks straight DOWN THE CORRIDOR ahead, not over her shoulder at camera. Walking naturally, same single phone, no ID visible through back, long corridor and night light unchanged. No eye contact with lens, no front-facing promotional pose, no enlarged eyes or redesigned face. Single photo portrait 9:16 request 1152x2048, no collage/text/watermark.",
+    "references": [
+      "assets/keyframes/K10-start.png",
+      "assets/wardrobe/W01.png"
+    ],
+    "output": "assets/keyframes/K10-start-gaze.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "K10-end-gaze",
+    "group": "gaze-correction",
+    "title": "화장실 방향 동선 · 끝 시선 보정",
+    "prompt": "Use case: identity-preserve. Image 1 is exact edit TARGET; image 2 authoritative summer outfit and actor reference. Edit ONLY head/eye direction, facial acting and necessary natural posture as described. Preserve exact facial identity, hair, body figure, summer clothes and colors, camera composition, room architecture, lighting, number of people, hands and props. This is a candid DRAMA scene, NOT a fashion photo or portrait for photographer. Rear follow view: head and eyes turn LEFT toward the lit planning-office door on viewer left, not back at camera. Same corridor, one phone, modest natural step. No eye contact with lens, no front-facing promotional pose, no enlarged eyes or redesigned face. Single photo portrait 9:16 request 1152x2048, no collage/text/watermark.",
+    "references": [
+      "assets/keyframes/K10-end.png",
+      "assets/wardrobe/W01.png"
+    ],
+    "output": "assets/keyframes/K10-end-gaze.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "K11-start-gaze",
+    "group": "gaze-correction",
+    "title": "말소리에 멈추다 · 시작 시선 보정",
+    "prompt": "Use case: identity-preserve. Image 1 is exact edit TARGET; image 2 authoritative summer outfit and actor reference. Edit ONLY head/eye direction, facial acting and necessary natural posture as described. Preserve exact facial identity, hair, body figure, summer clothes and colors, camera composition, room architecture, lighting, number of people, hands and props. This is a candid DRAMA scene, NOT a fashion photo or portrait for photographer. Her attention shifts toward the planning-office door gap on viewer LEFT, her head and eyes both look into that gap, not toward glass wall or camera. Keep phone lowered in left hand. No eye contact with lens, no front-facing promotional pose, no enlarged eyes or redesigned face. Single photo portrait 9:16 request 1152x2048, no collage/text/watermark.",
+    "references": [
+      "assets/keyframes/K11-start.png",
+      "assets/wardrobe/W01.png"
+    ],
+    "output": "assets/keyframes/K11-start-gaze.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "K13-start-gaze",
+    "group": "gaze-correction",
+    "title": "문 밖에서 듣는 수정이 · 시작 시선 보정",
+    "prompt": "Use case: identity-preserve. Image 1 is exact edit TARGET; image 2 authoritative summer outfit and actor reference. Edit ONLY head/eye direction, facial acting and necessary natural posture as described. Preserve exact facial identity, hair, body figure, summer clothes and colors, camera composition, room architecture, lighting, number of people, hands and props. This is a candid DRAMA scene, NOT a fashion photo or portrait for photographer. She tilts her ear toward the door jamb on viewer LEFT, eyes lowered slightly toward the illuminated doorway, listening tensely with lips closed, no looking at lens. Exactly ONE phone right hand, left empty. No eye contact with lens, no front-facing promotional pose, no enlarged eyes or redesigned face. Single photo portrait 9:16 request 1152x2048, no collage/text/watermark.",
+    "references": [
+      "assets/keyframes/K13-start-r1.png",
+      "assets/wardrobe/W01.png"
+    ],
+    "output": "assets/keyframes/K13-start-gaze.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "K13-end-gaze",
+    "group": "gaze-correction",
+    "title": "문 밖에서 듣는 수정이 · 끝 시선 보정",
+    "prompt": "Use case: identity-preserve. Image 1 is exact edit TARGET; image 2 authoritative summer outfit and actor reference. Edit ONLY head/eye direction, facial acting and necessary natural posture as described. Preserve exact facial identity, hair, body figure, summer clothes and colors, camera composition, room architecture, lighting, number of people, hands and props. This is a candid DRAMA scene, NOT a fashion photo or portrait for photographer. Close listening reaction: eyes and head angle toward the door gap on viewer LEFT, brow subtly worried, lips closed. No camera gaze. Preserve single phone and close framing. No eye contact with lens, no front-facing promotional pose, no enlarged eyes or redesigned face. Single photo portrait 9:16 request 1152x2048, no collage/text/watermark.",
+    "references": [
+      "assets/keyframes/K13-end.png",
+      "assets/wardrobe/W01.png"
+    ],
+    "output": "assets/keyframes/K13-end-gaze.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "K16-start-gaze",
+    "group": "gaze-correction",
+    "title": "조용히 돌아서다 · 시작 시선 보정",
+    "prompt": "Use case: identity-preserve. Image 1 is exact edit TARGET; image 2 authoritative summer outfit and actor reference. Edit ONLY head/eye direction, facial acting and necessary natural posture as described. Preserve exact facial identity, hair, body figure, summer clothes and colors, camera composition, room architecture, lighting, number of people, hands and props. This is a candid DRAMA scene, NOT a fashion photo or portrait for photographer. She turns AWAY from the door, looks down the corridor ahead rather than over shoulder to camera. Remove glamour smile, tense subtle brow. Body starts retreat, same night corridor and one phone. No eye contact with lens, no front-facing promotional pose, no enlarged eyes or redesigned face. Single photo portrait 9:16 request 1152x2048, no collage/text/watermark.",
+    "references": [
+      "assets/keyframes/K16-start.png",
+      "assets/wardrobe/W01.png"
+    ],
+    "output": "assets/keyframes/K16-start-gaze.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "K16-end-gaze",
+    "group": "gaze-correction",
+    "title": "조용히 돌아서다 · 끝 시선 보정",
+    "prompt": "Use case: identity-preserve. Image 1 is exact edit TARGET; image 2 authoritative summer outfit and actor reference. Edit ONLY head/eye direction, facial acting and necessary natural posture as described. Preserve exact facial identity, hair, body figure, summer clothes and colors, camera composition, room architecture, lighting, number of people, hands and props. This is a candid DRAMA scene, NOT a fashion photo or portrait for photographer. She looks toward the corridor exit beyond frame, not photographer. Worried composed expression, no cute smile. Natural walking stance rather than crossed-leg fashion posing, one phone. No eye contact with lens, no front-facing promotional pose, no enlarged eyes or redesigned face. Single photo portrait 9:16 request 1152x2048, no collage/text/watermark.",
+    "references": [
+      "assets/keyframes/K16-end.png",
+      "assets/wardrobe/W01.png"
+    ],
+    "output": "assets/keyframes/K16-end-gaze.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "K17-start-gaze",
+    "group": "gaze-correction",
+    "title": "선배에게 연락 · 시작 시선 보정",
+    "prompt": "Use case: identity-preserve. Image 1 is exact edit TARGET; image 2 authoritative summer outfit and actor reference. Edit ONLY head/eye direction, facial acting and necessary natural posture as described. Preserve exact facial identity, hair, body figure, summer clothes and colors, camera composition, room architecture, lighting, number of people, hands and props. This is a candid DRAMA scene, NOT a fashion photo or portrait for photographer. Her eyes look DOWN at the visible phone SCREEN in her hands, worried, lips closed, no smile toward lens. Preserve exactly one phone and natural hands, original identity, summer top and H-line skirt. No eye contact with lens, no front-facing promotional pose, no enlarged eyes or redesigned face. Single photo portrait 9:16 request 1152x2048, no collage/text/watermark.",
+    "references": [
+      "assets/keyframes/K17-start.png",
+      "assets/wardrobe/W01.png"
+    ],
+    "output": "assets/keyframes/K17-start-gaze.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "K09-start-gaze-r1",
+    "group": "gaze-correction",
+    "title": "화장실로 잠시 이동 · 시작 시선 보정",
+    "prompt": "Edit the provided adult office employee image into a candid, nonsexual cinematic office shot at night. Waist-up framing, the desk chair and open door visible. Keep exact face identity, short bob, ivory short-sleeve blouse, lanyard and office geometry. She is already standing, looking toward the open exit at viewer right, left hand holds ONE phone, right hand beside chair. Natural task-focused acting, relaxed neutral expression, no smile toward photographer, no eye contact with camera. Clothing fully worn and ordinary office coverage, no fashion pose. Change eye and head direction and crop/framing only as needed for waist-up shot; do not redesign face or add people. One portrait 9:16 photo requested 1152x2048, no text/watermark/collage.",
+    "references": [
+      "assets/keyframes/K09-start.png"
+    ],
+    "output": "assets/keyframes/K09-start-gaze-r1.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04",
+    "retry": 1
+  },
+  {
+    "id": "K12-start-seoyun",
+    "group": "scene-update",
+    "title": "한 실장의 지시를 받는 서윤 · start",
+    "prompt": "Use case: identity-preserve cinematic scene. One photorealistic live-action Korean summer office mystery keyframe, portrait 9:16 request 1152x2048. Natural candid dramatic performance, NOT a photoshoot; nobody looks at the camera or smiles at photographer. Preserve distinct adult identities: Sujeong has short bob, Seoyun has long dark-brown hair, Han is the male planning head. No face blending or hairstyle swaps. Summer career outfits exactly from individual wardrobe references, fully clothed, no coat/cardigan. Sensible hands, no extra limbs/phones/people, no readable paperwork, text or watermark. Restrained emotionally appropriate acting. Image 1 is staging/location baseline ONLY; replace the anonymous staff woman with Seoyun or add Seoyun as described, and change the framing/acting as needed. Following two images specify each actor wardrobe and identity; final image specifies room. Night planning office: Han seated behind desk, Seoyun with LONG hair and W06 dusty-rose blouse/ivory skirt stands at viewer left, looking DOWN at the report, Han looks at report or Seoyun. No other woman.",
+    "references": [
+      "assets/keyframes/K12-start.png",
+      "assets/wardrobe/W05.png",
+      "assets/wardrobe/W06.png",
+      "assets/backgrounds/B07-r1.png"
+    ],
+    "output": "assets/keyframes/K12-start-seoyun.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "K12-end-seoyun",
+    "group": "scene-update",
+    "title": "한 실장의 지시를 받는 서윤 · end",
+    "prompt": "Use case: identity-preserve cinematic scene. One photorealistic live-action Korean summer office mystery keyframe, portrait 9:16 request 1152x2048. Natural candid dramatic performance, NOT a photoshoot; nobody looks at the camera or smiles at photographer. Preserve distinct adult identities: Sujeong has short bob, Seoyun has long dark-brown hair, Han is the male planning head. No face blending or hairstyle swaps. Summer career outfits exactly from individual wardrobe references, fully clothed, no coat/cardigan. Sensible hands, no extra limbs/phones/people, no readable paperwork, text or watermark. Restrained emotionally appropriate acting. Image 1 is EXACT START of a continuous approximately 10-second shot. Following images specify actor wardrobe and location. Keep actors positions and spatial axis. END STATE: Closer medium two-shot from same doorway axis. Han points at the report, Seoyun concerned eyes follow his finger. Both look at report, never lens. CAMERA/ACTION: One smooth push toward the report and the two colleagues. Han points while speaking, Seoyun listens with lips closed and a subtle worried brow. Keep desk, doorway, paperwork and the same axis. Noticeable but physically plausible movement and/or closer framing, no jump to reverse angle.",
+    "references": [
+      "assets/keyframes/K12-start-seoyun.png",
+      "assets/wardrobe/W05.png",
+      "assets/wardrobe/W06.png",
+      "assets/backgrounds/B07-r1.png"
+    ],
+    "output": "assets/keyframes/K12-end-seoyun.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "K26-start-seoyun",
+    "group": "scene-update",
+    "title": "서윤이 전하는 사고 소식 · start",
+    "prompt": "Use case: identity-preserve cinematic scene. One photorealistic live-action Korean summer office mystery keyframe, portrait 9:16 request 1152x2048. Natural candid dramatic performance, NOT a photoshoot; nobody looks at the camera or smiles at photographer. Preserve distinct adult identities: Sujeong has short bob, Seoyun has long dark-brown hair, Han is the male planning head. No face blending or hairstyle swaps. Summer career outfits exactly from individual wardrobe references, fully clothed, no coat/cardigan. Sensible hands, no extra limbs/phones/people, no readable paperwork, text or watermark. Restrained emotionally appropriate acting. Image 1 is staging/location baseline ONLY; replace the anonymous staff woman with Seoyun or add Seoyun as described, and change the framing/acting as needed. Following two images specify each actor wardrobe and identity; final image specifies room. Morning office, Sujeong short bob in W02 blue sleeveless blouse/navy A-line skirt at viewer left has just entered, black tote RIGHT shoulder. Seoyun long hair in W07 mint blouse/sand A-line skirt at viewer right approaches, face concerned. They look at each other, not camera.",
+    "references": [
+      "assets/keyframes/K26-start.png",
+      "assets/wardrobe/W02.png",
+      "assets/wardrobe/W07.png",
+      "assets/backgrounds/B04.png"
+    ],
+    "output": "assets/keyframes/K26-start-seoyun.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "K26-end-seoyun",
+    "group": "scene-update",
+    "title": "서윤이 전하는 사고 소식 · end",
+    "prompt": "Use case: identity-preserve cinematic scene. One photorealistic live-action Korean summer office mystery keyframe, portrait 9:16 request 1152x2048. Natural candid dramatic performance, NOT a photoshoot; nobody looks at the camera or smiles at photographer. Preserve distinct adult identities: Sujeong has short bob, Seoyun has long dark-brown hair, Han is the male planning head. No face blending or hairstyle swaps. Summer career outfits exactly from individual wardrobe references, fully clothed, no coat/cardigan. Sensible hands, no extra limbs/phones/people, no readable paperwork, text or watermark. Restrained emotionally appropriate acting. Image 1 is EXACT START of a continuous approximately 10-second shot. Following images specify actor wardrobe and location. Keep actors positions and spatial axis. END STATE: Closer waist-up two-shot from same axis, both stopped. Seoyun on right speaks to Sujeong on left; Sujeong shocked and listening with lips closed. Tote stays on right shoulder. CAMERA/ACTION: Seoyun takes one step toward Sujeong, speaks calmly about Junseo accident; Sujeong stops walking and turns toward Seoyun. Push smoothly closer, remain on same side. No smiling at photographer. Noticeable but physically plausible movement and/or closer framing, no jump to reverse angle.",
+    "references": [
+      "assets/keyframes/K26-start-seoyun.png",
+      "assets/wardrobe/W02.png",
+      "assets/wardrobe/W07.png",
+      "assets/backgrounds/B04.png"
+    ],
+    "output": "assets/keyframes/K26-end-seoyun.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "K27-start-seoyun",
+    "group": "scene-update",
+    "title": "사고를 되묻는 수정이 · start",
+    "prompt": "Use case: identity-preserve cinematic scene. One photorealistic live-action Korean summer office mystery keyframe, portrait 9:16 request 1152x2048. Natural candid dramatic performance, NOT a photoshoot; nobody looks at the camera or smiles at photographer. Preserve distinct adult identities: Sujeong has short bob, Seoyun has long dark-brown hair, Han is the male planning head. No face blending or hairstyle swaps. Summer career outfits exactly from individual wardrobe references, fully clothed, no coat/cardigan. Sensible hands, no extra limbs/phones/people, no readable paperwork, text or watermark. Restrained emotionally appropriate acting. Image 1 is staging/location baseline ONLY; replace the anonymous staff woman with Seoyun or add Seoyun as described, and change the framing/acting as needed. Following two images specify each actor wardrobe and identity; final image specifies room. Morning office closer two-shot, Sujeong W02 viewer left and Seoyun W07 viewer right, face-to-face. Sujeong worried lips ready to ask, tote right shoulder. No phone in hands, no camera gaze.",
+    "references": [
+      "assets/keyframes/K27-start.png",
+      "assets/wardrobe/W02.png",
+      "assets/wardrobe/W07.png",
+      "assets/backgrounds/B04.png"
+    ],
+    "output": "assets/keyframes/K27-start-seoyun.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "K27-end-seoyun",
+    "group": "scene-update",
+    "title": "사고를 되묻는 수정이 · end",
+    "prompt": "Use case: identity-preserve cinematic scene. One photorealistic live-action Korean summer office mystery keyframe, portrait 9:16 request 1152x2048. Natural candid dramatic performance, NOT a photoshoot; nobody looks at the camera or smiles at photographer. Preserve distinct adult identities: Sujeong has short bob, Seoyun has long dark-brown hair, Han is the male planning head. No face blending or hairstyle swaps. Summer career outfits exactly from individual wardrobe references, fully clothed, no coat/cardigan. Sensible hands, no extra limbs/phones/people, no readable paperwork, text or watermark. Restrained emotionally appropriate acting. Image 1 is EXACT START of a continuous approximately 10-second shot. Following images specify actor wardrobe and location. Keep actors positions and spatial axis. END STATE: Same two-shot slightly closer, Seoyun right answers with worried brows, Sujeong left turns only eyes and head toward Junseo empty chair deeper in office, not lens. CAMERA/ACTION: Sujeong asks her question while looking at Seoyun. Seoyun answers. Sujeong then looks toward the empty desk beyond Seoyun. Small continuous camera slide, no crossing axis or hand swapping. Noticeable but physically plausible movement and/or closer framing, no jump to reverse angle.",
+    "references": [
+      "assets/keyframes/K27-start-seoyun-r1.png",
+      "assets/wardrobe/W02.png",
+      "assets/wardrobe/W07.png",
+      "assets/backgrounds/B04.png"
+    ],
+    "output": "assets/keyframes/K27-end-seoyun.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "K28-start-seoyun",
+    "group": "scene-update",
+    "title": "같은 비밀을 알고 있는 두 사람 · start",
+    "prompt": "Use case: identity-preserve cinematic scene. One photorealistic live-action Korean summer office mystery keyframe, portrait 9:16 request 1152x2048. Natural candid dramatic performance, NOT a photoshoot; nobody looks at the camera or smiles at photographer. Preserve distinct adult identities: Sujeong has short bob, Seoyun has long dark-brown hair, Han is the male planning head. No face blending or hairstyle swaps. Summer career outfits exactly from individual wardrobe references, fully clothed, no coat/cardigan. Sensible hands, no extra limbs/phones/people, no readable paperwork, text or watermark. Restrained emotionally appropriate acting. Image 1 is staging/location baseline ONLY; replace the anonymous staff woman with Seoyun or add Seoyun as described, and change the framing/acting as needed. Following two images specify each actor wardrobe and identity; final image specifies room. Morning office, Sujeong W02 seated at desk viewer left, Seoyun W07 standing close at viewer right bends slightly to speak quietly. Sujeong single phone already face-down on desk, hands empty. Their eyes meet, nobody looks at lens. Subtle fearful concern, no glamour smile.",
+    "references": [
+      "assets/keyframes/K28-start.png",
+      "assets/wardrobe/W02.png",
+      "assets/wardrobe/W07.png",
+      "assets/backgrounds/B04.png"
+    ],
+    "output": "assets/keyframes/K28-start-seoyun.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "K28-end-seoyun",
+    "group": "scene-update",
+    "title": "같은 비밀을 알고 있는 두 사람 · end",
+    "prompt": "Use case: identity-preserve cinematic scene. One photorealistic live-action Korean summer office mystery keyframe, portrait 9:16 request 1152x2048. Natural candid dramatic performance, NOT a photoshoot; nobody looks at the camera or smiles at photographer. Preserve distinct adult identities: Sujeong has short bob, Seoyun has long dark-brown hair, Han is the male planning head. No face blending or hairstyle swaps. Summer career outfits exactly from individual wardrobe references, fully clothed, no coat/cardigan. Sensible hands, no extra limbs/phones/people, no readable paperwork, text or watermark. Restrained emotionally appropriate acting. Image 1 is EXACT START of a continuous approximately 10-second shot. Following images specify actor wardrobe and location. Keep actors positions and spatial axis. END STATE: Tighter same-side chest-up two-shot, Seoyun finishes her quiet confession and straightens slightly, Sujeong looks up at her with recognition and fear. Single phone stays on desk, both hands natural, no new object. CAMERA/ACTION: Seoyun leans slightly toward Sujeong and quietly says she personally received last night instruction. Sujeong raises her eyes to Seoyun, speaks her short question. Slow push, small natural breathing, no romantic posing, no unexplained touching. Noticeable but physically plausible movement and/or closer framing, no jump to reverse angle.",
+    "references": [
+      "assets/keyframes/K28-start-seoyun.png",
+      "assets/wardrobe/W02.png",
+      "assets/wardrobe/W07.png",
+      "assets/backgrounds/B04.png"
+    ],
+    "output": "assets/keyframes/K28-end-seoyun.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04"
+  },
+  {
+    "id": "K27-start-seoyun-r1",
+    "group": "scene-update",
+    "title": "사고를 되묻는 수정이 · start · 얼굴 중심 재요청",
+    "prompt": "Use case: identity-preserve. Create one natural live-action office conversation still, portrait 9:16 requested 1152x2048. Image 1 establishes these two adult coworkers and the morning office; image 2 identifies the short-haired adult woman Sujeong, image 3 identifies the long-haired adult woman Seoyun, image 4 is the office layout. A shoulder-up medium-close two-shot, Sujeong viewer left and Seoyun viewer right. Both are completely dressed in their ordinary work blouses as shown in the references. Sujeong is worried and looks at Seoyun while asking about a colleague who had a traffic accident; Seoyun listens with concern and looks at Sujeong. Camera observes them from the side of their conversation. Keep two distinct faces and haircuts, morning window light and same room. Neither looks at the camera. No fashion pose, glamor framing, text, additional people or objects.",
+    "references": [
+      "assets/keyframes/K26-start-seoyun.png",
+      "assets/wardrobe/W02.png",
+      "assets/wardrobe/W07.png",
+      "assets/backgrounds/B04.png"
+    ],
+    "output": "assets/keyframes/K27-start-seoyun-r1.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04",
+    "retry": 1
+  },
+  {
+    "id": "Y-view-270-r1",
+    "group": "angle",
+    "title": "서윤 · 우측면 · 방향 보정",
+    "prompt": "Use case: identity-preserve. Edit the attached adult coworker full-body studio reference to correct ONLY body and head orientation. exact side silhouette, nose points to the RIGHT EDGE of the image, chest points RIGHT, both feet point RIGHT, head aligned with torso. The existing image incorrectly points LEFT: generate the physically opposite orientation. Re-create a genuine opposite view rather than a simple mirror; her silver watch stays on her anatomical left wrist, natural hair part and face identity remain unchanged. Retain the same adult woman, dusty-rose work blouse, ivory knee-length pencil skirt, neutral ID lanyard, nude flat loafers, gray seamless studio and soft lighting. Neutral standing stance, relaxed arms and hands. No posing or lens eye contact. Entire head and shoes visible, single portrait 9:16 requested 1152x2048, no text or collage.",
+    "references": [
+      "assets/angles/Y-270.png"
+    ],
+    "output": "assets/angles/Y-270-r1.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04",
+    "retry": 0,
+    "quality_correction": true
+  },
+  {
+    "id": "Y-view-315-r1",
+    "group": "angle",
+    "title": "서윤 · 우측 45도 · 방향 보정",
+    "prompt": "Use case: identity-preserve. Edit the attached adult coworker full-body studio reference to correct ONLY body and head orientation. front three-quarter body turned toward the RIGHT EDGE of the image, nose points diagonally to viewer RIGHT, both shoes angle toward viewer RIGHT, viewer sees the other front side from the existing image. The existing image incorrectly points LEFT: generate the physically opposite orientation. Re-create a genuine opposite view rather than a simple mirror; her silver watch stays on her anatomical left wrist, natural hair part and face identity remain unchanged. Retain the same adult woman, dusty-rose work blouse, ivory knee-length pencil skirt, neutral ID lanyard, nude flat loafers, gray seamless studio and soft lighting. Neutral standing stance, relaxed arms and hands. No posing or lens eye contact. Entire head and shoes visible, single portrait 9:16 requested 1152x2048, no text or collage.",
+    "references": [
+      "assets/angles/Y-315.png"
+    ],
+    "output": "assets/angles/Y-315-r1.png",
+    "mode": "identity-preserve",
+    "origin_revision": "04",
+    "retry": 0,
+    "quality_correction": true
+  }
+]

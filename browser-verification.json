@@ -1,0 +1,33 @@
+{
+  "browser": "Ego Lite",
+  "space_id": 39,
+  "local_mobile_viewport": [
+    390,
+    844
+  ],
+  "local_desktop_viewport": [
+    1440,
+    900
+  ],
+  "horizontal_overflow_mobile": 0,
+  "horizontal_overflow_desktop": 0,
+  "scene_filter_S06": [
+    "K12",
+    "K13",
+    "K14",
+    "K15"
+  ],
+  "scene_filter_S11": [
+    "K26",
+    "K27"
+  ],
+  "image_modal_open_close": "pass",
+  "modal_original_resolution": [
+    941,
+    1672
+  ],
+  "clipboard_copy": "pass",
+  "prompt_panel": "pass",
+  "observed_failed_image_loads": [],
+  "public_deployment_validation": "pending"
+}

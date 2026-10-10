@@ -1,0 +1,1970 @@
+{
+  "revision": "04",
+  "updated_at": "2026-10-10",
+  "series_title": "삭제된 30초",
+  "episode_title": "그날 밤, 기획실",
+  "title_note": "시리즈명은 가제 유지. 1화에는 삭제된 영상·합성 음성·USB를 넣지 않는다. 후속 회차에서 필요할 때만 개발한다.",
+  "duration_target_seconds": 300,
+  "duration_policy": "10초 목표 쇼트 30개 / 원본 계획 300초. 실제 발화와 반응을 확인해 편집 길이는 조정한다. 서로 다른 구도 전환은 쇼트 사이 편집 컷으로 처리한다.",
+  "video_submissions": 0,
+  "scene_count": 12,
+  "shot_count": 30,
+  "scenes": [
+    {
+      "id": "S01",
+      "title": "평범한 아침",
+      "duration_target_seconds": 20,
+      "story_time": "첫날 08:35",
+      "location": "회사 앞 거리",
+      "cast": [
+        "S"
+      ],
+      "wardrobe": [
+        "W01"
+      ],
+      "audience_understands": "수정이는 평소처럼 출근하는 직장인이다. 사건이 시작되기 전의 표정과 공간을 먼저 알게 된다.",
+      "action_ko": "맑은 아침, 회사 건물을 짧게 보여준다. 수정이가 가방을 메고 걸어오다 커피를 사서 건물 안으로 들어간다. 공포 음악과 불길한 암시는 넣지 않는다.",
+      "dialogue": [
+        {
+          "speaker": "S",
+          "text_ko": "오늘은 일찍 끝나겠지?",
+          "mode": "on-screen"
+        }
+      ],
+      "shot_plan": [
+        {
+          "id": "K01",
+          "duration_target_seconds": 10,
+          "description_ko": "출근길 워킹"
+        },
+        {
+          "id": "K02",
+          "duration_target_seconds": 10,
+          "description_ko": "커피를 받고 입구로"
+        }
+      ],
+      "ending_ko": "밝은 로비로 들어간다. 같은 방향으로 다음 장면을 연결.",
+      "keyframes_status": "generated_per_shot_pairs",
+      "video_status": "not_submitted",
+      "timeline_start_seconds": 0,
+      "timeline_end_seconds": 20
+    },
+    {
+      "id": "S02",
+      "title": "믿고 묻는 선배",
+      "duration_target_seconds": 20,
+      "story_time": "첫날 08:45",
+      "location": "회사 로비",
+      "cast": [
+        "S",
+        "J"
+      ],
+      "wardrobe": [
+        "W01",
+        "W04"
+      ],
+      "audience_understands": "윤준서는 수정이가 믿는 시설관리팀 선배다. 이후 상담이 낯선 사람에게 하는 고백으로 보이지 않는다.",
+      "action_ko": "준서와 출입구에서 인사한다. 수정이가 어제 준서에게 도움을 받았다는 짧은 대화. 부서·이름은 후반의 작은 인물 자막으로 한 번만 소개한다.",
+      "dialogue": [
+        {
+          "speaker": "S",
+          "text_ko": "선배, 어제 자료 봐주셔서 감사해요.",
+          "mode": "on-screen"
+        },
+        {
+          "speaker": "J",
+          "text_ko": "또 막히면 물어봐. 혼자 끙끙대지 말고.",
+          "mode": "on-screen"
+        }
+      ],
+      "shot_plan": [
+        {
+          "id": "K03",
+          "duration_target_seconds": 10,
+          "description_ko": "로비에서 선배 인사"
+        },
+        {
+          "id": "K04",
+          "duration_target_seconds": 10,
+          "description_ko": "다정한 선배의 응답"
+        }
+      ],
+      "ending_ko": "준서는 다른 부서 쪽으로, 수정이는 사무실로 이동한다.",
+      "keyframes_status": "generated_per_shot_pairs",
+      "video_status": "not_submitted",
+      "timeline_start_seconds": 20,
+      "timeline_end_seconds": 40
+    },
+    {
+      "id": "S03",
+      "title": "여느 때와 같은 업무",
+      "duration_target_seconds": 30,
+      "story_time": "첫날 09:00–18:00",
+      "location": "공용 사무실",
+      "cast": [
+        "S",
+        "J",
+        "H"
+      ],
+      "wardrobe": [
+        "W01",
+        "W04",
+        "W05"
+      ],
+      "audience_understands": "이 회사는 물류센터 운영·시설 관리를 한다. B동 안전점검 자료는 일상 업무의 일부다.",
+      "action_ko": "사무실 설정 컷, 자료 정리, 점심 후의 짧은 일상으로 시간 경과를 보여준다. 한진우가 지나가며 인사하는 모습을 정상적인 직장 상사로 먼저 소개한다.",
+      "dialogue": [
+        {
+          "speaker": "S",
+          "text_ko": "B동 점검 자료도 정리해 둘게요.",
+          "mode": "on-screen"
+        },
+        {
+          "speaker": "J",
+          "text_ko": "고마워. 점검표는 내가 확인할게.",
+          "mode": "on-screen"
+        },
+        {
+          "speaker": "H",
+          "text_ko": "수고해요.",
+          "mode": "on-screen"
+        }
+      ],
+      "shot_plan": [
+        {
+          "id": "K05",
+          "duration_target_seconds": 10,
+          "description_ko": "평범한 자리로"
+        },
+        {
+          "id": "K06",
+          "duration_target_seconds": 10,
+          "description_ko": "업무 자료 전달"
+        },
+        {
+          "id": "K07",
+          "duration_target_seconds": 10,
+          "description_ko": "상사의 평범한 인사"
+        }
+      ],
+      "ending_ko": "비어 가는 사무실 속 수정이 자리만 남는다. 가디건을 벗어 두고 같은 셔츠·바지로 야근.",
+      "keyframes_status": "generated_per_shot_pairs",
+      "video_status": "not_submitted",
+      "timeline_start_seconds": 40,
+      "timeline_end_seconds": 70
+    },
+    {
+      "id": "S04",
+      "title": "야근하는 사람",
+      "duration_target_seconds": 20,
+      "story_time": "첫날 21:10",
+      "location": "공용 사무실",
+      "cast": [
+        "S"
+      ],
+      "wardrobe": [
+        "W01"
+      ],
+      "audience_understands": "사람이 적은 이유는 야근이다. 수정이는 업무 중 잠시 화장실에 가려는 것뿐이다.",
+      "action_ko": "모니터 옆 찬 커피, 어두운 다른 좌석, 켜진 작업등. 수정이가 문서를 저장하고 목을 푼 뒤 자리에서 일어난다. 폰은 책상 오른쪽에 두었다가 이동 전에 왼손으로 든다.",
+      "dialogue": [
+        {
+          "speaker": "S",
+          "text_ko": "이것만 보내고 가자.",
+          "mode": "on-screen"
+        }
+      ],
+      "shot_plan": [
+        {
+          "id": "K08",
+          "duration_target_seconds": 10,
+          "description_ko": "야근의 피로"
+        },
+        {
+          "id": "K09",
+          "duration_target_seconds": 10,
+          "description_ko": "화장실로 잠시 이동"
+        }
+      ],
+      "ending_ko": "가방과 가디건은 의자에 남겨 두고 화장실로 간다.",
+      "keyframes_status": "generated_per_shot_pairs",
+      "video_status": "not_submitted",
+      "timeline_start_seconds": 70,
+      "timeline_end_seconds": 90
+    },
+    {
+      "id": "S05",
+      "title": "화장실로 가던 길",
+      "duration_target_seconds": 20,
+      "story_time": "첫날 21:12",
+      "location": "화장실 방향 복도 · 기획실 앞",
+      "cast": [
+        "S"
+      ],
+      "wardrobe": [
+        "W01"
+      ],
+      "audience_understands": "화장실 가는 길에 기획실을 지나친다. 일부러 엿듣기 위해 찾아간 것이 아니다.",
+      "action_ko": "먼저 복도 와이드로 공용 사무실 출구·왼쪽 기획실·앞쪽 화장실 동선을 보여준다. 기획실 문이 조금 열려 있고 안쪽 불빛과 대화가 들린다.",
+      "dialogue": [],
+      "shot_plan": [
+        {
+          "id": "K10",
+          "duration_target_seconds": 10,
+          "description_ko": "화장실 방향 동선"
+        },
+        {
+          "id": "K11",
+          "duration_target_seconds": 10,
+          "description_ko": "말소리에 멈추다"
+        }
+      ],
+      "ending_ko": "“균열 사진”이라는 말이 들리며 발걸음이 멈춘다.",
+      "keyframes_status": "generated_per_shot_pairs",
+      "video_status": "not_submitted",
+      "timeline_start_seconds": 90,
+      "timeline_end_seconds": 110
+    },
+    {
+      "id": "S06",
+      "title": "문틈 사이의 사실",
+      "duration_target_seconds": 40,
+      "story_time": "첫날 21:12",
+      "location": "기획실 문 안 · 복도",
+      "cast": [
+        "S",
+        "H",
+        "Y"
+      ],
+      "wardrobe": [
+        "W01",
+        "W05",
+        "W06"
+      ],
+      "audience_understands": "한 실장은 서윤에게 B동 균열 사진 삭제와 정상 점검 결과 등록을 지시한다. 수정이는 문 밖에서 이 대화를 듣는다.",
+      "action_ko": "문 안의 서윤은 보고서를 보며 한 실장의 지시를 듣는다. 서윤이 안전점검 결과를 되묻고, 문 밖 수정이는 멈춰 들으며 불안해한다. 서윤은 이때 수정이가 밖에 있는지 모른다.",
+      "dialogue": [
+        {
+          "speaker": "H",
+          "text_ko": "B동 균열 사진은 보고서에서 빼요.",
+          "mode": "on-screen"
+        },
+        {
+          "speaker": "Y",
+          "text_ko": "그럼 안전점검 결과는요?",
+          "mode": "off-screen inside planning room; Sujeong lips closed"
+        },
+        {
+          "speaker": "H",
+          "text_ko": "정상으로 올려요. 내일 승인 안 나면 계약이 날아가요.",
+          "mode": "on-screen"
+        }
+      ],
+      "shot_plan": [
+        {
+          "id": "K12",
+          "duration_target_seconds": 10,
+          "description_ko": "한 실장의 지시를 받는 서윤"
+        },
+        {
+          "id": "K13",
+          "duration_target_seconds": 10,
+          "description_ko": "문 밖에서 듣는 수정이"
+        },
+        {
+          "id": "K14",
+          "duration_target_seconds": 10,
+          "description_ko": "한 실장의 정상 처리 지시"
+        },
+        {
+          "id": "K15",
+          "duration_target_seconds": 10,
+          "description_ko": "위험한 내용을 이해하다"
+        }
+      ],
+      "ending_ko": "위험한 내용을 들었다는 것만 안다. 녹음·촬영은 하지 않았고 범죄 전모도 모른다.",
+      "keyframes_status": "generated_per_shot_pairs",
+      "video_status": "not_submitted",
+      "timeline_start_seconds": 110,
+      "timeline_end_seconds": 150
+    },
+    {
+      "id": "S07",
+      "title": "누구에게 말해야 할까",
+      "duration_target_seconds": 20,
+      "story_time": "첫날 21:14",
+      "location": "사무실 입구 복도",
+      "cast": [
+        "S"
+      ],
+      "wardrobe": [
+        "W01"
+      ],
+      "audience_understands": "수정이는 혼자 감당하지 못해 믿는 선배에게 연락한다. 아직 직접 회사에 보고할 확신은 없다.",
+      "action_ko": "수정이가 조용히 복도를 돌아온다. 들고 있던 폰을 왼손에서 가슴 높이로 올린다. 선배에게 짧은 문자를 쓰고 기다린다. 읽을 문자는 후반에 합성한다.",
+      "dialogue": [
+        {
+          "speaker": "S",
+          "text_ko": "선배… 아직 계시려나.",
+          "mode": "on-screen"
+        }
+      ],
+      "shot_plan": [
+        {
+          "id": "K16",
+          "duration_target_seconds": 10,
+          "description_ko": "조용히 돌아서다"
+        },
+        {
+          "id": "K17",
+          "duration_target_seconds": 10,
+          "description_ko": "선배에게 연락"
+        }
+      ],
+      "ending_ko": "선배가 있는 휴게실로 간다. 폰은 왼손, 오른손은 비어 있다.",
+      "keyframes_status": "generated_per_shot_pairs",
+      "video_status": "not_submitted",
+      "timeline_start_seconds": 150,
+      "timeline_end_seconds": 170
+    },
+    {
+      "id": "S08",
+      "title": "선배에게 털어놓다",
+      "duration_target_seconds": 40,
+      "story_time": "첫날 21:17",
+      "location": "회사 휴게실",
+      "cast": [
+        "S",
+        "J"
+      ],
+      "wardrobe": [
+        "W01",
+        "W04"
+      ],
+      "audience_understands": "수정이는 들은 내용을 정확히 말한다. 선배는 시설관리 담당자로서 위험성을 이해한다.",
+      "action_ko": "같은 회사의 휴게실이라는 설정 컷을 먼저 둔다. 수정이 왼쪽·준서 오른쪽으로 앉아 대화한다. 폰은 수정이 왼쪽 테이블에 화면을 아래로 놓는다.",
+      "dialogue": [
+        {
+          "speaker": "J",
+          "text_ko": "무슨 일이야? 얼굴이 왜 그래.",
+          "mode": "on-screen"
+        },
+        {
+          "speaker": "S",
+          "text_ko": "기획실에서… B동 균열 사진을 빼고 정상으로 올리래요.",
+          "mode": "on-screen"
+        },
+        {
+          "speaker": "J",
+          "text_ko": "한 실장이 그렇게 말했어?",
+          "mode": "on-screen"
+        },
+        {
+          "speaker": "S",
+          "text_ko": "네. 내일 승인 때문에요. 잘못 들은 건 아니에요.",
+          "mode": "on-screen"
+        }
+      ],
+      "shot_plan": [
+        {
+          "id": "K18",
+          "duration_target_seconds": 10,
+          "description_ko": "휴게실에서 마주 앉다"
+        },
+        {
+          "id": "K19",
+          "duration_target_seconds": 10,
+          "description_ko": "수정이의 고백"
+        },
+        {
+          "id": "K20",
+          "duration_target_seconds": 10,
+          "description_ko": "선배의 확인 질문"
+        },
+        {
+          "id": "K21",
+          "duration_target_seconds": 10,
+          "description_ko": "잘못 들은 것이 아니다"
+        }
+      ],
+      "ending_ko": "준서가 가볍게 넘길 문제가 아니라는 것을 받아들인다.",
+      "keyframes_status": "generated_per_shot_pairs",
+      "video_status": "not_submitted",
+      "timeline_start_seconds": 170,
+      "timeline_end_seconds": 210
+    },
+    {
+      "id": "S09",
+      "title": "내일 아홉 시의 약속",
+      "duration_target_seconds": 20,
+      "story_time": "첫날 21:20",
+      "location": "회사 휴게실",
+      "cast": [
+        "S",
+        "J"
+      ],
+      "wardrobe": [
+        "W01",
+        "W04"
+      ],
+      "audience_understands": "선배는 원본 점검표를 먼저 확인한 뒤 다음 날 오전 회사 감사팀에 확인 요청을 하려 한다. 아직 보고를 완료한 것은 아니다.",
+      "action_ko": "준서가 침착하게 다음 행동을 설명한다. 수정이는 자기 말 때문에 선배가 곤란해질까 걱정한다. 선배가 보호해 주겠다고 말한다.",
+      "dialogue": [
+        {
+          "speaker": "J",
+          "text_ko": "원본 점검표부터 볼게. 내일 아홉 시, 감사팀에 확인 요청할게.",
+          "mode": "on-screen"
+        },
+        {
+          "speaker": "S",
+          "text_ko": "제가 말해서 선배까지 곤란해지는 건…",
+          "mode": "on-screen"
+        },
+        {
+          "speaker": "J",
+          "text_ko": "걱정 마. 네 이름은 안 넣을게.",
+          "mode": "on-screen"
+        }
+      ],
+      "shot_plan": [
+        {
+          "id": "K22",
+          "duration_target_seconds": 10,
+          "description_ko": "내일 보고하겠다는 약속"
+        },
+        {
+          "id": "K23",
+          "duration_target_seconds": 10,
+          "description_ko": "걱정을 안심시키다"
+        }
+      ],
+      "ending_ko": "수정이는 안심하려 한다. 관객은 다음 날 09:00이라는 약속을 기억한다.",
+      "keyframes_status": "generated_per_shot_pairs",
+      "video_status": "not_submitted",
+      "timeline_start_seconds": 210,
+      "timeline_end_seconds": 230
+    },
+    {
+      "id": "S10",
+      "title": "그 밤의 마지막 연락",
+      "duration_target_seconds": 20,
+      "story_time": "첫날 21:35",
+      "location": "회사 출구 · 수정이 폰",
+      "cast": [
+        "S"
+      ],
+      "wardrobe": [
+        "W01"
+      ],
+      "audience_understands": "첫날 밤과 다음 날을 분명히 구분한다. 선배의 약속은 문자로 남는다.",
+      "action_ko": "수정이가 책상에서 가방을 회수한 뒤 회사에서 나온다. 폰에 준서의 “내일 오전에 확인 요청하고 알려 줄게. 조심히 들어가.” 문자가 온다. 불필요한 위협 메시지는 없다.",
+      "dialogue": [],
+      "shot_plan": [
+        {
+          "id": "K24",
+          "duration_target_seconds": 10,
+          "description_ko": "가방을 챙겨 퇴근"
+        },
+        {
+          "id": "K25",
+          "duration_target_seconds": 10,
+          "description_ko": "그 밤의 안심 문자"
+        }
+      ],
+      "ending_ko": "다음 날 아침으로 명확히 컷. 옷과 빛이 바뀐다.",
+      "keyframes_status": "generated_per_shot_pairs",
+      "video_status": "not_submitted",
+      "timeline_start_seconds": 230,
+      "timeline_end_seconds": 250
+    },
+    {
+      "id": "S11",
+      "title": "다음 날, 빈 자리",
+      "duration_target_seconds": 20,
+      "story_time": "다음 날 08:50",
+      "location": "공용 사무실",
+      "cast": [
+        "S",
+        "Y"
+      ],
+      "wardrobe": [
+        "W02",
+        "W07"
+      ],
+      "audience_understands": "준서가 보고 약속 전에 사고를 당했다. 서윤이 직접 사고 소식을 전하며 수정이는 빈자리를 본다.",
+      "action_ko": "다음 날 오전, 서윤이 출근한 수정이에게 준서의 사고 소식을 전한다. 수정이가 다친 정도를 묻지만 서윤도 자세한 상태는 모른다.",
+      "dialogue": [
+        {
+          "speaker": "Y",
+          "text_ko": "준서 대리, 출근길에 사고 났대요. 지금 응급실이래요.",
+          "mode": "on-screen"
+        },
+        {
+          "speaker": "S",
+          "text_ko": "선배가요? 많이 다쳤대요?",
+          "mode": "on-screen"
+        },
+        {
+          "speaker": "Y",
+          "text_ko": "아직 자세히는 몰라요.",
+          "mode": "on-screen"
+        }
+      ],
+      "shot_plan": [
+        {
+          "id": "K26",
+          "duration_target_seconds": 10,
+          "description_ko": "서윤이 전하는 사고 소식"
+        },
+        {
+          "id": "K27",
+          "duration_target_seconds": 10,
+          "description_ko": "사고를 되묻는 수정이"
+        }
+      ],
+      "ending_ko": "우연인지 어젯밤 일 때문인지 알 수 없다. 아직 보고 결과도 없다.",
+      "keyframes_status": "generated_per_shot_pairs",
+      "video_status": "not_submitted",
+      "timeline_start_seconds": 250,
+      "timeline_end_seconds": 270
+    },
+    {
+      "id": "S12",
+      "title": "왜 하필 오늘",
+      "duration_target_seconds": 30,
+      "story_time": "다음 날 08:55",
+      "location": "공용 사무실 · 기획실 방향",
+      "cast": [
+        "S",
+        "Y",
+        "H"
+      ],
+      "wardrobe": [
+        "W02",
+        "W07",
+        "W05"
+      ],
+      "audience_understands": "서윤은 지시를 받은 공동 목격자다. 수정이는 혼자 듣고 잘못 해석한 것이 아님을 알게 되지만, 사고와의 관계는 아직 모른다.",
+      "action_ko": "자리에 앉은 수정이에게 서윤이 낮은 목소리로 자신이 전날 지시를 받은 직원이라고 밝힌다. 두 사람이 눈을 맞춘 뒤 서윤은 한 실장이 다가오는 것을 보고 대화를 멈추고 자기 자리로 돌아간다. 한 실장은 수정이에게 평범한 말을 건넨다. 수정이의 불안한 시선에서 1화가 끝난다.",
+      "dialogue": [
+        {
+          "speaker": "Y",
+          "text_ko": "어젯밤 그 지시, 제가 받았어요.",
+          "mode": "on-screen"
+        },
+        {
+          "speaker": "S",
+          "text_ko": "정상으로 바꾸라는…?",
+          "mode": "on-screen"
+        },
+        {
+          "speaker": "H",
+          "text_ko": "어제 늦게까지 있던데. 오늘은 무리하지 말아요.",
+          "mode": "on-screen"
+        },
+        {
+          "speaker": "S",
+          "text_ko": "…네.",
+          "mode": "on-screen"
+        },
+        {
+          "speaker": "S",
+          "text_ko": "왜 하필 오늘…",
+          "mode": "on-screen"
+        }
+      ],
+      "shot_plan": [
+        {
+          "id": "K28",
+          "duration_target_seconds": 10,
+          "description_ko": "같은 비밀을 알고 있는 두 사람"
+        },
+        {
+          "id": "K29",
+          "duration_target_seconds": 10,
+          "description_ko": "평범한 말이 다르게 들린다"
+        },
+        {
+          "id": "K30",
+          "duration_target_seconds": 10,
+          "description_ko": "왜 하필 오늘"
+        }
+      ],
+      "ending_ko": "1화 끝. 다음 화 질문: 선배는 무엇을 확인했고, 사고는 우연이었을까?",
+      "keyframes_status": "generated_per_shot_pairs",
+      "video_status": "not_submitted",
+      "timeline_start_seconds": 270,
+      "timeline_end_seconds": 300
+    }
+  ],
+  "cast": {
+    "S": {
+      "name": "수정이",
+      "role": "27세 · 회사 운영지원팀 직원",
+      "identity": "assets/identity/sujeong-master.png"
+    },
+    "J": {
+      "name": "윤준서",
+      "role": "29세 · 시설관리팀 대리, 수정이가 믿는 선배",
+      "identity": "assets/identity/junseo-master.png"
+    },
+    "H": {
+      "name": "한진우",
+      "role": "44세 · 기획실장, 점검 결과 변경을 지시하는 인물",
+      "identity": "assets/identity/han-master.png"
+    },
+    "Y": {
+      "name": "서윤",
+      "role": "28세 · 기획실 운영 담당, 은폐 지시를 직접 받은 공동 목격자",
+      "identity": "assets/identity/seoyun-master.png"
+    }
+  },
+  "continuity": [
+    "첫날 출근·야근·퇴근 모두 W01 아이보리 피트 상의·토프 H라인 스커트·단화. 가방만 야근 중 책상 아래에 두고 퇴근 때 회수.",
+    "다음 날은 W02 연하늘색 슬리브리스 상의·네이비 A라인 스커트·단화. W03 세이지 A라인 비교 코디는 이번 1화에 섞지 않음.",
+    "원본 인물은 외모 기준, 여름 복장컷은 의류 기준, 배경은 공간 기준, 끝 프레임에는 같은 쇼트의 시작 프레임을 추가 참조.",
+    "동일 쇼트 안 카메라 반전·다른 인물로 전환 금지. 트래킹·작은 아크·돌리와 인물 동작을 동기화.",
+    "문자·안내 표지·부서명·시각·문서 글자는 후반 합성.",
+    "밤 복도·기획실·휴게실은 같은 회사 공간. 첫날 말과 다음 날 사고를 설명하는 대사는 개정안 02 흐름 유지.",
+    "사고 원인·회사 개입은 미확정. 새 사고 장면·병원 배우·USB·음성 조작은 추가하지 않음.",
+    "서윤 Y는 긴 짙은 갈색 머리의 별도 성인 인물. 첫날 W06 로즈·아이보리 H라인, 다음 날 W07 민트·샌드 A라인을 사용한다. W08–W13은 후속 화 비교 코디다.",
+    "서윤은 은폐 지시를 직접 받은 직원이고 수정이는 문 밖에서 이를 들었다. 서윤은 당시에 문 밖 수정이를 보지 못했다.",
+    "K26 사고 소식 후 K27에서는 업무 자리 근처에 앉은 구도로 편집 전환한다. K28에서 서윤은 서서 수정이에게 조용히 말한다. 서로 다른 쇼트의 앉기·서기 상태는 한 영상 안의 순간 변신으로 연결하지 않는다.",
+    "K28→K29는 편집 컷. 서윤은 자기 자리로 돌아간 뒤 한 실장이 접근한 것으로 연결하며 프레임 안 인물 삭제 모핑을 요청하지 않는다.",
+    "장면 사진의 배우 시선은 문·휴대폰·상대·작업을 향한다. 스튜디오 복장·방향 참조는 실제 장면 연기용 키프레임으로 사용하지 않는다."
+  ],
+  "location_plan": [
+    {
+      "id": "L01",
+      "name": "회사 앞 거리·외관",
+      "function": "회사로 향하는 평범한 아침과 귀가",
+      "status": "구도 계획 · 이미지 미생성"
+    },
+    {
+      "id": "L02",
+      "name": "회사 로비",
+      "function": "선배 관계 소개·직장인 일상",
+      "status": "구도 계획 · 이미지 미생성"
+    },
+    {
+      "id": "L03",
+      "name": "공용 사무실",
+      "function": "같은 좌석 배치를 낮·야근·다음 날 아침에 재사용",
+      "status": "구도 계획 · 이미지 미생성"
+    },
+    {
+      "id": "L04",
+      "name": "기획실·화장실 방향 복도",
+      "function": "기획실을 지나는 이유와 문틈 방향을 한 설정 컷에서 설명",
+      "status": "구도 계획 · 이미지 미생성"
+    },
+    {
+      "id": "L05",
+      "name": "기획실 내부",
+      "function": "한진우·보고서·문틈 구도. 복도와 문 위치 일치",
+      "status": "구도 계획 · 이미지 미생성"
+    },
+    {
+      "id": "L06",
+      "name": "회사 휴게실",
+      "function": "두 사람이 앉아 상담하는 안전한 공간",
+      "status": "구도 계획 · 이미지 미생성"
+    }
+  ],
+  "shots": [
+    {
+      "id": "K01",
+      "scene_id": "S01",
+      "title": "출근길 워킹",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 0,
+      "timeline_end_seconds": 10,
+      "background": "B01",
+      "wardrobe": [
+        "W01"
+      ],
+      "start_ko": "수정이가 회사 앞을 걸으며 오른쪽 출입구를 바라보는 전신 컷",
+      "end_ko": "회사 입구에 도착해 걸음을 늦춘 수정이의 허리 위 미디엄 컷",
+      "camera_ko": "측면 트래킹 후 천천히 접근, 전신→허리 위 미디엄",
+      "start_en": "Full-body Sujeong walking along the office sidewalk, gaze at entrance on viewer right, tote on her right shoulder; her right hand naturally grips the strap.",
+      "end_en": "Sujeong arrives near the entrance, slows to a stop, waist-up three-quarter medium shot, relaxed smile.",
+      "motion_en": "Track beside her as she approaches the entrance, then smoothly push closer to a waist-up view as she slows. Stay on the same street-facing side. Candid dramatic performance only: eyes follow the specified scene target or conversation partner, NEVER the camera lens. No posing for photographer, no unexplained smile or look-back.",
+      "keyframes": {
+        "start": "assets/keyframes/K01-start-gaze.png",
+        "end": "assets/keyframes/K01-end-gaze.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "전신에서 가까운 컷으로 보정. 끝 컷 스커트 조직 무늬가 시작과 조금 달라 영상에서 W01 의류 질감 고정 확인.",
+      "dialogue": [
+        {
+          "speaker": "S",
+          "text_ko": "오늘은 일찍 끝나겠지?",
+          "start_seconds": 2,
+          "end_seconds": 6,
+          "mode": "on-screen"
+        }
+      ],
+      "background_asset": "assets/backgrounds/B01.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "유리 출입구와 걷는 방향",
+      "gaze_en": "Sujeong looks toward the glass entrance to viewer right, never toward the lens.",
+      "visible_cast": [
+        "S"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K02",
+      "scene_id": "S01",
+      "title": "커피를 받고 입구로",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 10,
+      "timeline_end_seconds": 20,
+      "background": "B01",
+      "wardrobe": [
+        "W01"
+      ],
+      "start_ko": "커피 창구 옆에서 오른손을 내미는 수정이",
+      "end_ko": "오른손에 종이컵을 받고 입구 쪽으로 몸을 돌리는 수정이",
+      "camera_ko": "같은 쪽에서 20도 작은 아크 이동",
+      "start_en": "Sujeong stands beside the left takeout coffee window, right hand extended toward one plain paper cup on the service ledge; tote on right shoulder.",
+      "end_en": "She now holds that single plain paper cup in her RIGHT hand and turns her shoulders toward the glass entrance on the right. Same feet and bag.",
+      "motion_en": "Move through a shallow 20-degree arc on the same street side while she takes one cup and turns. No change to her identity or outfit. Candid dramatic performance only: eyes follow the specified scene target or conversation partner, NEVER the camera lens. No posing for photographer, no unexplained smile or look-back.",
+      "keyframes": {
+        "start": "assets/keyframes/K02-start.png",
+        "end": "assets/keyframes/K02-end.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "이 쇼트의 가방은 왼쪽 어깨. 다음 로비 쇼트는 오른쪽이며 커피 용기도 종이컵→투명컵으로 달라 연결 보정 필요.",
+      "dialogue": [],
+      "background_asset": "assets/backgrounds/B01.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "커피를 건네는 직원 → 출입구",
+      "gaze_en": "Look at the person handing her coffee, then the entrance along her walking direction.",
+      "visible_cast": [
+        "S"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K03",
+      "scene_id": "S02",
+      "title": "로비에서 선배 인사",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 20,
+      "timeline_end_seconds": 30,
+      "background": "B03",
+      "wardrobe": [
+        "W01",
+        "W04"
+      ],
+      "start_ko": "로비 왼쪽 수정이·오른쪽 준서가 2m 간격으로 마주 본다",
+      "end_ko": "두 사람이 가까워져 웃으며 인사하는 투샷",
+      "camera_ko": "문 쪽에서 테이블 축 없이 1m 전진",
+      "start_en": "Sujeong screen-left and Junseo screen-right in the lobby, about 2m apart, facing each other. Coffee in her right hand, tote right shoulder.",
+      "end_en": "They have stepped nearer, exchanging a small friendly greeting, medium two-shot; Sujeong remains left and Junseo right.",
+      "motion_en": "Slow 1m dolly forward as they approach and greet. Keep both faces separate, keep screen-left and screen-right consistent. Candid dramatic performance only: eyes follow the specified scene target or conversation partner, NEVER the camera lens. No posing for photographer, no unexplained smile or look-back.",
+      "keyframes": {
+        "start": "assets/keyframes/K03-start.png",
+        "end": "assets/keyframes/K03-end.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "K02와 커피 용기·가방 어깨가 다름. 영상 시험 시 컵을 한 종류로 통일하고 필요하면 해당 컷만 재생성.",
+      "dialogue": [
+        {
+          "speaker": "S",
+          "text_ko": "선배, 어제 자료 봐주셔서 감사해요.",
+          "start_seconds": 1,
+          "end_seconds": 8,
+          "mode": "on-screen"
+        }
+      ],
+      "background_asset": "assets/backgrounds/B03.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "수정이 ↔ 준서",
+      "gaze_en": "Both coworkers look at each other, not at the observer camera.",
+      "visible_cast": [
+        "S",
+        "J"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K04",
+      "scene_id": "S02",
+      "title": "다정한 선배의 응답",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 30,
+      "timeline_end_seconds": 40,
+      "background": "B03",
+      "wardrobe": [
+        "W01",
+        "W04"
+      ],
+      "start_ko": "수정이 어깨 너머 준서의 편한 표정",
+      "end_ko": "준서가 가볍게 고개를 끄덕이며 업무 구역을 가리킨다",
+      "camera_ko": "준서 쪽으로 0.5m 슬라이드·미디엄 접근",
+      "start_en": "Near-side over-Sujeong-shoulder shot toward Junseo on screen-right, friendly neutral expression, same lobby.",
+      "end_en": "Junseo gives one small reassuring nod, one relaxed hand indicating the workplace direction; Sujeong left foreground shoulder remains.",
+      "motion_en": "Slide 0.5m toward Junseo without crossing the line between them. This is a separate edit shot from the previous two-shot, not a reverse-angle interpolation. Candid dramatic performance only: eyes follow the specified scene target or conversation partner, NEVER the camera lens. No posing for photographer, no unexplained smile or look-back.",
+      "keyframes": {
+        "start": "assets/keyframes/K04-start.png",
+        "end": "assets/keyframes/K04-end.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "참조 이미지 준비 완료. 실제 움직임·손·얼굴 일관성은 10초 영상으로 검증 필요.",
+      "dialogue": [
+        {
+          "speaker": "J",
+          "text_ko": "또 막히면 물어봐. 혼자 끙끙대지 말고.",
+          "start_seconds": 1,
+          "end_seconds": 8,
+          "mode": "on-screen"
+        }
+      ],
+      "background_asset": "assets/backgrounds/B03.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "준서는 수정이, 수정이는 준서",
+      "gaze_en": "Junseo answers while looking at Sujeong; she listens looking at him.",
+      "visible_cast": [
+        "S",
+        "J"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K05",
+      "scene_id": "S03",
+      "title": "평범한 자리로",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 40,
+      "timeline_end_seconds": 50,
+      "background": "B04",
+      "wardrobe": [
+        "W01"
+      ],
+      "start_ko": "수정이가 책상 왼쪽 의자 옆에 서 있다",
+      "end_ko": "수정이가 의자에 앉아 모니터를 바라본다",
+      "camera_ko": "출입문 방향에서 책상 쪽으로 1m 전진",
+      "start_en": "Sujeong stands beside her gray chair at the nearest left desk; her black tote is already under the desk on the left, coffee on right desktop, hands empty.",
+      "end_en": "Sujeong is seated naturally at the same desk, hands resting near the keyboard, looking at the monitor. Coffee and bag unchanged.",
+      "motion_en": "Push in 1m from a wide office establishing view to a medium desk view while she sits. Preserve desk layout and skirt coverage while seated. Candid dramatic performance only: eyes follow the specified scene target or conversation partner, NEVER the camera lens. No posing for photographer, no unexplained smile or look-back.",
+      "keyframes": {
+        "start": "assets/keyframes/K05-start-gaze.png",
+        "end": "assets/keyframes/K05-end.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "참조 이미지 준비 완료. 실제 움직임·손·얼굴 일관성은 10초 영상으로 검증 필요.",
+      "dialogue": [],
+      "background_asset": "assets/backgrounds/B04.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "의자·키보드·모니터",
+      "gaze_en": "Sujeong looks down at her chair and keyboard, then at the monitor.",
+      "visible_cast": [
+        "S"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K06",
+      "scene_id": "S03",
+      "title": "업무 자료 전달",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 50,
+      "timeline_end_seconds": 60,
+      "background": "B04",
+      "wardrobe": [
+        "W01",
+        "W04"
+      ],
+      "start_ko": "앉아 있는 수정이가 오른손에 무지 파일을 들고 준서를 본다",
+      "end_ko": "준서가 파일을 받아 들고 확인한다",
+      "camera_ko": "같은 책상 앞에서 0.7m 옆 이동",
+      "start_en": "Sujeong seated screen-left holds one plain paper folder in her right hand, Junseo stands screen-right beside the desk ready to receive it.",
+      "end_en": "Junseo now holds that same folder in his left hand, glancing down; Sujeong right hand is empty on the desk.",
+      "motion_en": "A gentle 0.7m lateral slide along the near side of desk during one simple folder handoff. No readable document text, no second folder. Candid dramatic performance only: eyes follow the specified scene target or conversation partner, NEVER the camera lens. No posing for photographer, no unexplained smile or look-back.",
+      "keyframes": {
+        "start": "assets/keyframes/K06-start.png",
+        "end": "assets/keyframes/K06-end.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "파일을 주고받는 동작은 선명하나 가방이 의자 쪽에 보임. 화면 밖 소품 상태까지 고정됐다고 간주하지 않음.",
+      "dialogue": [
+        {
+          "speaker": "S",
+          "text_ko": "B동 점검 자료도 정리해 둘게요.",
+          "start_seconds": 0.5,
+          "end_seconds": 4.5,
+          "mode": "on-screen"
+        },
+        {
+          "speaker": "J",
+          "text_ko": "고마워. 점검표는 내가 확인할게.",
+          "start_seconds": 5,
+          "end_seconds": 9.5,
+          "mode": "on-screen"
+        }
+      ],
+      "background_asset": "assets/backgrounds/B04.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "파일 → 상대 얼굴",
+      "gaze_en": "Eyes follow the one folder during handoff, then the colleague face.",
+      "visible_cast": [
+        "S",
+        "J"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K07",
+      "scene_id": "S03",
+      "title": "상사의 평범한 인사",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 60,
+      "timeline_end_seconds": 70,
+      "background": "B04",
+      "wardrobe": [
+        "W01",
+        "W05"
+      ],
+      "start_ko": "오른쪽 뒤 출입문에서 한진우가 걸어온다, 수정이는 책상에 앉아 있다",
+      "end_ko": "한진우가 책상 옆에 와서 짧게 인사, 수정이는 올려다본다",
+      "camera_ko": "미디엄 와이드 유지·짧은 팬",
+      "start_en": "Han is near the rear-right office door, walking toward Sujeong seated at her nearest-left desk. Both visible, normal daytime mood.",
+      "end_en": "Han has reached the right side beside her desk and greets calmly; Sujeong looks up. Both remain visible, no threatening expression.",
+      "motion_en": "Small motivated pan tracking Han across the same office, no axis reversal or furniture changes. Candid dramatic performance only: eyes follow the specified scene target or conversation partner, NEVER the camera lens. No posing for photographer, no unexplained smile or look-back.",
+      "keyframes": {
+        "start": "assets/keyframes/K07-start.png",
+        "end": "assets/keyframes/K07-end.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "참조 이미지 준비 완료. 실제 움직임·손·얼굴 일관성은 10초 영상으로 검증 필요.",
+      "dialogue": [
+        {
+          "speaker": "H",
+          "text_ko": "수고해요.",
+          "start_seconds": 2,
+          "end_seconds": 4,
+          "mode": "on-screen"
+        }
+      ],
+      "background_asset": "assets/backgrounds/B04.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "인사하는 한 실장과 수정이",
+      "gaze_en": "Han looks toward Sujeong while greeting; Sujeong looks toward Han.",
+      "visible_cast": [
+        "S",
+        "H"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K08",
+      "scene_id": "S04",
+      "title": "야근의 피로",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 70,
+      "timeline_end_seconds": 80,
+      "background": "B05",
+      "wardrobe": [
+        "W01"
+      ],
+      "start_ko": "수정이만 남은 사무실, 책상에서 타이핑한다",
+      "end_ko": "수정이가 손을 쉬고 눈을 감았다 뜨며 목을 푼다",
+      "camera_ko": "사무실 와이드→책상 미디엄으로 1.5m 전진",
+      "start_en": "Sujeong seated at nearest-left desk typing, empty office visible around her. Same ivory summer top and H-line skirt, no tote worn. Black phone lies on her right desktop, tote under desk left.",
+      "end_en": "Medium view of Sujeong taking her hands off keyboard, gently stretching neck, tired but not frightened; desk props unchanged.",
+      "motion_en": "Slow 1.5m dolly from establishing wide to medium, with natural desk action. Night lighting only, same summer clothes, no jacket. Candid dramatic performance only: eyes follow the specified scene target or conversation partner, NEVER the camera lens. No posing for photographer, no unexplained smile or look-back.",
+      "keyframes": {
+        "start": "assets/keyframes/K08-start.png",
+        "end": "assets/keyframes/K08-end.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "참조 이미지 준비 완료. 실제 움직임·손·얼굴 일관성은 10초 영상으로 검증 필요.",
+      "dialogue": [
+        {
+          "speaker": "S",
+          "text_ko": "이것만 보내고 가자.",
+          "start_seconds": 2,
+          "end_seconds": 6,
+          "mode": "on-screen"
+        }
+      ],
+      "background_asset": "assets/backgrounds/B05.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "모니터와 키보드",
+      "gaze_en": "Sujeong watches her work monitor and keyboard with tired concentration.",
+      "visible_cast": [
+        "S"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K09",
+      "scene_id": "S04",
+      "title": "화장실로 잠시 이동",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 80,
+      "timeline_end_seconds": 90,
+      "background": "B05",
+      "wardrobe": [
+        "W01"
+      ],
+      "start_ko": "수정이가 의자 옆에 일어선 채 왼손에 휴대폰을 들고 있다",
+      "end_ko": "휴대폰을 오른손으로 옮기고 출구 쪽 첫걸음을 뗀다",
+      "camera_ko": "허리 위 구도에서 천천히 뒤로 이동하며 전신으로 열고, 출구를 향한 첫걸음을 따라간다",
+      "start_en": "Sujeong is already standing beside the chair, phone in LEFT hand, right hand resting near chair; tote under desk.",
+      "end_en": "She transfers the single phone into her RIGHT hand, lowers it and takes a first step toward the rear-right exit.",
+      "motion_en": "Start in the selected waist-up composition. During seconds 1–3, visibly pass the ONE phone from her left hand to her right hand. Slowly pull back while she releases the chair and takes a step toward the office exit on viewer right, ending with her full body visible. Stay on the same office side; no sudden framing jump or phone duplication.",
+      "keyframes": {
+        "start": "assets/keyframes/K09-start-gaze-r1.png",
+        "end": "assets/keyframes/K09-end-gaze.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "선택된 이미지의 휴대폰 손이 바뀌므로 프롬프트에 실제 손에서 손으로 전달하는 동작을 넣음. 순간 복제 여부 시험 필요.",
+      "dialogue": [],
+      "background_asset": "assets/backgrounds/B05.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "오른쪽 사무실 출구",
+      "gaze_en": "Sujeong eyes follow the open office exit to viewer right.",
+      "visible_cast": [
+        "S"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K10",
+      "scene_id": "S05",
+      "title": "화장실 방향 동선",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 90,
+      "timeline_end_seconds": 100,
+      "background": "B06",
+      "wardrobe": [
+        "W01"
+      ],
+      "start_ko": "복도 앞쪽의 수정이가 끝쪽 화장실 방향으로 걷는다",
+      "end_ko": "수정이가 왼쪽 기획실 문에 가까워진다",
+      "camera_ko": "뒤측면에서 2m 따라가는 트래킹",
+      "start_en": "Sujeong in foreground right of corridor walking toward the distant restroom direction. Planning-room ajar door on left wall ahead; phone in left hand by thigh.",
+      "end_en": "Sujeong is now beside the left planning-room door, still intending to continue forward, profile visible; all door geography unchanged.",
+      "motion_en": "Track 2m from her rear-side on the corridor side. Establish restroom direction and planning door together, no new doors or readable signs. Candid dramatic performance only: eyes follow the specified scene target or conversation partner, NEVER the camera lens. No posing for photographer, no unexplained smile or look-back.",
+      "keyframes": {
+        "start": "assets/keyframes/K10-start-gaze.png",
+        "end": "assets/keyframes/K10-end-gaze.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "시작·끝 모두 새 시선 보정본. 뒤에서 복도 진행 방향을 바라보다 왼쪽 기획실 문으로 고개를 돌린다. 실제 출력 941×1672.",
+      "dialogue": [],
+      "background_asset": "assets/backgrounds/B06-r1.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "복도 진행 방향 → 왼쪽 기획실 문",
+      "gaze_en": "Initially look down the corridor, then turn head toward the planning-room door on viewer left.",
+      "visible_cast": [
+        "S"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K11",
+      "scene_id": "S05",
+      "title": "말소리에 멈추다",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 100,
+      "timeline_end_seconds": 110,
+      "background": "B06",
+      "wardrobe": [
+        "W01"
+      ],
+      "start_ko": "수정이가 문 옆을 지나려는 옆모습",
+      "end_ko": "수정이가 왼쪽 기획실 문틈으로 고개를 돌린 얼굴 중심 컷",
+      "camera_ko": "같은 축에서 천천히 전진, 전신→얼굴 중심",
+      "start_en": "Medium profile of Sujeong about to pass the left ajar planning door, relaxed tired face, left hand holds phone down.",
+      "end_en": "Tight chest-up portrait, Sujeong turns toward the open planning-office door on viewer left, alert curious gaze.",
+      "motion_en": "Slow continuous push toward her face as she stops and turns toward the open planning-room door on viewer left. Preserve camera side and single phone held low. Candid dramatic performance only: eyes follow the specified scene target or conversation partner, NEVER the camera lens. No posing for photographer, no unexplained smile or look-back.",
+      "keyframes": {
+        "start": "assets/keyframes/K11-start-gaze.png",
+        "end": "assets/keyframes/K11-end-r1.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "첫 생성 끝 컷이 거의 같아 얼굴 중심·문쪽 시선으로 보정.",
+      "dialogue": [],
+      "background_asset": "assets/backgrounds/B06-r1.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "왼쪽 기획실 문틈",
+      "gaze_en": "Look toward the doorway on viewer left, listening with lips closed.",
+      "visible_cast": [
+        "S"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K12",
+      "scene_id": "S06",
+      "title": "한 실장의 지시를 받는 서윤",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 110,
+      "timeline_end_seconds": 120,
+      "background": "B07",
+      "wardrobe": [
+        "W05",
+        "W06"
+      ],
+      "start_ko": "기획실에서 서윤이 서서 한 실장의 보고서 설명을 듣는다",
+      "end_ko": "한 실장이 보고서 한 곳을 짚고 서윤은 걱정스럽게 내려다본다",
+      "camera_ko": "문 안쪽 투쇼트에서 서류·두 사람 쪽으로 천천히 전진",
+      "start_en": "Night planning office: Han seated behind desk, Seoyun with LONG hair and W06 dusty-rose blouse/ivory skirt stands at viewer left, looking DOWN at the report, Han looks at report or Seoyun. No other woman.",
+      "end_en": "Closer medium two-shot from same doorway axis. Han points at the report, Seoyun concerned eyes follow his finger. Both look at report, never lens.",
+      "motion_en": "One smooth push toward the report and the two colleagues. Han points while speaking, Seoyun listens with lips closed and a subtle worried brow. Keep desk, doorway, paperwork and the same axis.",
+      "keyframes": {
+        "start": "assets/keyframes/K12-start-seoyun.png",
+        "end": "assets/keyframes/K12-end-seoyun.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "서윤의 정식 얼굴·복장 참조를 연결해 새로 구성. 두 사람의 시선·손·좌우와 실제 영상 발화를 시험한다.",
+      "dialogue": [
+        {
+          "speaker": "H",
+          "text_ko": "B동 균열 사진은 보고서에서 빼요.",
+          "start_seconds": 1,
+          "end_seconds": 8,
+          "mode": "on-screen"
+        }
+      ],
+      "background_asset": "assets/backgrounds/B07-r1.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "서윤과 한 실장은 보고서 → 상대 얼굴",
+      "gaze_en": "Seoyun studies the report and Han; Han points at the report and glances at Seoyun.",
+      "visible_cast": [
+        "H",
+        "Y"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K13",
+      "scene_id": "S06",
+      "title": "문 밖에서 듣는 수정이",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 120,
+      "timeline_end_seconds": 130,
+      "background": "B06",
+      "wardrobe": [
+        "W01"
+      ],
+      "start_ko": "문 옆에 선 수정이의 상반신, 안쪽 따뜻한 빛",
+      "end_ko": "수정이가 숨을 멈추며 시선을 고정, 오른손을 가볍게 쥔다",
+      "camera_ko": "상반신→얼굴 가까이 0.8m 전진",
+      "start_en": "Sujeong outside on corridor side beside left ajar door, medium upper-body listening shot; phone left hand at thigh, right hand relaxed.",
+      "end_en": "Closer face and shoulders, anxious alert eyes, right hand gently tense but no exaggerated fear; phone remains lowered.",
+      "motion_en": "Gentle 0.8m push-in while she listens with lips closed. Same door gap and camera side, no recording or phone raised. Candid dramatic performance only: eyes follow the specified scene target or conversation partner, NEVER the camera lens. No posing for photographer, no unexplained smile or look-back.",
+      "keyframes": {
+        "start": "assets/keyframes/K13-start-gaze.png",
+        "end": "assets/keyframes/K13-end-gaze.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "휴대폰 두 개 오류를 한 개로 보정. 원본은 이력만 보존.",
+      "dialogue": [
+        {
+          "speaker": "Y",
+          "text_ko": "그럼 안전점검 결과는요?",
+          "start_seconds": 1,
+          "end_seconds": 6,
+          "mode": "off-screen inside planning room; Sujeong lips closed"
+        }
+      ],
+      "background_asset": "assets/backgrounds/B06-r1.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "문틈 쪽에 시선을 둔 채 듣기",
+      "gaze_en": "Sujeong eyes point toward the door gap at viewer left; she listens, her lips remain closed.",
+      "visible_cast": [
+        "S"
+      ],
+      "offscreen_cast": [
+        "Y"
+      ]
+    },
+    {
+      "id": "K14",
+      "scene_id": "S06",
+      "title": "한 실장의 정상 처리 지시",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 130,
+      "timeline_end_seconds": 140,
+      "background": "B07",
+      "wardrobe": [
+        "W05"
+      ],
+      "start_ko": "한진우가 화면 밖 직원의 질문을 듣는다",
+      "end_ko": "한진우가 고개를 들고 담담하게 대답한다",
+      "camera_ko": "20도 작은 아크로 정장·표정 강조",
+      "start_en": "Han seated behind same desk, pausing to listen to an unseen staff member; closed lips, same report on desk.",
+      "end_en": "Han has raised his gaze toward the unseen listener beside camera, now replying calmly. No extra visible actor.",
+      "motion_en": "A shallow camera arc on the same desk side with modest tightening. Han answers the question heard in the previous shot while looking toward off-screen Seoyun. Only Han speaks in this shot; do not animate an additional speaker.",
+      "keyframes": {
+        "start": "assets/keyframes/K14-start.png",
+        "end": "assets/keyframes/K14-end.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "대사 반응 쇼트로 이미지 변화가 작음. 10초 전체를 정지하지 않도록 표정·손·카메라를 시험.",
+      "dialogue": [
+        {
+          "speaker": "H",
+          "text_ko": "정상으로 올려요. 내일 승인 안 나면 계약이 날아가요.",
+          "start_seconds": 0.5,
+          "end_seconds": 9,
+          "mode": "on-screen"
+        }
+      ],
+      "background_asset": "assets/backgrounds/B07-r1.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "한 실장은 화면 밖 서윤",
+      "gaze_en": "Han addresses Seoyun off-screen at the existing desk-side eyeline, not the lens.",
+      "visible_cast": [
+        "H"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K15",
+      "scene_id": "S06",
+      "title": "위험한 내용을 이해하다",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 140,
+      "timeline_end_seconds": 150,
+      "background": "B06",
+      "wardrobe": [
+        "W01"
+      ],
+      "start_ko": "수정이가 문을 보며 듣는 가까운 얼굴",
+      "end_ko": "수정이가 시선을 떨구고 한 걸음 뒤로 물러선다",
+      "camera_ko": "0.5m 옆 이동하며 한 걸음 후퇴 따라가기",
+      "start_en": "Close-medium view of Sujeong by same ajar left door, looking at the gap, lips closed, phone in left hand.",
+      "end_en": "She has taken one quiet step backward and lowered her gaze, deeply uneasy, same background door still visible.",
+      "motion_en": "Slide 0.5m to follow a single backward step. Preserve face, feet and corridor topology; no panic sprint. Candid dramatic performance only: eyes follow the specified scene target or conversation partner, NEVER the camera lens. No posing for photographer, no unexplained smile or look-back.",
+      "keyframes": {
+        "start": "assets/keyframes/K15-start.png",
+        "end": "assets/keyframes/K15-end.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "참조 이미지 준비 완료. 실제 움직임·손·얼굴 일관성은 10초 영상으로 검증 필요.",
+      "dialogue": [],
+      "background_asset": "assets/backgrounds/B06-r1.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "문틈 → 뒤로 물러설 바닥",
+      "gaze_en": "Sujeong briefly watches the doorway, then checks the floor while retreating.",
+      "visible_cast": [
+        "S"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K16",
+      "scene_id": "S07",
+      "title": "조용히 돌아서다",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 150,
+      "timeline_end_seconds": 160,
+      "background": "B06",
+      "wardrobe": [
+        "W01"
+      ],
+      "start_ko": "기획실 문 앞에서 돌아서는 수정이",
+      "end_ko": "공용 사무실 방향으로 몇 걸음 멀어진 수정이",
+      "camera_ko": "수정이가 사무실로 되돌아가도록 천천히 몸을 돌리고, 카메라는 같은 복도 축에서 뒤로 물러난다",
+      "start_en": "Sujeong beside planning door turning shoulders away toward shared-office entrance, phone left hand down.",
+      "end_en": "She is several steps closer to shared-office entrance, away from the planning door, anxious but controlled.",
+      "motion_en": "The start shows Sujeong rear three-quarter. During seconds 0–4 she physically pivots toward the return path and walks back toward her office. The camera retreats along the same corridor axis to reveal the selected front three-quarter end. Her gaze stays toward the path at viewer right, never the camera. Keep ONE phone low in her anatomical right hand. This is an actor pivot, not an instantaneous camera reverse.",
+      "keyframes": {
+        "start": "assets/keyframes/K16-start-gaze.png",
+        "end": "assets/keyframes/K16-end-gaze.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "참조 이미지 준비 완료. 실제 움직임·손·얼굴 일관성은 10초 영상으로 검증 필요.",
+      "dialogue": [],
+      "background_asset": "assets/backgrounds/B06-r1.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "돌아갈 사무실과 복도 옆 방향",
+      "gaze_en": "Sujeong looks toward the return path beside the camera, sufficiently off-axis to avoid eye contact.",
+      "visible_cast": [
+        "S"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K17",
+      "scene_id": "S07",
+      "title": "선배에게 연락",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 160,
+      "timeline_end_seconds": 170,
+      "background": "B06",
+      "wardrobe": [
+        "W01"
+      ],
+      "start_ko": "수정이가 폰을 왼손에 들고 오른손으로 입력 준비",
+      "end_ko": "수정이가 폰을 보고 답장을 기다리는 상반신",
+      "camera_ko": "손과 얼굴 함께 보이는 0.6m 전진",
+      "start_en": "Sujeong stopped near office entrance, black phone in left hand at mid-chest, right index finger poised to type; blank dark screen.",
+      "end_en": "Closer upper-body view, she watches that same phone for a reply, right hand resting near it, worried eyes.",
+      "motion_en": "Slow push keeping her face and one phone together. She starts worried, reads the screen and contacts Junseo; no smiling or gaze toward the camera. Phone message lettering is added in post.",
+      "keyframes": {
+        "start": "assets/keyframes/K17-start-gaze.png",
+        "end": "assets/keyframes/K17-end.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "시작 시선과 표정을 휴대폰을 보는 걱정으로 보정했다. 미소를 유지하는 인물 포즈를 요청하지 않는다.",
+      "dialogue": [
+        {
+          "speaker": "S",
+          "text_ko": "선배… 아직 계시려나.",
+          "start_seconds": 1,
+          "end_seconds": 5,
+          "mode": "on-screen"
+        }
+      ],
+      "background_asset": "assets/backgrounds/B06-r1.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "휴대폰 화면",
+      "gaze_en": "Sujeong looks down at her one phone, visibly worried, no portrait smile.",
+      "visible_cast": [
+        "S"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K18",
+      "scene_id": "S08",
+      "title": "휴게실에서 마주 앉다",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 170,
+      "timeline_end_seconds": 180,
+      "background": "B08",
+      "wardrobe": [
+        "W01",
+        "W04"
+      ],
+      "start_ko": "수정이는 왼쪽, 준서는 오른쪽에 이미 앉아 각자 컵을 들고 있다",
+      "end_ko": "수정이가 준서를 마주 보며 몸을 약간 앞으로 기울인다",
+      "camera_ko": "앉은 투쇼트에서 천천히 전진, 시선이 마주친다",
+      "start_en": "Both already seated in night break room: Sujeong left, Junseo right, one white mug each, one phone on table near Sujeong.",
+      "end_en": "Closer seated two-shot, Sujeong leans slightly forward toward Junseo, two mugs and single phone retained.",
+      "motion_en": "Both remain seated. Slowly push forward from the same near side of table as Junseo asks what happened and Sujeong turns her gaze to him. Preserve the two mugs and single phone within this shot. Candid dramatic performance only: eyes follow the specified scene target or conversation partner, NEVER the camera lens. No posing for photographer, no unexplained smile or look-back.",
+      "keyframes": {
+        "start": "assets/keyframes/K18-start.png",
+        "end": "assets/keyframes/K18-end.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "서서 들어오는 요청과 달리 이미 앉은 이미지여서 한·영 지시를 앉은 대화로 맞춤. K19에는 컵이 보이지 않아 컷 사이 소품 검수 필요.",
+      "dialogue": [
+        {
+          "speaker": "J",
+          "text_ko": "무슨 일이야? 얼굴이 왜 그래.",
+          "start_seconds": 2,
+          "end_seconds": 8,
+          "mode": "on-screen"
+        }
+      ],
+      "background_asset": "assets/backgrounds/B08.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "수정이 ↔ 준서",
+      "gaze_en": "Both remain seated and look at each other across the table.",
+      "visible_cast": [
+        "S",
+        "J"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K19",
+      "scene_id": "S08",
+      "title": "수정이의 고백",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 180,
+      "timeline_end_seconds": 190,
+      "background": "B08",
+      "wardrobe": [
+        "W01",
+        "W04"
+      ],
+      "start_ko": "수정이가 준서에게 조심스럽게 말을 꺼낸다",
+      "end_ko": "수정이가 앞으로 조금 숙여 들은 내용을 또렷하게 말한다",
+      "camera_ko": "수정이 쪽 0.5m 슬라이드·미디엄",
+      "start_en": "Medium two-shot on near table side, Sujeong left cautiously beginning to explain, Junseo right listening, phone face-down table left.",
+      "end_en": "A closer three-quarter view favoring Sujeong as she leans slightly forward and speaks earnestly; Junseo right edge still listening.",
+      "motion_en": "Slide 0.5m toward Sujeong, staying on the established near side. One speaker; no dramatic standing or hand waving. Candid dramatic performance only: eyes follow the specified scene target or conversation partner, NEVER the camera lens. No posing for photographer, no unexplained smile or look-back.",
+      "keyframes": {
+        "start": "assets/keyframes/K19-start.png",
+        "end": "assets/keyframes/K19-end.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "참조 이미지 준비 완료. 실제 움직임·손·얼굴 일관성은 10초 영상으로 검증 필요.",
+      "dialogue": [
+        {
+          "speaker": "S",
+          "text_ko": "기획실에서… B동 균열 사진을 빼고 정상으로 올리래요.",
+          "start_seconds": 0.5,
+          "end_seconds": 9,
+          "mode": "on-screen"
+        }
+      ],
+      "background_asset": "assets/backgrounds/B08.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "수정이는 준서에게 설명",
+      "gaze_en": "Sujeong speaks toward Junseo, with occasional downward thinking glances.",
+      "visible_cast": [
+        "S",
+        "J"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K20",
+      "scene_id": "S08",
+      "title": "선배의 확인 질문",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 190,
+      "timeline_end_seconds": 200,
+      "background": "B08",
+      "wardrobe": [
+        "W01",
+        "W04"
+      ],
+      "start_ko": "준서가 고개를 기울여 수정이 말을 듣는다",
+      "end_ko": "준서가 몸을 앞으로 숙여 한 실장인지 묻는다",
+      "camera_ko": "준서 쪽으로 0.5m 슬라이드",
+      "start_en": "Medium shot favoring Junseo on screen-right at the same table, Sujeong left edge softly visible; he listens with closed lips.",
+      "end_en": "Junseo leans forward slightly, concern replacing casual expression as he asks a short question; Sujeong listens.",
+      "motion_en": "Small 0.5m lateral slide toward Junseo without crossing table axis. Keep identities and left-right relation fixed. Candid dramatic performance only: eyes follow the specified scene target or conversation partner, NEVER the camera lens. No posing for photographer, no unexplained smile or look-back.",
+      "keyframes": {
+        "start": "assets/keyframes/K20-start.png",
+        "end": "assets/keyframes/K20-end.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "참조 이미지 준비 완료. 실제 움직임·손·얼굴 일관성은 10초 영상으로 검증 필요.",
+      "dialogue": [
+        {
+          "speaker": "J",
+          "text_ko": "한 실장이 그렇게 말했어?",
+          "start_seconds": 2,
+          "end_seconds": 7,
+          "mode": "on-screen"
+        }
+      ],
+      "background_asset": "assets/backgrounds/B08.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "준서는 수정이에게 확인",
+      "gaze_en": "Junseo looks at Sujeong while asking his clarification.",
+      "visible_cast": [
+        "S",
+        "J"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K21",
+      "scene_id": "S08",
+      "title": "잘못 들은 것이 아니다",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 200,
+      "timeline_end_seconds": 210,
+      "background": "B08",
+      "wardrobe": [
+        "W01",
+        "W04"
+      ],
+      "start_ko": "수정이가 준서 질문을 듣는다",
+      "end_ko": "수정이가 작게 끄덕이고 준서는 표정이 굳는다",
+      "camera_ko": "투샷으로 0.5m 후퇴하며 반응 포함",
+      "start_en": "Near-side medium two-shot, Sujeong left listens, Junseo right holds concern; phone face-down on left tabletop.",
+      "end_en": "Sujeong gives one small certain nod while finishing her answer; Junseo expression is serious. Both faces visible.",
+      "motion_en": "Gentle 0.5m pullback to include both reactions, no reverse-angle morphing. Candid dramatic performance only: eyes follow the specified scene target or conversation partner, NEVER the camera lens. No posing for photographer, no unexplained smile or look-back.",
+      "keyframes": {
+        "start": "assets/keyframes/K21-start.png",
+        "end": "assets/keyframes/K21-end.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "참조 이미지 준비 완료. 실제 움직임·손·얼굴 일관성은 10초 영상으로 검증 필요.",
+      "dialogue": [
+        {
+          "speaker": "S",
+          "text_ko": "네. 내일 승인 때문에요. 잘못 들은 건 아니에요.",
+          "start_seconds": 1,
+          "end_seconds": 9,
+          "mode": "on-screen"
+        }
+      ],
+      "background_asset": "assets/backgrounds/B08.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "수정이 ↔ 준서",
+      "gaze_en": "Sujeong confirms while looking at Junseo; he listens to her.",
+      "visible_cast": [
+        "S",
+        "J"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K22",
+      "scene_id": "S09",
+      "title": "내일 보고하겠다는 약속",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 210,
+      "timeline_end_seconds": 220,
+      "background": "B08",
+      "wardrobe": [
+        "W01",
+        "W04"
+      ],
+      "start_ko": "준서가 수정이를 차분하게 바라본다",
+      "end_ko": "준서가 손을 테이블 위에 모으며 약속한다",
+      "camera_ko": "준서에게 0.6m 전진",
+      "start_en": "Junseo screen-right medium view, calmly looking at Sujeong left foreground shoulder. Same clothes and table.",
+      "end_en": "Junseo rests both hands together naturally on table and speaks reassuringly, slightly tighter view; no readable document or phone in his hands.",
+      "motion_en": "Steady 0.6m push toward Junseo on same side. Fit the Korean promise naturally into one 10-second speaking shot. Candid dramatic performance only: eyes follow the specified scene target or conversation partner, NEVER the camera lens. No posing for photographer, no unexplained smile or look-back.",
+      "keyframes": {
+        "start": "assets/keyframes/K22-start.png",
+        "end": "assets/keyframes/K22-end.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "약속 대사 중심의 작은 변화. 실제 발화·시선·호흡과 접근 카메라로 정지감을 확인.",
+      "dialogue": [
+        {
+          "speaker": "J",
+          "text_ko": "원본 점검표부터 볼게. 내일 아홉 시, 감사팀에 확인 요청할게.",
+          "start_seconds": 0.5,
+          "end_seconds": 9.5,
+          "mode": "on-screen"
+        }
+      ],
+      "background_asset": "assets/backgrounds/B08.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "준서는 수정이에게 약속",
+      "gaze_en": "Junseo addresses Sujeong with a steady reassuring eyeline.",
+      "visible_cast": [
+        "S",
+        "J"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K23",
+      "scene_id": "S09",
+      "title": "걱정을 안심시키다",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 220,
+      "timeline_end_seconds": 230,
+      "background": "B08",
+      "wardrobe": [
+        "W01",
+        "W04"
+      ],
+      "start_ko": "수정이의 걱정스러운 얼굴과 준서의 듣는 얼굴",
+      "end_ko": "준서의 답에 수정이가 조금 숨을 놓는다",
+      "camera_ko": "둘을 포함한 미디엄 투샷·0.4m 옆 이동",
+      "start_en": "Medium two-shot with Sujeong left worried and Junseo right listening, phone still face-down left tabletop.",
+      "end_en": "After reassurance, Sujeong releases a small breath and shoulders lower slightly; Junseo remains steady.",
+      "motion_en": "Subtle 0.4m side slide; speakers alternate, the listener has closed lips. No extra action to obscure dialogue. Candid dramatic performance only: eyes follow the specified scene target or conversation partner, NEVER the camera lens. No posing for photographer, no unexplained smile or look-back.",
+      "keyframes": {
+        "start": "assets/keyframes/K23-start.png",
+        "end": "assets/keyframes/K23-end.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "참조 이미지 준비 완료. 실제 움직임·손·얼굴 일관성은 10초 영상으로 검증 필요.",
+      "dialogue": [
+        {
+          "speaker": "S",
+          "text_ko": "제가 말해서 선배까지 곤란해지는 건…",
+          "start_seconds": 0.5,
+          "end_seconds": 4.8,
+          "mode": "on-screen"
+        },
+        {
+          "speaker": "J",
+          "text_ko": "걱정 마. 네 이름은 안 넣을게.",
+          "start_seconds": 5.2,
+          "end_seconds": 9.5,
+          "mode": "on-screen"
+        }
+      ],
+      "background_asset": "assets/backgrounds/B08.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "대화 상대",
+      "gaze_en": "Speakers alternate naturally and keep their gaze on their partner.",
+      "visible_cast": [
+        "S",
+        "J"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K24",
+      "scene_id": "S10",
+      "title": "가방을 챙겨 퇴근",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 230,
+      "timeline_end_seconds": 240,
+      "background": "B05",
+      "wardrobe": [
+        "W01"
+      ],
+      "start_ko": "이미 가방을 오른쪽 어깨에 멘 수정이가 책상 옆에 서 있다",
+      "end_ko": "가방 끈을 잡고 출구로 몸을 돌린다",
+      "camera_ko": "측면으로 1m 이동",
+      "start_en": "Sujeong already standing with black tote on RIGHT shoulder, right hand on strap, phone LEFT hand, same night office.",
+      "end_en": "Tote now hangs on her right shoulder, phone remains left hand; she turns toward the rear-right exit.",
+      "motion_en": "Track gently beside her as she grips the already-shouldered tote strap, turns toward the exit and begins leaving. No repeated bag pickup or clothing change. Candid dramatic performance only: eyes follow the specified scene target or conversation partner, NEVER the camera lens. No posing for photographer, no unexplained smile or look-back.",
+      "keyframes": {
+        "start": "assets/keyframes/K24-start.png",
+        "end": "assets/keyframes/K24-end.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "참조 이미지 준비 완료. 실제 움직임·손·얼굴 일관성은 10초 영상으로 검증 필요.",
+      "dialogue": [],
+      "background_asset": "assets/backgrounds/B05.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "출구·퇴근 방향",
+      "gaze_en": "Sujeong looks along the path toward the office exit while leaving.",
+      "visible_cast": [
+        "S"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K25",
+      "scene_id": "S10",
+      "title": "그 밤의 안심 문자",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 240,
+      "timeline_end_seconds": 250,
+      "background": "B02",
+      "wardrobe": [
+        "W01"
+      ],
+      "start_ko": "밤 회사 앞에서 걷던 수정이가 폰을 확인한다",
+      "end_ko": "수정이가 발걸음을 잠시 멈추고 문자를 읽는다",
+      "camera_ko": "옆 트래킹→0.7m 전진·얼굴과 폰",
+      "start_en": "Sujeong on same office sidewalk at night, black tote right shoulder, phone left hand at waist, walking slowly.",
+      "end_en": "She pauses near entrance light, raises phone slightly and reads with relieved but tired face; same bag and hands.",
+      "motion_en": "Short side tracking followed by 0.7m push, keep head and phone together, text added in post. Candid dramatic performance only: eyes follow the specified scene target or conversation partner, NEVER the camera lens. No posing for photographer, no unexplained smile or look-back.",
+      "keyframes": {
+        "start": "assets/keyframes/K25-start.png",
+        "end": "assets/keyframes/K25-end.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "참조 이미지 준비 완료. 실제 움직임·손·얼굴 일관성은 10초 영상으로 검증 필요.",
+      "dialogue": [],
+      "background_asset": "assets/backgrounds/B02.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "휴대폰 화면 → 퇴근길",
+      "gaze_en": "Sujeong checks her phone, then looks along her route home.",
+      "visible_cast": [
+        "S"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K26",
+      "scene_id": "S11",
+      "title": "서윤이 전하는 사고 소식",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 250,
+      "timeline_end_seconds": 260,
+      "background": "B04",
+      "wardrobe": [
+        "W02",
+        "W07"
+      ],
+      "start_ko": "수정이가 사무실에 들어서고 서윤이 오른쪽에서 다가온다",
+      "end_ko": "서윤이 사고 소식을 전하고 수정이가 걷기를 멈춰 마주 본다",
+      "camera_ko": "두 사람이 가까워지는 동작에 맞춰 같은 축에서 전진",
+      "start_en": "Morning office, Sujeong short bob in W02 blue sleeveless blouse/navy A-line skirt at viewer left has just entered, black tote RIGHT shoulder. Seoyun long hair in W07 mint blouse/sand A-line skirt at viewer right approaches, face concerned. They look at each other, not camera.",
+      "end_en": "Closer waist-up two-shot from same axis, both stopped. Seoyun on right speaks to Sujeong on left; Sujeong shocked and listening with lips closed. Tote stays on right shoulder.",
+      "motion_en": "Seoyun takes one step toward Sujeong, speaks calmly about Junseo accident; Sujeong stops walking and turns toward Seoyun. Push smoothly closer, remain on same side. No smiling at photographer.",
+      "keyframes": {
+        "start": "assets/keyframes/K26-start-seoyun.png",
+        "end": "assets/keyframes/K26-end-seoyun.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "서윤의 정식 얼굴·복장 참조를 연결해 새로 구성. 두 사람의 시선·손·좌우와 실제 영상 발화를 시험한다.",
+      "dialogue": [
+        {
+          "speaker": "Y",
+          "text_ko": "준서 대리, 출근길에 사고 났대요. 지금 응급실이래요.",
+          "start_seconds": 0.5,
+          "end_seconds": 9,
+          "mode": "on-screen"
+        }
+      ],
+      "background_asset": "assets/backgrounds/B04.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "수정이 ↔ 서윤",
+      "gaze_en": "Seoyun looks at Sujeong while delivering the news; Sujeong listens looking at her.",
+      "visible_cast": [
+        "S",
+        "Y"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K27",
+      "scene_id": "S11",
+      "title": "사고를 되묻는 수정이",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 260,
+      "timeline_end_seconds": 270,
+      "background": "B04",
+      "wardrobe": [
+        "W02",
+        "W07"
+      ],
+      "start_ko": "업무 자리 옆에 앉아 서로 바라보는 수정이 왼쪽·서윤 오른쪽의 가까운 투샷",
+      "end_ko": "수정이는 손을 내리며 서윤에게 시선을 유지하고 서윤이 답한다. 뒤쪽 빈 의자가 공간 단서로 남는다.",
+      "camera_ko": "어깨 위 투샷에서 같은 축의 작은 측면 이동과 접근",
+      "start_en": "Close seated two-shot near their work desks, Sujeong viewer left and Seoyun viewer right. Sujeong looks toward Seoyun and asks about the accident. No phone held.",
+      "end_en": "Same seated two-shot, Sujeong lowers her gesturing hands and keeps her gaze on Seoyun, who answers with concern. Empty chair remains in background.",
+      "motion_en": "Both remain seated. Sujeong asks her question with a small hand gesture, then lowers her hands naturally as Seoyun answers. Small continuous camera slide and modest tightening on the same side. Gaze remains partner-to-partner, no lens eye contact, no sudden standing or vanishing tote.",
+      "keyframes": {
+        "start": "assets/keyframes/K27-start-seoyun-r1.png",
+        "end": "assets/keyframes/K27-end-seoyun.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "서윤의 정식 얼굴·복장 참조를 연결해 새로 구성. 두 사람의 시선·손·좌우와 실제 영상 발화를 시험한다.",
+      "dialogue": [
+        {
+          "speaker": "S",
+          "text_ko": "선배가요? 많이 다쳤대요?",
+          "start_seconds": 0.5,
+          "end_seconds": 5,
+          "mode": "on-screen"
+        },
+        {
+          "speaker": "Y",
+          "text_ko": "아직 자세히는 몰라요.",
+          "start_seconds": 5.5,
+          "end_seconds": 9,
+          "mode": "on-screen"
+        }
+      ],
+      "background_asset": "assets/backgrounds/B04.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "수정이 ↔ 서윤, 뒤쪽 빈 의자는 공간 단서",
+      "gaze_en": "Both keep their gaze on their conversation partner. The empty chair stays a background clue, not a required final eyeline.",
+      "visible_cast": [
+        "S",
+        "Y"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K28",
+      "scene_id": "S12",
+      "title": "같은 비밀을 알고 있는 두 사람",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 270,
+      "timeline_end_seconds": 280,
+      "background": "B04",
+      "wardrobe": [
+        "W02",
+        "W07"
+      ],
+      "start_ko": "수정이는 책상 왼쪽에 앉고 서윤은 오른쪽에서 몸을 조금 기울여 작은 목소리로 말한다. 휴대폰 한 개는 책상 위에 화면이 위로 놓여 있다.",
+      "end_ko": "같은 좌우와 자세를 유지한 더 가까운 투샷. 수정이가 서윤의 고백을 듣고 올려다보며 되묻는다.",
+      "camera_ko": "같은 축에서 천천히 접근해 두 사람의 시선과 작은 표정 변화를 보여준다",
+      "start_en": "Sujeong seated viewer left, Seoyun standing viewer right leans slightly toward her. Both hands remain separate and natural; ONE phone lies screen-up, dark screen, on the desk.",
+      "end_en": "A slightly tighter two-shot with unchanged seated Sujeong left and standing Seoyun right; Sujeong looks up at Seoyun in recognition and fear. Keep the one phone on the desk.",
+      "motion_en": "Seoyun leans slightly toward Sujeong and quietly says she personally received last night instruction. Sujeong raises her eyes to Seoyun, speaks her short question. Slow push, small natural breathing, no romantic posing, no unexplained touching.",
+      "keyframes": {
+        "start": "assets/keyframes/K28-start-seoyun.png",
+        "end": "assets/keyframes/K28-end-seoyun.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "서윤의 정식 얼굴·복장 참조를 연결해 새로 구성. 두 사람의 시선·손·좌우와 실제 영상 발화를 시험한다.",
+      "dialogue": [
+        {
+          "speaker": "Y",
+          "text_ko": "어젯밤 그 지시, 제가 받았어요.",
+          "start_seconds": 0.5,
+          "end_seconds": 5.5,
+          "mode": "on-screen"
+        },
+        {
+          "speaker": "S",
+          "text_ko": "정상으로 바꾸라는…?",
+          "start_seconds": 6,
+          "end_seconds": 9,
+          "mode": "on-screen"
+        }
+      ],
+      "background_asset": "assets/backgrounds/B04.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "수정이 ↔ 서윤",
+      "gaze_en": "Seoyun leans toward seated Sujeong and meets her gaze; both keep their attention on their conversation.",
+      "visible_cast": [
+        "S",
+        "Y"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K29",
+      "scene_id": "S12",
+      "title": "평범한 말이 다르게 들린다",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 280,
+      "timeline_end_seconds": 290,
+      "background": "B04",
+      "wardrobe": [
+        "W02",
+        "W05"
+      ],
+      "start_ko": "한진우가 오른쪽 뒤에서 다가오고 수정이는 앉아 있다",
+      "end_ko": "한진우가 책상 옆에서 말하고 수정이가 경직된다",
+      "camera_ko": "두 사람을 계속 포함하며 0.7m 슬라이드",
+      "start_en": "Han near rear-right entrance approaching Sujeong seated left at desk, W02 for her and W05 for him; her phone remains left hand.",
+      "end_en": "Han now beside right edge of her desk, speaking normally; Sujeong looks up tense, both visible.",
+      "motion_en": "Slide 0.7m to tighten the same two-shot, keep both identities on screen. No villain smile, no threatening gesture. Candid dramatic performance only: eyes follow the specified scene target or conversation partner, NEVER the camera lens. No posing for photographer, no unexplained smile or look-back.",
+      "keyframes": {
+        "start": "assets/keyframes/K29-start.png",
+        "end": "assets/keyframes/K29-end.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "참조 이미지 준비 완료. 실제 움직임·손·얼굴 일관성은 10초 영상으로 검증 필요.",
+      "dialogue": [
+        {
+          "speaker": "H",
+          "text_ko": "어제 늦게까지 있던데. 오늘은 무리하지 말아요.",
+          "start_seconds": 0.5,
+          "end_seconds": 7.5,
+          "mode": "on-screen"
+        },
+        {
+          "speaker": "S",
+          "text_ko": "…네.",
+          "start_seconds": 8,
+          "end_seconds": 9.5,
+          "mode": "on-screen"
+        }
+      ],
+      "background_asset": "assets/backgrounds/B04.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "수정이 ↔ 한 실장",
+      "gaze_en": "Han addresses Sujeong; Sujeong responds toward him, not the lens.",
+      "visible_cast": [
+        "S",
+        "H"
+      ],
+      "offscreen_cast": []
+    },
+    {
+      "id": "K30",
+      "scene_id": "S12",
+      "title": "왜 하필 오늘",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 290,
+      "timeline_end_seconds": 300,
+      "background": "B04",
+      "wardrobe": [
+        "W02"
+      ],
+      "start_ko": "수정이가 폰을 든 채 고개를 낮추고 있다",
+      "end_ko": "수정이가 기획실 방향으로 시선을 들어 불안한 얼굴을 보여준다",
+      "camera_ko": "얼굴에 0.8m 전진·20도 작은 아크",
+      "start_en": "Sujeong alone seated at same desk, phone in left hand lowered, looking down, empty Junseo desk softly in background.",
+      "end_en": "Closer face view, Sujeong raises eyes toward the corridor entrance, anxious realization without certainty; same desk geometry.",
+      "motion_en": "Slow 0.8m push combined with shallow 20-degree arc on same desk side. Natural breath and eye movement, do not end on a duplicate still or suddenly switch to door-only frame. Candid dramatic performance only: eyes follow the specified scene target or conversation partner, NEVER the camera lens. No posing for photographer, no unexplained smile or look-back.",
+      "keyframes": {
+        "start": "assets/keyframes/K30-start.png",
+        "end": "assets/keyframes/K30-end.png"
+      },
+      "video_status": "not_submitted",
+      "edit_connection": "hard cut to next planned shot; no forced interpolation across different camera angles",
+      "qa_note_ko": "참조 이미지 준비 완료. 실제 움직임·손·얼굴 일관성은 10초 영상으로 검증 필요.",
+      "dialogue": [
+        {
+          "speaker": "S",
+          "text_ko": "왜 하필 오늘…",
+          "start_seconds": 3,
+          "end_seconds": 6,
+          "mode": "on-screen"
+        }
+      ],
+      "background_asset": "assets/backgrounds/B04.png",
+      "keyframes_status": "generated_reference_pair; video motion and speech not tested",
+      "gaze_target_ko": "한 실장이 떠난 복도 방향",
+      "gaze_en": "Sujeong looks toward the corridor Han used, off-camera rather than into the lens.",
+      "visible_cast": [
+        "S"
+      ],
+      "offscreen_cast": []
+    }
+  ],
+  "voice_samples": 0,
+  "duration_validation": "30 planned shots x approximately 10s = 300s source target, not an edited five-minute film; motion and speech untested",
+  "background_images_status": "8 selected location masters generated; B06/B07 night corrections selected",
+  "new_character_wardrobes": [
+    "W06",
+    "W07",
+    "W08",
+    "W09",
+    "W10",
+    "W11",
+    "W12",
+    "W13"
+  ],
+  "new_character_angles": [
+    "assets/angles/Y-000.png",
+    "assets/angles/Y-045.png",
+    "assets/angles/Y-090.png",
+    "assets/angles/Y-135.png",
+    "assets/angles/Y-180.png",
+    "assets/angles/Y-225.png",
+    "assets/angles/Y-270-r1.png",
+    "assets/angles/Y-315-r1.png"
+  ],
+  "character_wardrobe_map": {
+    "W01": "S",
+    "W02": "S",
+    "W03": "S",
+    "W04": "J",
+    "W05": "H",
+    "W06": "Y",
+    "W07": "Y",
+    "W08": "Y",
+    "W09": "Y",
+    "W10": "Y",
+    "W11": "Y",
+    "W12": "Y",
+    "W13": "Y"
+  },
+  "gaze_policy": "촬영 카메라는 관찰자. 인물은 대화 상대·문틈·작업 대상·걷는 방향을 본다. 얼굴 기준/의상/각도 참조와 서사 키프레임을 혼용하지 않는다."
+}

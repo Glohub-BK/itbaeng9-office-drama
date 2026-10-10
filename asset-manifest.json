@@ -1,0 +1,1201 @@
+{
+  "revision": "04",
+  "selected_assets": [
+    {
+      "id": "W01",
+      "group": "wardrobe",
+      "title": "수정이 · 첫날 H라인",
+      "path": "assets/wardrobe/W01.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "d33b6ad001d2b1dcc4efea883efd7ff34037196cc2b311232b35e4f8b11c06a7",
+      "bytes": 1723085
+    },
+    {
+      "id": "W02",
+      "group": "wardrobe",
+      "title": "수정이 · 다음 날 A라인",
+      "path": "assets/wardrobe/W02.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "a666dac2e1ae45a0ed24b7b563a026936d41cd8decdbd33cc50be6b602bd7a39",
+      "bytes": 1729605
+    },
+    {
+      "id": "W03",
+      "group": "wardrobe",
+      "title": "수정이 · 여름 비교 코디",
+      "path": "assets/wardrobe/W03.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "d9619b93a34067db65e060bedcf18c8a4335135e1715e410ee2439e9484b923d",
+      "bytes": 1728729
+    },
+    {
+      "id": "W04",
+      "group": "wardrobe",
+      "title": "윤준서 · 여름 선배룩",
+      "path": "assets/wardrobe/W04.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "b76e260380533a2ea0d9b4d2382b4a2db856f263df72c40b3f9c5c9e9fd5b819",
+      "bytes": 1828405
+    },
+    {
+      "id": "W05",
+      "group": "wardrobe",
+      "title": "한진우 · 여름 기획실장",
+      "path": "assets/wardrobe/W05.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "db8307ca91ab4bba10c7a68c8e164119ef60d3808547365fdd7e9768afeddf8c",
+      "bytes": 1799531
+    },
+    {
+      "id": "W06",
+      "group": "wardrobe",
+      "title": "서윤 · 첫날 로즈 H라인",
+      "path": "assets/wardrobe/W06.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "21137794a4c288ea25fc0dbb0f8aac4cd78968179a72f85ffecafc17a315d197",
+      "bytes": 1732050
+    },
+    {
+      "id": "W07",
+      "group": "wardrobe",
+      "title": "서윤 · 다음 날 민트 A라인",
+      "path": "assets/wardrobe/W07.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "1b3595eca83b8d9450d7e748a8b640bbb99b7af3b4d1c3f99b5ca019533ea308",
+      "bytes": 1732218
+    },
+    {
+      "id": "W08",
+      "group": "wardrobe",
+      "title": "서윤 · 화이트·네이비",
+      "path": "assets/wardrobe/W08.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "fdb208f8fafa63943ba6aacd208a798e0ad7dccc154987138e3dbb9322d2f481",
+      "bytes": 1779339
+    },
+    {
+      "id": "W09",
+      "group": "wardrobe",
+      "title": "서윤 · 라벤더 플레어",
+      "path": "assets/wardrobe/W09.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "57421227f7fdf9c74f84430c1a833547f890ebc16ddf1afb25e6e83a9d77ca12",
+      "bytes": 1761461
+    },
+    {
+      "id": "W10",
+      "group": "wardrobe",
+      "title": "서윤 · 베이지 랩 스커트",
+      "path": "assets/wardrobe/W10.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "24b1ccd2a4cdc77dc1e0395fce2d05a5bb841a5f2bcaf6dccc5d2d7b309fcf5c",
+      "bytes": 1777817
+    },
+    {
+      "id": "W11",
+      "group": "wardrobe",
+      "title": "서윤 · 블루 플리츠",
+      "path": "assets/wardrobe/W11.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "aff15e88aac7d817bd219b896fdc76ef4d88416b9631d09db9a04aeeafd57755",
+      "bytes": 1708895
+    },
+    {
+      "id": "W12",
+      "group": "wardrobe",
+      "title": "서윤 · 코랄 미디",
+      "path": "assets/wardrobe/W12.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "360aee0324312b2c5ac06ccf79dbca0b0b70a6da0884a1c91901f61bda5e5467",
+      "bytes": 1811439
+    },
+    {
+      "id": "W13",
+      "group": "wardrobe",
+      "title": "서윤 · 세이지 A라인",
+      "path": "assets/wardrobe/W13.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "c0c2055f8e163c4afcee76969b36be2b824df898b584761a3807863893836341",
+      "bytes": 1776161
+    },
+    {
+      "id": "Y-view-000",
+      "group": "angle",
+      "title": "서윤 · 정면",
+      "path": "assets/angles/Y-000.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "55e408a998311d55bdb7d6b497f6e39bf1b81dcbb142c5c44452435e1c59b93e",
+      "bytes": 1734059
+    },
+    {
+      "id": "Y-view-045",
+      "group": "angle",
+      "title": "서윤 · 좌측 45도",
+      "path": "assets/angles/Y-045.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "8e5237a60ae0ddb9e24a44919a598f62b914753809a4965ad21c09e83f1f9017",
+      "bytes": 1729330
+    },
+    {
+      "id": "Y-view-090",
+      "group": "angle",
+      "title": "서윤 · 좌측면",
+      "path": "assets/angles/Y-090.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "b1acce023e1db34086fca9a83a6853950973cd8ab008eba2421992906468005e",
+      "bytes": 1692714
+    },
+    {
+      "id": "Y-view-135",
+      "group": "angle",
+      "title": "서윤 · 좌후면 45도",
+      "path": "assets/angles/Y-135.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "5850a59c287f5a94e17322e30b3c19d5569250622ea57fea5b02172be1b6df93",
+      "bytes": 1692893
+    },
+    {
+      "id": "Y-view-180",
+      "group": "angle",
+      "title": "서윤 · 후면",
+      "path": "assets/angles/Y-180.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "9470008cba5ff88c5f8b3bc888e2cbf39dd1477e5cda774217674e8ae740351f",
+      "bytes": 1697918
+    },
+    {
+      "id": "Y-view-225",
+      "group": "angle",
+      "title": "서윤 · 우후면 45도",
+      "path": "assets/angles/Y-225.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "00cf1fee38baa8f39c145b2e513dddf07157e829ac24a5def84ca9b87b98d044",
+      "bytes": 1712484
+    },
+    {
+      "id": "Y-view-270-r1",
+      "group": "angle",
+      "title": "서윤 · 우측면 · 방향 보정",
+      "path": "assets/angles/Y-270-r1.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "456b93a575cb936b42d54fc7a0a60c4b08e63a1a1239dacc0df874ce6d312f53",
+      "bytes": 1663444
+    },
+    {
+      "id": "Y-view-315-r1",
+      "group": "angle",
+      "title": "서윤 · 우측 45도 · 방향 보정",
+      "path": "assets/angles/Y-315-r1.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "416952197eca4d916fdab89a1b22d38f29e251af74ed768c84626deb3fc9dcee",
+      "bytes": 1707517
+    },
+    {
+      "id": "Y-master",
+      "group": "identity",
+      "title": "서윤 · 얼굴 기준",
+      "path": "assets/identity/seoyun-master.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "386653332fdcfa2ea2f8d6e5b7f812605da14334385d8e0b3e49af3e074904d4",
+      "bytes": 2274434
+    },
+    {
+      "id": "B01",
+      "group": "background",
+      "title": "회사 앞 · 여름 아침",
+      "path": "assets/backgrounds/B01.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "7d4158730f44c94e8da83e0d1c98148a545f592aba0241e24249d4954776a4b0",
+      "bytes": 3252931
+    },
+    {
+      "id": "B03",
+      "group": "background",
+      "title": "회사 로비",
+      "path": "assets/backgrounds/B03.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "69618f7498805ee627ce9ea05946e7887c9c010e108a489e3a26b1fbd0234ee9",
+      "bytes": 2189716
+    },
+    {
+      "id": "B04",
+      "group": "background",
+      "title": "공용 사무실 · 낮",
+      "path": "assets/backgrounds/B04.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "30f4616f40aa211c9b69a3f704467d7d04ebfffa8a112e40e4058d4588c443bb",
+      "bytes": 2612060
+    },
+    {
+      "id": "B05",
+      "group": "background",
+      "title": "공용 사무실 · 야근",
+      "path": "assets/backgrounds/B05.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "28e487baa51b0e486ecfb67d4c0d047ceb7402d21bc4c4c8741af838e41447c9",
+      "bytes": 2367858
+    },
+    {
+      "id": "B06-r1",
+      "group": "background-correction",
+      "title": "기획실 앞 복도 · 밤",
+      "path": "assets/backgrounds/B06-r1.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "cc09ad0dbffb9e72ff98e80cc4a2692ce72fc481e635e7d2a8ca491cff0ab360",
+      "bytes": 1854442
+    },
+    {
+      "id": "B07-r1",
+      "group": "background-correction",
+      "title": "기획실 내부 · 밤",
+      "path": "assets/backgrounds/B07-r1.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "71bb87d2776a5cb6e404ef72cb2c95e6346a927c0fe87699bec2f4858863719d",
+      "bytes": 1986026
+    },
+    {
+      "id": "B08",
+      "group": "background",
+      "title": "회사 휴게실 · 밤",
+      "path": "assets/backgrounds/B08.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "ebb9c89927558f4505f0691a8698f0518dbbdd904cde4e23884123b47963c554",
+      "bytes": 2107614
+    },
+    {
+      "id": "B02",
+      "group": "background",
+      "title": "회사 앞 · 여름 밤",
+      "path": "assets/backgrounds/B02.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "26c9aa8b6af5821b08190a341d0d24eb02f4cec3c5b65b7d398965b52bd953d5",
+      "bytes": 2816972
+    },
+    {
+      "id": "K01-start-gaze",
+      "group": "gaze-correction",
+      "title": "출근길 워킹 · 시작 시선 보정",
+      "path": "assets/keyframes/K01-start-gaze.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "2cda9716f33c985fc336969d00f15e5e10351945c3faaa65daa6adabbbcd6fc5",
+      "bytes": 2518112
+    },
+    {
+      "id": "K01-end-gaze",
+      "group": "gaze-correction",
+      "title": "출근길 워킹 · 끝 시선 보정",
+      "path": "assets/keyframes/K01-end-gaze.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "739bdf15ec1a6158533d8367775831bb667744cf61febb11c999686d7bf89d3f",
+      "bytes": 2181650
+    },
+    {
+      "id": "K02-start",
+      "group": "keyframe",
+      "title": "커피를 받고 입구로 · 시작",
+      "path": "assets/keyframes/K02-start.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "6ec9d790cce67078f8db110408f5839ba4e56474e57cc9327142fa0ff661f67f",
+      "bytes": 2455669
+    },
+    {
+      "id": "K02-end",
+      "group": "keyframe",
+      "title": "커피를 받고 입구로 · 끝",
+      "path": "assets/keyframes/K02-end.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "c15d9d9c003cc1597a0ac6a4b04f209740269e3b8f8f9e03ad2e4454c6f80296",
+      "bytes": 2450799
+    },
+    {
+      "id": "K03-start",
+      "group": "keyframe",
+      "title": "로비에서 선배 인사 · 시작",
+      "path": "assets/keyframes/K03-start.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "6059589739d620df391c0581d0a9055466598960c18a9959bcc96d7ecdced68b",
+      "bytes": 2061577
+    },
+    {
+      "id": "K03-end",
+      "group": "keyframe",
+      "title": "로비에서 선배 인사 · 끝",
+      "path": "assets/keyframes/K03-end.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "b716b459224a8eb6dcac25316b1d205500d6e64335f1433879a159d23fb278d3",
+      "bytes": 2096532
+    },
+    {
+      "id": "K04-start",
+      "group": "keyframe",
+      "title": "다정한 선배의 응답 · 시작",
+      "path": "assets/keyframes/K04-start.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "2f6666f08206247de54a3ff0ed434ba44584b65d324d1eb42296537e6fe6081d",
+      "bytes": 1998599
+    },
+    {
+      "id": "K04-end",
+      "group": "keyframe",
+      "title": "다정한 선배의 응답 · 끝",
+      "path": "assets/keyframes/K04-end.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "81c93d257466b1dcc6a77f6175aac65e8567bc8c4661bde8437612315fbcae56",
+      "bytes": 1943204
+    },
+    {
+      "id": "K05-start-gaze",
+      "group": "gaze-correction",
+      "title": "평범한 자리로 · 시작 시선 보정",
+      "path": "assets/keyframes/K05-start-gaze.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "97ad7423755ffc786d9a9d9e785d3d0495b66a80bfe13ca98f1227a64437eda0",
+      "bytes": 2184615
+    },
+    {
+      "id": "K05-end",
+      "group": "keyframe",
+      "title": "평범한 자리로 · 끝",
+      "path": "assets/keyframes/K05-end.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "694279b08a6aacfb69f6da6114d8d53d72fdabdf40e244a7a1d286230da372e6",
+      "bytes": 2265783
+    },
+    {
+      "id": "K06-start",
+      "group": "keyframe",
+      "title": "업무 자료 전달 · 시작",
+      "path": "assets/keyframes/K06-start.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "78954df9b87ea3320a30e1a14fa5e2687ec341a19999dd707fc5ba7fd8546ef3",
+      "bytes": 2171374
+    },
+    {
+      "id": "K06-end",
+      "group": "keyframe",
+      "title": "업무 자료 전달 · 끝",
+      "path": "assets/keyframes/K06-end.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "6382358c7989f02d99c6a2a8df65e780a5a8b49b5e8cbdf323df51274c32bb60",
+      "bytes": 2120509
+    },
+    {
+      "id": "K07-start",
+      "group": "keyframe",
+      "title": "상사의 평범한 인사 · 시작",
+      "path": "assets/keyframes/K07-start.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "7e5c225d8926c14ca9a06c9d9d8a4c00e71b67acb61a00a72d65788129eda7b1",
+      "bytes": 2211592
+    },
+    {
+      "id": "K07-end",
+      "group": "keyframe",
+      "title": "상사의 평범한 인사 · 끝",
+      "path": "assets/keyframes/K07-end.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "57d2bed606a8bf965d02652a053112e3ce95d10651b3ed7d3713bfa4ae27944b",
+      "bytes": 2178169
+    },
+    {
+      "id": "K08-start",
+      "group": "keyframe",
+      "title": "야근의 피로 · 시작",
+      "path": "assets/keyframes/K08-start.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "5a0ae49e0a2f7cde5d73c5dd0a9967edd35491c60a47968123a6efa5155e4951",
+      "bytes": 2126434
+    },
+    {
+      "id": "K08-end",
+      "group": "keyframe",
+      "title": "야근의 피로 · 끝",
+      "path": "assets/keyframes/K08-end.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "728fa69e0341583c7e4f94c1d298da954429fd68225a05cbfe14d8c4a28fa489",
+      "bytes": 2024840
+    },
+    {
+      "id": "K09-start-gaze-r1",
+      "group": "gaze-correction",
+      "title": "화장실로 잠시 이동 · 시작 시선 보정",
+      "path": "assets/keyframes/K09-start-gaze-r1.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "aaedd3530c6366dbde8131c1d274fb2ddddf5d330c8f25c145323b661f433361",
+      "bytes": 2057693
+    },
+    {
+      "id": "K09-end-gaze",
+      "group": "gaze-correction",
+      "title": "화장실로 잠시 이동 · 끝 시선 보정",
+      "path": "assets/keyframes/K09-end-gaze.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "a5b84480686355edd5cd11df17a865d783a9be9660a1c9b41601a8a7557960ee",
+      "bytes": 2136500
+    },
+    {
+      "id": "K10-start-gaze",
+      "group": "gaze-correction",
+      "title": "화장실 방향 동선 · 시작 시선 보정",
+      "path": "assets/keyframes/K10-start-gaze.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "1649f83f28b58d5602ebaef3e53ae183a313bc1c7f8f6138036021a04ab69cb6",
+      "bytes": 1768560
+    },
+    {
+      "id": "K10-end-gaze",
+      "group": "gaze-correction",
+      "title": "화장실 방향 동선 · 끝 시선 보정",
+      "path": "assets/keyframes/K10-end-gaze.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "7557dd0d6cc96cd42d01bfcd5a13ab83977ff64801acb2a7fc13e0cbb1f32fa1",
+      "bytes": 1765685
+    },
+    {
+      "id": "K11-start-gaze",
+      "group": "gaze-correction",
+      "title": "말소리에 멈추다 · 시작 시선 보정",
+      "path": "assets/keyframes/K11-start-gaze.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "e80503ee6fb7cfe43fea9c90f66aa20a1b652d75ae77b0ede08b7320c7a06260",
+      "bytes": 1810978
+    },
+    {
+      "id": "K11-end-r1",
+      "group": "keyframe-correction",
+      "title": "말소리에 멈추다 · 끝",
+      "path": "assets/keyframes/K11-end-r1.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "8f7109a3c79a5f9a11d33da9efa8a6f6b826d3405fe6a6b2330176a46f595f8c",
+      "bytes": 2089924
+    },
+    {
+      "id": "K12-start-seoyun",
+      "group": "scene-update",
+      "title": "한 실장의 지시를 받는 서윤 · start",
+      "path": "assets/keyframes/K12-start-seoyun.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "ffec6d968e1c54e35b75fccf79c99313d232c7fe3bb27036481766cfafe640f3",
+      "bytes": 1947863
+    },
+    {
+      "id": "K12-end-seoyun",
+      "group": "scene-update",
+      "title": "한 실장의 지시를 받는 서윤 · end",
+      "path": "assets/keyframes/K12-end-seoyun.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "9693107b709807281d075725702a0d7676317d52e237db57b0d215f0f5e480e4",
+      "bytes": 1796046
+    },
+    {
+      "id": "K13-start-gaze",
+      "group": "gaze-correction",
+      "title": "문 밖에서 듣는 수정이 · 시작 시선 보정",
+      "path": "assets/keyframes/K13-start-gaze.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "28e9580c470d6fcb88e92e66ac69e1de54d36277559295819c7cc98ad5b22a36",
+      "bytes": 1727508
+    },
+    {
+      "id": "K13-end-gaze",
+      "group": "gaze-correction",
+      "title": "문 밖에서 듣는 수정이 · 끝 시선 보정",
+      "path": "assets/keyframes/K13-end-gaze.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "f2fd8593be2ce426a96d79b993d2dff83d37ca4274026369416a60ed267f2f3a",
+      "bytes": 1892071
+    },
+    {
+      "id": "K14-start",
+      "group": "keyframe",
+      "title": "안전점검 질문 · 시작",
+      "path": "assets/keyframes/K14-start.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "40fbe376949ebf040788f52bbcf5bd75c388aa3abf12901afac1342188c0c050",
+      "bytes": 1721568
+    },
+    {
+      "id": "K14-end",
+      "group": "keyframe",
+      "title": "안전점검 질문 · 끝",
+      "path": "assets/keyframes/K14-end.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "2607032ae9e0a45e9e4a979a68503d100400623451311a710073494e7ab6c519",
+      "bytes": 1764827
+    },
+    {
+      "id": "K15-start",
+      "group": "keyframe",
+      "title": "위험한 내용을 이해하다 · 시작",
+      "path": "assets/keyframes/K15-start.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "1f629a1cd149954a731c834b88037c288190b724dd0d83947e7bd34996590c70",
+      "bytes": 1906021
+    },
+    {
+      "id": "K15-end",
+      "group": "keyframe",
+      "title": "위험한 내용을 이해하다 · 끝",
+      "path": "assets/keyframes/K15-end.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "e343fcb9518fbafbb848543ee37b01a1f8898da30e23910983a9bc79da173ce7",
+      "bytes": 1807684
+    },
+    {
+      "id": "K16-start-gaze",
+      "group": "gaze-correction",
+      "title": "조용히 돌아서다 · 시작 시선 보정",
+      "path": "assets/keyframes/K16-start-gaze.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "dfeea171895c12b1c7e633916197216b7b1fd409f86d6b0d0ebabf33f4e1a1be",
+      "bytes": 1775198
+    },
+    {
+      "id": "K16-end-gaze",
+      "group": "gaze-correction",
+      "title": "조용히 돌아서다 · 끝 시선 보정",
+      "path": "assets/keyframes/K16-end-gaze.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "3f9ef1de581192971710afc8dab072ba35ad2528aafca5460ebc0810555551fa",
+      "bytes": 1817593
+    },
+    {
+      "id": "K17-start-gaze",
+      "group": "gaze-correction",
+      "title": "선배에게 연락 · 시작 시선 보정",
+      "path": "assets/keyframes/K17-start-gaze.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "61cd5c999456b8b9a1536470015b8affdb67e1c5b447d0002d73c257f6cf29a0",
+      "bytes": 1795002
+    },
+    {
+      "id": "K17-end",
+      "group": "keyframe",
+      "title": "선배에게 연락 · 끝",
+      "path": "assets/keyframes/K17-end.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "17191591903396e5393d8fedbc274c25342558ef1141f8fbd7eab7bd42788f3b",
+      "bytes": 2063636
+    },
+    {
+      "id": "K18-start",
+      "group": "keyframe",
+      "title": "휴게실로 들어서다 · 시작",
+      "path": "assets/keyframes/K18-start.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "71bba8d3157f6d431e14619223b43097a2f8031854d10c26dbbf60d765cc2981",
+      "bytes": 2077265
+    },
+    {
+      "id": "K18-end",
+      "group": "keyframe",
+      "title": "휴게실로 들어서다 · 끝",
+      "path": "assets/keyframes/K18-end.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "8b92079a064f160bd37f74203f60beb7a45a03ee88a35286835aecfe084c2d3f",
+      "bytes": 2033060
+    },
+    {
+      "id": "K19-start",
+      "group": "keyframe",
+      "title": "수정이의 고백 · 시작",
+      "path": "assets/keyframes/K19-start.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "1e008ac7b055105260ea85ae7a31a0a725fcf30c3e71e74275e1be1ca09358a7",
+      "bytes": 2119772
+    },
+    {
+      "id": "K19-end",
+      "group": "keyframe",
+      "title": "수정이의 고백 · 끝",
+      "path": "assets/keyframes/K19-end.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "bc28aa5f769e52478b7a406114b86e8b7624f801e694a02f7744806078ae1520",
+      "bytes": 2004501
+    },
+    {
+      "id": "K20-start",
+      "group": "keyframe",
+      "title": "선배의 확인 질문 · 시작",
+      "path": "assets/keyframes/K20-start.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "ca1f4de2ccef6bac7648b2989bec112d5334c0160b3dd8eefd26635cc7a8ae5f",
+      "bytes": 1987608
+    },
+    {
+      "id": "K20-end",
+      "group": "keyframe",
+      "title": "선배의 확인 질문 · 끝",
+      "path": "assets/keyframes/K20-end.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "63c175366ee2e717b653dba69d6d8353f75d80500636ca6f200005f8df67a780",
+      "bytes": 2005383
+    },
+    {
+      "id": "K21-start",
+      "group": "keyframe",
+      "title": "잘못 들은 것이 아니다 · 시작",
+      "path": "assets/keyframes/K21-start.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "a3d76884bf56718e7690988cfcc218e9fe57d1f06d4b82c7d6870ff76ddf0198",
+      "bytes": 2083693
+    },
+    {
+      "id": "K21-end",
+      "group": "keyframe",
+      "title": "잘못 들은 것이 아니다 · 끝",
+      "path": "assets/keyframes/K21-end.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "5655a2a2aba5e0edccd0beea77e6ba88421cc8ab060432d5a829a52282ba7bc2",
+      "bytes": 2154019
+    },
+    {
+      "id": "K22-start",
+      "group": "keyframe",
+      "title": "내일 보고하겠다는 약속 · 시작",
+      "path": "assets/keyframes/K22-start.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "22a5004ccdb1215cb19ce54f8e1f9cf32ff470a262a1c83228020de8f0405f5d",
+      "bytes": 1973134
+    },
+    {
+      "id": "K22-end",
+      "group": "keyframe",
+      "title": "내일 보고하겠다는 약속 · 끝",
+      "path": "assets/keyframes/K22-end.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "c1079314b5701023b62d5023e5b5ef64683897849a58af913f56c80d081d49c8",
+      "bytes": 1934879
+    },
+    {
+      "id": "K23-start",
+      "group": "keyframe",
+      "title": "걱정을 안심시키다 · 시작",
+      "path": "assets/keyframes/K23-start.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "6a34360d914a105115ed9848d7ac8d0774e233f68c0de57843a546e119abdbfe",
+      "bytes": 2051265
+    },
+    {
+      "id": "K23-end",
+      "group": "keyframe",
+      "title": "걱정을 안심시키다 · 끝",
+      "path": "assets/keyframes/K23-end.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "1992bcfebefe337d516099f6e42adcc50599bf10b84b9b5be6fa9bc4e98331fe",
+      "bytes": 2003272
+    },
+    {
+      "id": "K24-start",
+      "group": "keyframe",
+      "title": "가방을 챙겨 퇴근 · 시작",
+      "path": "assets/keyframes/K24-start.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "de78abc4f93edaec0d2d0c1924c14f2944184d7b9c2f3c641ded00174a934368",
+      "bytes": 2306002
+    },
+    {
+      "id": "K24-end",
+      "group": "keyframe",
+      "title": "가방을 챙겨 퇴근 · 끝",
+      "path": "assets/keyframes/K24-end.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "104375c6c789cce91133b9d0a68855e96a5bf52738fb6dcc9f80941731fdfef1",
+      "bytes": 2181377
+    },
+    {
+      "id": "K25-start",
+      "group": "keyframe",
+      "title": "그 밤의 안심 문자 · 시작",
+      "path": "assets/keyframes/K25-start.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "fb4354bfae35529b024918580158af89c1dda29e49ead264a259b17886ee56cb",
+      "bytes": 2344695
+    },
+    {
+      "id": "K25-end",
+      "group": "keyframe",
+      "title": "그 밤의 안심 문자 · 끝",
+      "path": "assets/keyframes/K25-end.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "6803b9a652730ef32e9500a8ffcf07025bd9e2028f8a6dae9e7842e5d825ccb0",
+      "bytes": 2110310
+    },
+    {
+      "id": "K26-start-seoyun",
+      "group": "scene-update",
+      "title": "서윤이 전하는 사고 소식 · start",
+      "path": "assets/keyframes/K26-start-seoyun.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "1fd6d8a7249205ccdbfeaa8860f345572648e2e231399fb88d8fe010a9fa99ec",
+      "bytes": 2222233
+    },
+    {
+      "id": "K26-end-seoyun",
+      "group": "scene-update",
+      "title": "서윤이 전하는 사고 소식 · end",
+      "path": "assets/keyframes/K26-end-seoyun.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "18ed66061067c7cb8aabdf40452969022e0d6cf690076e0ba4de5250cdb83796",
+      "bytes": 2182512
+    },
+    {
+      "id": "K27-start-seoyun-r1",
+      "group": "scene-update",
+      "title": "사고를 되묻는 수정이 · start · 얼굴 중심 재요청",
+      "path": "assets/keyframes/K27-start-seoyun-r1.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "2ab76b3c633625cf5008343f89fcf348364723bb530264c919aad7e13517a4b1",
+      "bytes": 2041807
+    },
+    {
+      "id": "K27-end-seoyun",
+      "group": "scene-update",
+      "title": "사고를 되묻는 수정이 · end",
+      "path": "assets/keyframes/K27-end-seoyun.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "c4137a1a3214519a8095aab10cfb8763d80fc81188a1fb850a7e1144b9647add",
+      "bytes": 2047594
+    },
+    {
+      "id": "K28-start-seoyun",
+      "group": "scene-update",
+      "title": "같은 비밀을 알고 있는 두 사람 · start",
+      "path": "assets/keyframes/K28-start-seoyun.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "719abdd05a016391cab8175a0f1c3f00aa0a7ff6d6b43c2e1099d495626e9e24",
+      "bytes": 2054101
+    },
+    {
+      "id": "K28-end-seoyun",
+      "group": "scene-update",
+      "title": "같은 비밀을 알고 있는 두 사람 · end",
+      "path": "assets/keyframes/K28-end-seoyun.png",
+      "origin_revision": "04",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "543461abf99f4fe9e6292d5df9724ddf82de283e494c9e85c68f83a9b235f383",
+      "bytes": 2070990
+    },
+    {
+      "id": "K29-start",
+      "group": "keyframe",
+      "title": "평범한 말이 다르게 들린다 · 시작",
+      "path": "assets/keyframes/K29-start.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "4e7fa96648795bba1b19571824578005996b4317b6c8906feb94bb85004b31f1",
+      "bytes": 2211640
+    },
+    {
+      "id": "K29-end",
+      "group": "keyframe",
+      "title": "평범한 말이 다르게 들린다 · 끝",
+      "path": "assets/keyframes/K29-end.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "4e26ae1940b035cc7fa9058aab807bb2116a4bbcb55eba9ea8315ad76a4f3511",
+      "bytes": 2181927
+    },
+    {
+      "id": "K30-start",
+      "group": "keyframe",
+      "title": "왜 하필 오늘 · 시작",
+      "path": "assets/keyframes/K30-start.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "bef473ebbc52aae2421c543f41fdbb0b3e4e73a539bf6e9eb64d7dccca6d9c8c",
+      "bytes": 2025252
+    },
+    {
+      "id": "K30-end",
+      "group": "keyframe",
+      "title": "왜 하필 오늘 · 끝",
+      "path": "assets/keyframes/K30-end.png",
+      "origin_revision": "03",
+      "resolution": [
+        941,
+        1672
+      ],
+      "sha256": "7f8e7bd1324bcdf83e94458e15c425d07b87ec0958588f04391a950930204bf4",
+      "bytes": 1998761
+    }
+  ],
+  "selected_asset_count": 90,
+  "selected_current_batch_count": 38,
+  "reused_revision03_count": 52,
+  "legacy_identity_images": [
+    "assets/identity/sujeong-master.png",
+    "assets/identity/junseo-master.png",
+    "assets/identity/han-master.png"
+  ],
+  "accounting": {
+    "calls": 42,
+    "successful_outputs": 40,
+    "failed_calls": 2,
+    "failure_retry_calls": 2,
+    "quality_correction_calls": 2,
+    "superseded_successful_current_batch_count": 2,
+    "provider": "OpenAI built-in imagegen",
+    "model": "not exposed",
+    "displayed_balance": "N/A — provider does not expose a credit meter",
+    "displayed_per_run_cost": "N/A — provider does not expose a credit meter",
+    "actual_charge": "N/A — provider does not expose a credit meter",
+    "remaining_balance": "N/A — provider does not expose a credit meter",
+    "video_submissions": 0,
+    "voice_samples": 0,
+    "upscale_audio_lipsync_generations": 0
+  },
+  "status": "38 selected new images + 52 reused revision03 assets + 3 legacy face masters. All planned images prepared; video motion and speech untested."
+}
